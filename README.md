@@ -4,7 +4,7 @@
   como requisito parcial para a obtenção do título de Tecnólogo em Banco de Dados.</p>
 
 <h2>Sobre mim</h2>
-<p align="justify">Bacharel em Administracao de Empresas pelo Centro Universitário Etep e regularmente matriculado no 6º semestre do curso tecnólogo em Banco de Dados pela Faculdade de 
+<p align="justify">Graduado em Administracao de Empresas pelo Centro Universitário Etep e regularmente matriculado no 6º semestre do curso tecnólogo em Banco de Dados pela Faculdade de 
 Tecnologia de São José dos Campos.</p>
 <p align="justify">Atualmente sou Desenvolvedor Full Stack Jr no Sicoob Cressem. Responsável pela criação e administração de um sistema Web integrado ao Active Directory, utilizado por cerca de 80 usuários diários, gerando uma média de 8.000 requisições REST por dia. Administro um banco de dados com mais de 100 tabelas, garantindo a integridade dos dados, realizando backups regulares, e implementando junções e processos automáticos. Além disso, sou responsável pelos processos diários de ETL, desenvolvo backups automáticos e programas executáveis em Python, e atuo na automação de processos com RPA utilizando Python.</p>
 <p align="center">• <a href="https://www.linkedin.com/in/marcelo-silva7/">LinkedIn</a> • <a href="https://github.com/marcelosilva7">GitHub</a> •</p>
