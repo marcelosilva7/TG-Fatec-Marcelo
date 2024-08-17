@@ -1,7 +1,17 @@
 <h1>Metodologia da Pesquisa Científico Tecnológica</h1>
 
+<p align="justify">Portfólio de Aprendizagens desenvolvido a partir de Projetos Integradores (APIs), apresentado à Faculdade de Tecnologia de São José dos Campos, 
+  como requisito parcial para a obtenção do título de Tecnólogo em Banco de Dados.</p>
+
+<h2>Sobre mim</h2>
+<p align="justify">Bacharel em Administracao de Empresas pelo Centro Universitário Etep e regularmente matriculado no 6º semestre do curso tecnólogo em Banco de Dados pela Faculdade de 
+Tecnologia de São José dos Campos.</p>
+<p align="justify">Atualmente sou Desenvolvedor Full Stack Jr no Sicoob Cressem. Responsável pela criação e administração de um sistema Web integrado ao Active Directory, utilizado por cerca de 80 usuários diários, gerando uma média de 8.000 requisições REST por dia. Administro um banco de dados com mais de 100 tabelas, garantindo a integridade dos dados, realizando backups regulares, e implementando junções e processos automáticos. Além disso, sou responsável pelos processos diários de ETL, desenvolvo backups automáticos e programas executáveis em Python, e atuo na automação de processos com RPA utilizando Python.</p>
+<p align="center">• <a href="https://www.linkedin.com/in/marcelo-silva7/">LinkedIn</a> • <a href="https://github.com/marcelosilva7">GitHub</a> •</p>
+<hr>
+<h2>Meus Projetos</h2>
 <h3>Assistente Virtual Lola</h3>
-<h4>1º Semestre • 2024 </h4> 
+<h4>1º Semestre • 2022 </h4> 
 <p align="justify">Parceiro Acadêmico: <a href="https://fatecsjc-prd.azurewebsites.net/">FATEC São José dos Campos - Prof. Jessen Vidal</a></p>
 <p align="justify">Projeto desenvolvido sob orientação do professor Fabiano Sabha, desenvolvendo uma API específica para a educação infantil.</p>
 <!-- <p align="center"><img src="https://exemplo.com/imagens/assistente_virtual.png" width="20%"> foto da lola</p> -->
@@ -56,7 +66,7 @@
 <br>
 
 <h3>Aplicação PRO4TECH RH</h3>
-<h4>2º Semestre • 2024 </h4>
+<h4>2º Semestre • 2022 </h4>
 <p align="justify">Parceiro Acadêmico: <a href="https://www.pro4tech.com.br/">Pro4Tech</a></p>
 <!-- <p align="center"><img src="https://exemplo.com/imagens/pro4tech_rh.png" width="20%"></p> -->
 <p align="justify">A aplicação PRO4TECH RH foi desenvolvida como um sistema de gerenciamento de vagas de Recursos Humanos, permitindo a interação eficiente entre candidatos e oportunidades de emprego. Utilizando tecnologias avançadas, o sistema cruza dados dos candidatos com as vagas disponíveis, gerando relatórios detalhados para facilitar o processo de contratação.</p>
@@ -106,7 +116,7 @@
 <h4>Desenvolvimento de Aplicações Desktop com Java</h4>
 <p align="justify">Trabalhar com Java para criar uma aplicação desktop foi uma experiência enriquecedora que ampliou minha compreensão sobre a programação orientada a objetos e o desenvolvimento de interfaces de usuário. Aprender a manipular eventos, construir interfaces responsivas e garantir uma experiência de usuário fluida e funcional mostrou-se essencial para o sucesso do projeto. A capacidade de projetar interfaces que atendem eficazmente às necessidades dos usuários finais em ambientes corporativos melhorou significativamente, resultando em um produto mais intuitivo e acessível.</p>
 
-<h4>3º Semestre • 2024 </h4>
+<h4>3º Semestre • 2023 </h4>
 <h2>DESCRIÇÃO DO PROJETO</h2>
 <p>O foco deste projeto é desenvolver uma aplicação web destinada ao gerenciamento eficiente de vendas, abordando três aspectos fundamentais: o histórico de vendas dos vendedores, o planejamento de vendas e o registro das vendas realizadas.</p>
 <p>A funcionalidade central da aplicação reside em sua habilidade de comparar e analisar esses três conjuntos de dados de maneira detalhada e precisa. Isso possibilita uma avaliação aprofundada dos resultados das vendas, considerando tanto o histórico dos vendedores quanto os planos de vendas previamente estabelecidos.</p>
@@ -204,7 +214,7 @@
 
 
 <h3>Sistema de Gestão de Anomalias em Laudos de Inspeção Predial</h3>
-<h4>4º Semestre • 2024 </h4> 
+<h4>4º Semestre • 2023 </h4> 
 <p align="justify"><strong>Descrição do Projeto:</strong> O desafio enfrentado pela equipe da B1nary Devs consiste em desenvolver um sistema abrangente para controlar e gerenciar anomalias identificadas em Laudos de Inspeção Predial. As principais funcionalidades do sistema incluem a diferenciação de segmentos específicos de um edifício, o cadastro eficiente de prestadores de serviço, a geração e gerenciamento de ordens de serviço, além da criação de relatórios detalhados que ajudam na tomada de decisões informadas e promovem a preservação do patrimônio. Como solução, estamos desenvolvendo um sistema web que não só simplifica a gestão desses elementos, mas também incorpora uma landing page intuitiva para facilitar a solicitação de novas ordens de serviço por novos clientes através de um simples formulário. Para clientes existentes, uma landing page personalizada permitirá o fácil acesso a ordens de serviço anteriores, a capacidade de baixar laudos e fornecer feedback valioso, incluindo sugestões e reclamações. Este sistema é crucial para aprimorar a eficácia na correção de anomalias e para a gestão eficiente de infraestruturas prediais.</p>
 
 <h3>Prévia do Projeto</h3>
