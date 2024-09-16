@@ -7,7 +7,7 @@
 <p align="justify">Graduado em Administracao de Empresas pelo Centro Universitário Etep e matriculado no 6º semestre do curso tecnólogo em Banco de Dados pela Faculdade de 
 Tecnologia de São José dos Campos.</p>
 <p align="justify">Atualmente sou Desenvolvedor Full Stack Jr no Sicoob Cressem. Responsável pela criação e administração de um sistema Web integrado ao Active Directory, utilizado por cerca de 80 usuários diários, gerando uma média de 8.000 requisições REST por dia. Administro um banco de dados com mais de 100 tabelas, garantindo a integridade dos dados, realizando backups regulares, e implementando junções e processos automáticos. Além disso, sou responsável pelos processos diários de ETL, desenvolvo backups automáticos de arquivos e programas executáveis em Python, e atuo na automação de processos com RPA utilizando Python.</p>
-<p align="center">• <a href="https://www.linkedin.com/in/marcelo-silva7/">LinkedIn</a> • <a href="https://github.com/marcelosilva7">GitHub</a> •</p>
+<p align="center">• <a href="https://www.linkedin.com/in/marcelo-silva7/" target="_blank" rel="noopener noreferrer">LinkedIn</a> • <a href="https://github.com/marcelosilva7" target="_blank" rel="noopener noreferrer">GitHub</a> •</p>
 <hr>
 <h2>Meus Projetos</h2>
 <h3>Assistente Virtual Lola</h3>
