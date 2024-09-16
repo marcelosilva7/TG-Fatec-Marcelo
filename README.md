@@ -40,7 +40,6 @@ Tecnologia de São José dos Campos.</p>
   </ul>
 </details>
 
-<br>
 <h3>Tecnologias Utilizadas</h3>
 <p align="justify">As principais tecnologias incluem:</p>
 <ul>
