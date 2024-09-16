@@ -15,11 +15,16 @@ Tecnologia de São José dos Campos.</p>
 <p align="justify">Parceiro Acadêmico: <a href="https://fatecsjc-prd.azurewebsites.net/">FATEC São José dos Campos - Prof. Jessen Vidal</a></p>
 <p align="justify">Projeto desenvolvido sob orientação do professor Fabiano Sabha, desenvolvendo uma API específica para a educação infantil.</p>
 <!-- <p align="center"><img src="https://exemplo.com/imagens/assistente_virtual.png" width="20%"> foto da lola</p> -->
-<p align="justify">Lola é uma assistente virtual projetada especificamente para crianças na faixa etária de 5 a 8 anos. Ativada por comando de voz com a palavra-chave "Oi Lola", ela oferece diversas funcionalidades educativas e interativas, promovendo um ambiente de aprendizado dinâmico e envolvente.</p>
-<p align="justify">A assistente pode realizar cálculos matemáticos simples, contar histórias envolventes, configurar alarmes, traduzir frases do inglês para o português, ensinar o processo de escovação de dentes, além de oferecer jogos educativos, um dicionário e a função de soletrar palavras.</p>
-<br>
-<h3>Prévia da Solução</h3>
-<p align="justify">O assistente foi projetado para ser facilmente integrado a diferentes plataformas, oferecendo suporte a comandos totalmente via voz para uma interação natural e amigável. O foco é em funcionalidades que auxiliam no desenvolvimento educacional e na autonomia das crianças.</p>
+ <h3>Problema</h3>
+    <p>
+        Com o crescente uso da tecnologia entre as crianças, especialmente na faixa etária de 5 a 8 anos, surgem preocupações em relação ao equilíbrio entre entretenimento e aprendizado. Aplicativos e assistentes virtuais voltados para crianças nem sempre são adequados para essa faixa etária, oferecendo conteúdos complexos ou distrações pouco educativas. Além disso, muitas vezes, esses recursos não estimulam de maneira eficaz habilidades importantes, como o desenvolvimento do vocabulário, autonomia em tarefas diárias e o aprendizado de conceitos básicos, como matemática simples e noções de higiene. Outro desafio é encontrar ferramentas tecnológicas que as crianças possam utilizar de forma autônoma e segura, sem a necessidade de supervisão constante.
+    </p>
+
+<h3>Proposta de Solução</h3>
+<p>
+    A assistente virtual Lola foi projetada para enfrentar esses desafios, oferecendo uma plataforma educativa e interativa voltada especificamente para crianças de 5 a 8 anos. Ativada por comandos de voz com a palavra-chave "Oi Lola", ela permite que as crianças interajam de forma natural e intuitiva, promovendo o desenvolvimento de habilidades cognitivas e a autonomia nas tarefas diárias. Lola oferece diversas funcionalidades interativas que auxiliam no aprendizado e no desenvolvimento das crianças em um ambiente tecnológico acessível e seguro.
+</p>
+
 <details>
   <summary><b>Funcionalidades Interativas</b></summary>
   <br>
@@ -29,11 +34,12 @@ Tecnologia de São José dos Campos.</p>
     <li>Configuração de despertadores para ajudar nos estudos</li>
     <li>Tradução de inglês para português</li>
     <li>Instruções para escovação de dentes</li>
-    <li>Jogo de Pedra, Papel e tesoura</li>
+    <li>Jogo de Pedra, Papel e Tesoura</li>
     <li>Dicionário para desenvolvimento de vocabulário</li>
     <li>Soletração de palavras</li>
   </ul>
 </details>
+
 <br>
 <h3>Tecnologias Utilizadas</h3>
 <p align="justify">As principais tecnologias incluem:</p>
