@@ -6,8 +6,17 @@
 <h2>Sobre mim</h2>
 <p align="justify">Graduado em Administracao de Empresas pelo Centro Universitário Etep e matriculado no 6º semestre do curso tecnólogo em Banco de Dados pela Faculdade de 
 Tecnologia de São José dos Campos.</p>
+<p>
+    Iniciei minha carreira profissional no atendimento do Paço Municipal de São José dos Campos, onde atuava como atendente e era responsável por abrir processos administrativos. Após um ano nessa função, solicitei transferência de área e fui designado ao Banco do Povo Paulista, onde passei a realizar todo o processo de concessão de empréstimos para os clientes. Obtive bons resultados, mas, após um ano, infelizmente meu contrato chegou ao fim.
+</p>
+<p>
+    Com o início da pandemia, decidi explorar novas oportunidades e comecei a realizar transmissões ao vivo. Criei uma página no Facebook, onde fazia lives jogando games antigos. Ao longo de um ano, consegui cerca de 20 mil seguidores e, com o sucesso das transmissões, troquei meu equipamento, passando de um notebook antigo para um PC de alto desempenho. No entanto, devido à instabilidade, precisei interromper as lives para me dedicar a uma nova oportunidade de trabalho na Farma Conde.
+</p>
+<p>
+    Na Farma Conde, comecei como auxiliar de arquivo e, ao longo do tempo, passei pelos setores legal, contábil, cadastro, até chegar ao setor fiscal, onde permaneci por um ano e meio. Ao final desse período, decidi pedir demissão para focar na faculdade e buscar um estágio. Após seis meses, consegui um estágio como desenvolvedor no Sicoob Cressem.
+</p>
 <p align="justify">Atualmente sou Desenvolvedor Full Stack Jr no Sicoob Cressem. Responsável pela criação e administração de um sistema Web integrado ao Active Directory, utilizado por cerca de 80 usuários diários, gerando uma média de 8.000 requisições REST por dia. Administro um banco de dados com mais de 100 tabelas, garantindo a integridade dos dados, realizando backups regulares, e implementando junções e processos automáticos. Além disso, sou responsável pelos processos diários de ETL, desenvolvo backups automáticos de arquivos e programas executáveis em Python, e atuo na automação de processos com RPA utilizando Python.</p>
-<p align="center">• <a href="https://www.linkedin.com/in/marcelo-silva7/" target="_blank" rel="noopener noreferrer">LinkedIn</a> • <a href="https://github.com/marcelosilva7" target="_blank" rel="noopener noreferrer">GitHub</a> •</p>
+<p align="center">• <a href="https://www.linkedin.com/in/marcelo-silva7/">LinkedIn</a> • <a href="https://github.com/marcelosilva7">GitHub</a> •</p>
 <hr>
 <h2>Meus Projetos</h2>
 <h3>Assistente Virtual Lola</h3>
