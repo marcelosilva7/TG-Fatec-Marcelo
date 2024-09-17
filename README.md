@@ -77,10 +77,7 @@ Tecnologia de São José dos Campos.</p>
 <h3>Modularização e Estrutura de Código</h3>
 
 <p>A modularização foi uma estratégia adotada para melhorar a organização e a manutenibilidade do código. Ao dividir o projeto em módulos separados, cada um responsável por uma parte distinta da funcionalidade geral, pude focar em cada aspecto do sistema isoladamente. Isso facilitou a depuração, teste e expansão futura do código. A modularização ajudou na separação clara das responsabilidades dentro do aplicativo, o que é fundamental para manter a qualidade e a escalabilidade do software.</p>
-<br>
-
 <hr>
-
 <h3>Aplicação PRO4TECH RH</h3>
 <h4>2º Semestre • 2022 </h4>
 <p align="justify">Parceiro Acadêmico: <a href="https://www.pro4tech.com.br/">Pro4Tech</a></p>
@@ -99,7 +96,6 @@ O PRO4TECH RH surge como uma solução completa para enfrentar os desafios comun
 <p>
 O sistema é projetado para otimizar o processo de contratação, simplificando a tarefa de gerenciar um grande número de candidaturas e vagas de emprego. Através de uma plataforma robusta, o PRO4TECH RH facilita o registro de vagas, a candidatura de usuários e a gestão completa de todo o processo seletivo. Além disso, o uso de relatórios detalhados gera insights estratégicos que ajudam os gestores a tomar decisões mais rápidas e informadas, melhorando a qualidade da contratação.
 </p>
-
 <details>
   <summary><b>Funcionalidades do Sistema</b></summary>
   <br>
@@ -112,7 +108,6 @@ O sistema é projetado para otimizar o processo de contratação, simplificando 
     <li>Gera relatorios em PDF.</li>
   </ul>
 </details>
-<br>
 <h3>Tecnologias Utilizadas</h3>
 <p align="justify">As principais tecnologias utilizadas incluem:</p>
 <ul>
@@ -121,7 +116,6 @@ O sistema é projetado para otimizar o processo de contratação, simplificando 
   <li>JDBC para conexão com o banco de dados.</li>
   <li>Swing para a construção da interface de usuário.</li>
 </ul>
-<br>
 <h3>Contribuições Pessoais</h3>
 <p align="justify">Desempenhei um papel essencial no desenvolvimento do projeto PRO4TECH RH, sendo responsável pela criação do banco de dados e pela programação de toda a camada de back-end. Implementei as funções das classes DAO, que são cruciais para a comunicação eficiente entre a interface de usuário e o banco de dados MySQL. Além disso, desenvolvi todas as funcionalidades dos botões na interface, garantindo uma interação fluída e intuitiva para os usuários. As principais atividades que liderei incluem:</p>
 <ul>
@@ -129,7 +123,6 @@ O sistema é projetado para otimizar o processo de contratação, simplificando 
   <li><strong>Desenvolvimento das funções DAO para manipulação dos dados:</strong> Implementei classes DAO (Data Access Object) para abstrair e encapsular todas as operações de banco de dados relacionadas ao projeto. Isso incluiu a criação de métodos específicos para inserção, atualização, exclusão e recuperação de dados. A aplicação de padrões como DAO permitiu que o sistema mantivesse uma separação clara entre a lógica de negócios e a camada de acesso a dados, facilitando futuras alterações e manutenções no código.</li>
   <li><strong>Implementação das lógicas de negócio que controlam as funcionalidades dos botões:</strong> Programei a lógica por trás de cada botão na interface do usuário, garantindo que as ações desencadeadas pelos usuários fossem processadas corretamente pelo sistema. Isso envolveu a configuração de eventos de clique, validação de dados de entrada, e a execução de operações de banco de dados pertinentes. Cada funcionalidade foi cuidadosamente testada para assegurar que as operações fossem realizadas de maneira segura e eficiente, proporcionando uma experiência de usuário consistente e confiável.</li>
 </ul>
-<br>
 <h3>Lições Aprendidas</h3>
 <h4>Introdução ao Desenvolvimento de Bancos de Dados</h4>
 <p align="justify">Este projeto foi a minha iniciação ao design e implementação de bancos de dados, usando MySQL. Aprendi sobre a estruturação de tabelas, definição de chaves primárias e estrangeiras, e a importância de criar relações eficientes entre as tabelas para otimizar consultas e manter a integridade dos dados. O conhecimento adquirido foi crucial para entender como organizar grandes volumes de informações e garantir que o sistema possa recuperar, inserir e atualizar dados de forma rápida e segura.</p>
@@ -139,9 +132,7 @@ O sistema é projetado para otimizar o processo de contratação, simplificando 
 <p align="justify">A aplicação da arquitetura Model-View-Controller (MVC) no desenvolvimento de um software desktop em Java foi outro ponto alto do meu aprendizado. Compreendi como separar as responsabilidades dentro da aplicação, organizando o código de maneira que o Model gerencia a lógica de negócios e os dados, o View cuida da apresentação e interação com o usuário, e o Controller faz a mediação da entrada e saída de dados. Essa separação clara ajudou a tornar o software mais organizado, flexível e fácil de testar.</p>
 <h4>Desenvolvimento de Aplicações Desktop com Java</h4>
 <p align="justify">Trabalhar com Java para criar uma aplicação desktop foi uma experiência enriquecedora que ampliou minha compreensão sobre a programação orientada a objetos e o desenvolvimento de interfaces de usuário. Aprender a manipular eventos, construir interfaces responsivas e garantir uma experiência de usuário fluida e funcional mostrou-se essencial para o sucesso do projeto. A capacidade de projetar interfaces que atendem eficazmente às necessidades dos usuários finais em ambientes corporativos melhorou significativamente, resultando em um produto mais intuitivo e acessível.</p>
-
 <hr>
-
 <h4>3º Semestre • 2023 </h4>
 <h2>DESCRIÇÃO DO PROJETO</h2>
 <p>O foco deste projeto é desenvolver uma aplicação web destinada ao gerenciamento eficiente de vendas, abordando três aspectos fundamentais: o histórico de vendas dos vendedores, o planejamento de vendas e o registro das vendas realizadas.</p>
