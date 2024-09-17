@@ -79,18 +79,27 @@ Tecnologia de São José dos Campos.</p>
 <p>A modularização foi uma estratégia adotada para melhorar a organização e a manutenibilidade do código. Ao dividir o projeto em módulos separados, cada um responsável por uma parte distinta da funcionalidade geral, pude focar em cada aspecto do sistema isoladamente. Isso facilitou a depuração, teste e expansão futura do código. A modularização ajudou na separação clara das responsabilidades dentro do aplicativo, o que é fundamental para manter a qualidade e a escalabilidade do software.</p>
 <br>
 
+<hr>
+
 <h3>Aplicação PRO4TECH RH</h3>
 <h4>2º Semestre • 2022 </h4>
 <p align="justify">Parceiro Acadêmico: <a href="https://www.pro4tech.com.br/">Pro4Tech</a></p>
+
+ <h3>Problema</h3>
+ <p>  
+O processo de recrutamento e seleção de candidatos pode ser desafiador para empresas que gerenciam um grande volume de vagas e candidaturas. Muitos sistemas de Recursos Humanos disponíveis no mercado são complicados e ineficientes, dificultando o gerenciamento adequado de informações sobre os candidatos e as vagas. Além disso, a ausência de integração eficiente entre dados, relatórios detalhados e uma interface intuitiva pode atrasar o processo de contratação, impactando a qualidade e agilidade na seleção de talentos.
+ </p>
+
 <!-- <p align="center"><img src="https://exemplo.com/imagens/pro4tech_rh.png" width="20%"></p> -->
-<p align="justify">A aplicação PRO4TECH RH foi desenvolvida como um sistema de gerenciamento de vagas de Recursos Humanos, permitindo a interação eficiente entre candidatos e oportunidades de emprego. Utilizando tecnologias avançadas, o sistema cruza dados dos candidatos com as vagas disponíveis, gerando relatórios detalhados para facilitar o processo de contratação.</p>
-<p align="justify">Projetada para ser intuitiva e robusta, a interface facilita o cadastro de novas vagas, edição e gerenciamento por parte dos usuários de RH, bem como a aplicação dos candidatos nas vagas de interesse.</p>
-<br>
-<h3>Arquitetura do Projeto</h3>
-<!-- <p align="center"><img src="https://exemplo.com/imagens/arquitetura_pro4tech.png" width="100%"></p> -->
-<br>
-<h3>Prévia da Solução</h3>
-<p align="justify">O sistema foi construído seguindo o modelo MVC (Model-View-Controller), com Java puro e utilizando a biblioteca Swing para a interface de usuário da aplicação de desktop. O acesso e gerenciamento de dados são realizados através de JDBC conectado a um banco de dados MySQL, garantindo uma operação fluida e segura.</p>
+
+<h3>Solucao</h3>
+<p>
+O PRO4TECH RH surge como uma solução completa para enfrentar os desafios comuns no processo de recrutamento e seleção de candidatos. Ao integrar a gestão de vagas de emprego com uma interface amigável e tecnologias avançadas de cruzamento de dados, o sistema permite que equipes de Recursos Humanos tenham maior controle, agilidade e precisão em suas atividades diárias.
+</p>
+<p>
+O sistema é projetado para otimizar o processo de contratação, simplificando a tarefa de gerenciar um grande número de candidaturas e vagas de emprego. Através de uma plataforma robusta, o PRO4TECH RH facilita o registro de vagas, a candidatura de usuários e a gestão completa de todo o processo seletivo. Além disso, o uso de relatórios detalhados gera insights estratégicos que ajudam os gestores a tomar decisões mais rápidas e informadas, melhorando a qualidade da contratação.
+</p>
+
 <details>
   <summary><b>Funcionalidades do Sistema</b></summary>
   <br>
@@ -100,6 +109,7 @@ Tecnologia de São José dos Campos.</p>
     <li>Candidatura dos usuários às vagas disponíveis.</li>
     <li>Recepção de relatórios completos para o RH.</li>
     <li>Monitoramento e atualização do status das vagas por candidatos e RH.</li>
+    <li>Gera relatorios em PDF.</li>
   </ul>
 </details>
 <br>
@@ -129,6 +139,8 @@ Tecnologia de São José dos Campos.</p>
 <p align="justify">A aplicação da arquitetura Model-View-Controller (MVC) no desenvolvimento de um software desktop em Java foi outro ponto alto do meu aprendizado. Compreendi como separar as responsabilidades dentro da aplicação, organizando o código de maneira que o Model gerencia a lógica de negócios e os dados, o View cuida da apresentação e interação com o usuário, e o Controller faz a mediação da entrada e saída de dados. Essa separação clara ajudou a tornar o software mais organizado, flexível e fácil de testar.</p>
 <h4>Desenvolvimento de Aplicações Desktop com Java</h4>
 <p align="justify">Trabalhar com Java para criar uma aplicação desktop foi uma experiência enriquecedora que ampliou minha compreensão sobre a programação orientada a objetos e o desenvolvimento de interfaces de usuário. Aprender a manipular eventos, construir interfaces responsivas e garantir uma experiência de usuário fluida e funcional mostrou-se essencial para o sucesso do projeto. A capacidade de projetar interfaces que atendem eficazmente às necessidades dos usuários finais em ambientes corporativos melhorou significativamente, resultando em um produto mais intuitivo e acessível.</p>
+
+<hr>
 
 <h4>3º Semestre • 2023 </h4>
 <h2>DESCRIÇÃO DO PROJETO</h2>
