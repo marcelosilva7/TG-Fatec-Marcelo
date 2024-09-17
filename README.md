@@ -151,18 +151,34 @@ O sistema é projetado para otimizar o processo de contratação, simplificando 
 <h4>habilidade de solucionar problemas</h4>
 <p>
 Como eu era o único responsável pelo desenvolvimento do backend, tive que lidar com todos os problemas que surgiam durante o processo. Busquei ajuda de professores, tanto da faculdade quanto de fora, para superar os desafios de desenvolvimento, especialmente porque foi meu primeiro software desenvolvido em Java. Essa busca por soluções foi fundamental para o sucesso do projeto.</p>
+
+
 <hr>
 
 
-
 <h4>3º Semestre • 2023 </h4>
-<h2>DESCRIÇÃO DO PROJETO</h2>
-<p>O foco deste projeto é desenvolver uma aplicação web destinada ao gerenciamento eficiente de vendas, abordando três aspectos fundamentais: o histórico de vendas dos vendedores, o planejamento de vendas e o registro das vendas realizadas.</p>
-<p>A funcionalidade central da aplicação reside em sua habilidade de comparar e analisar esses três conjuntos de dados de maneira detalhada e precisa. Isso possibilita uma avaliação aprofundada dos resultados das vendas, considerando tanto o histórico dos vendedores quanto os planos de vendas previamente estabelecidos.</p>
-<p>Um elemento inovador do projeto é a integração de um algoritmo preexistente de Inteligência Artificial. Esse algoritmo será utilizado para gerar previsões e insights valiosos, visando aumentar a precisão e confiabilidade das análises realizadas pela aplicação.</p>
-<p>Em suma, o desafio do projeto é criar uma aplicação web que não só simplifique o gerenciamento de vendas, mas também ofereça uma análise minuciosa ao comparar o histórico dos vendedores, o planejamento de vendas e os registros de vendas efetivas. Além disso, a aplicação contará com o aprimoramento de previsões baseadas em Inteligência Artificial, melhorando significativamente o processo de tomhttps://github.com/marcelosilva7/bertoti/blob/main/Metodologia%20da%20Pesquisa%20Cientifico%20Tecnologica/README.mdada de decisões relacionadas a vendas.</p>
+<h2>Sistema de Predicao de Vendas</h2>
+<h3>Problema</h3>
+<p>O processo de gerenciamento de vendas nas empresas apresenta desafios significativos, especialmente ao lidar com três áreas críticas: histórico de vendas dos vendedores, planejamento de vendas e registros das vendas realizadas. A falta de integração entre essas informações dificulta uma análise precisa e detalhada do desempenho, tornando o processo de tomada de decisões demorado e suscetível a erros. Além disso, a ausência de ferramentas preditivas limita a capacidade de antecipar tendências e otimizar os resultados de vendas.</p>
+<h3>Solucao</h3>
+<p>A solução proposta é o desenvolvimento de uma aplicação web robusta e intuitiva para o gerenciamento de vendas, que permitirá às empresas integrar e analisar de forma eficiente três pilares fundamentais: histórico de vendas dos vendedores, planejamento de vendas e registro das vendas realizadas. A principal vantagem dessa solução é a capacidade de realizar análises comparativas entre esses conjuntos de dados, permitindo que administradores e vendedores avaliem o desempenho com precisão e em tempo real.</p>
 
-<h2>TECNOLOGIAS UTILIZADAS</h2>
+<p> Além das funcionalidades básicas de cadastro de vendedores e planejamento de vendas, a aplicação se destacará pela integração de um algoritmo de Inteligência Artificial (IA), que será utilizado para gerar previsões e insights valiosos. Isso dará aos gestores e vendedores uma visão mais clara sobre possíveis tendências e permitirá que ajustes estratégicos sejam feitos com antecedência, melhorando a eficácia das decisões relacionadas às vendas.</p>
+<details>
+  <summary><b>Funcionalidades do Sistema</b></summary>
+  <br>
+  <ul>
+    <li>Cadastro de vendedores e clientes.</li>
+    <li>Planejamento de vendas para clientes específicos.</li>
+    <li>Registro e acompanhamento de vendas realizadas.</li>
+    <li>Dashboard centralizado para administradores.</li>
+    <li>Dashboard personalizado para vendedores.</li>
+    <li>Previsões e insights gerados por Inteligência Artificial.</li>
+    <li>Geração e exportação de relatórios detalhados.</li>
+  </ul>
+</details>
+
+<h3>TECNOLOGIAS UTILIZADAS</h3>
 <ul>
     <li>JavaScript </li>
     <li>Bootstrap </li>
@@ -171,7 +187,7 @@ Como eu era o único responsável pelo desenvolvimento do backend, tive que lida
     <li>MySQL </li>
 </ul>
 
-<h2>CONTRIBUIÇÕES PESSOAIS</h2>
+<h3>CONTRIBUIÇÕES PESSOAIS</h3>
 <p>Na realização deste projeto, desempenhei um papel crucial no desenvolvimento do back-end, aplicando minhas habilidades técnicas e influenciando estrategicamente o progresso do sistema:</p>
 <ul>
     <li><strong>Desenvolvimento de Operações de CRUD para Modelos Diversos:</strong> Liderei a implementação das operações de CRUD para modelos chave como Cliente, Vendedor e Registro. Utilizei APIs RESTful para gerenciar os dados de forma eficiente, aplicando meu conhecimento aprofundado em Spring Boot e JPA para criar soluções de back-end robustas.</li>
@@ -180,7 +196,7 @@ Como eu era o único responsável pelo desenvolvimento do backend, tive que lida
     <li><strong>Implementação do RegistroConverter:</strong> Um dos desafios mais intricados que enfrentei foi o projeto e implementação do RegistroConverter. Esse componente foi vital na transformação de objetos de entidade em DTOs e vice-versa, assegurando uma transferência de dados eficiente e segura entre as camadas da aplicação. Esse trabalho me permitiu aprofundar meus conhecimentos sobre padrões DTO e práticas de segurança de dados.</li>
 </ul>
 
-<h2>APRENDIZADOS</h2>
+<h3>APRENDIZADOS</h3>
 <h3>Desenvolvimento de Operações de CRUD</h3>
 <p>Entendimento Profundo do Spring Boot e JPA: A implementação das operações de CRUD para entidades como Cliente, Vendedor e Registro exigiu que eu aprofundasse meu conhecimento no Spring Boot e na Java Persistence API (JPA). Criei repositórios sofisticados e utilizei métodos CRUD padrão, além de operações personalizadas.</p>
 <p>Modelagem de Dados e Relacionamentos: Desenvolver os modelos e estabelecer relações entre eles permitiu-me adquirir habilidades avançadas em modelagem de dados e compreender como as entidades interagem dentro do banco de dados SQL.</p>
@@ -233,7 +249,7 @@ Como eu era o único responsável pelo desenvolvimento do backend, tive que lida
 
 ![classeregistro](https://github.com/marcelosilva7/bertoti/assets/101959064/fd51b9ac-dca1-40fd-9b05-053514ada5a8)
 
-<h2>O que cada parte faz:</h2>
+<h3>O que cada parte faz:</h3>
 <ul>
     <li><strong>O Espelho Mágico (@Entity):</strong> A anotação '@Entity' diz que a nossa classe 'Registro' é um reflexo direto de uma prateleira no armário, onde cada papel é importante e precisa ser guardado com cuidado.</li>
     <li><strong>Etiqueta do Espelho (@Table):</strong> A '@Table' é como uma etiqueta no espelho que nos diz qual é o nome dessa prateleira no banco de dados.</li>
@@ -250,6 +266,8 @@ Como eu era o único responsável pelo desenvolvimento do backend, tive que lida
 </details>
 
 <p>Esses aspectos dos models são fundamentais no desenvolvimento de aplicações baseadas em dados e foram essenciais para aprofundar meu conhecimento em design de software e arquitetura de sistemas. A combinação dessas habilidades com as experiências anteriores em CRUD, controladores, repositórios, serviços e DTOs proporcionou uma compreensão abrangente do desenvolvimento de aplicações web do ponto de vista do Back-End.</p>
+
+<hr>
 
 
 <h3>Sistema de Gestão de Anomalias em Laudos de Inspeção Predial</h3>
