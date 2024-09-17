@@ -19,7 +19,7 @@ Tecnologia de São José dos Campos.</p>
 <p align="center">• <a href="https://www.linkedin.com/in/marcelo-silva7/">LinkedIn</a> • <a href="https://github.com/marcelosilva7">GitHub</a> •</p>
 <hr>
 <h2>Meus Projetos</h2>
-<h3>Assistente Virtual Lola</h3>
+<h2>Assistente Virtual Lola</h2>
 <h4>1º Semestre • 2022 </h4> 
 <p align="justify">Parceiro Acadêmico: <a href="https://fatecsjc-prd.azurewebsites.net/">FATEC São José dos Campos - Prof. Jessen Vidal</a></p>
 <p align="justify">Projeto desenvolvido sob orientação do professor Fabiano Sabha, desenvolvendo uma API específica para a educação infantil.</p>
@@ -84,7 +84,7 @@ Tecnologia de São José dos Campos.</p>
 Aprimorei muito minhas habilidades de trabalho em equipe ao auxiliar meus colegas sempre que tinham dúvidas, oferecendo explicações e orientações claras. Estive disponível para ajudar e garantir que todos estivessem alinhados, contribuindo para o progresso coletivo do projeto.</p>
 
 <hr>
-<h3>Aplicação PRO4TECH RH</h3>
+<h2>Aplicação PRO4TECH RH</h2>
 <h4>2º Semestre • 2022 </h4>
 <p align="justify">Parceiro Acadêmico: <a href="https://www.pro4tech.com.br/">Pro4Tech</a></p>
 
@@ -270,17 +270,24 @@ Como eu era o único responsável pelo desenvolvimento do backend, tive que lida
 <hr>
 
 
-<h3>Sistema de Gestão de Anomalias em Laudos de Inspeção Predial</h3>
+<h2>Sistema de Gestão de Anomalias em Laudos de Inspeção Predial</h2>
 <h4>4º Semestre • 2023 </h4> 
-<p align="justify"><strong>Descrição do Projeto:</strong> O desafio enfrentado pela equipe da B1nary Devs consiste em desenvolver um sistema abrangente para controlar e gerenciar anomalias identificadas em Laudos de Inspeção Predial. As principais funcionalidades do sistema incluem a diferenciação de segmentos específicos de um edifício, o cadastro eficiente de prestadores de serviço, a geração e gerenciamento de ordens de serviço, além da criação de relatórios detalhados que ajudam na tomada de decisões informadas e promovem a preservação do patrimônio. Como solução, estamos desenvolvendo um sistema web que não só simplifica a gestão desses elementos, mas também incorpora uma landing page intuitiva para facilitar a solicitação de novas ordens de serviço por novos clientes através de um simples formulário. Para clientes existentes, uma landing page personalizada permitirá o fácil acesso a ordens de serviço anteriores, a capacidade de baixar laudos e fornecer feedback valioso, incluindo sugestões e reclamações. Este sistema é crucial para aprimorar a eficácia na correção de anomalias e para a gestão eficiente de infraestruturas prediais.</p>
 
-<h3>Prévia do Projeto</h3>
-<p align="justify">O projeto desenvolvido pela equipe da B1nary Devs aborda um desafio crucial no setor de inspeção predial: a gestão eficiente de anomalias identificadas nos laudos. Esta aplicação web avançada é projetada para melhorar significativamente a maneira como as anomalias são controladas e gerenciadas, aumentando a preservação do patrimônio e permitindo decisões mais informadas e precisas.</p>
-<p align="justify">O sistema integra várias funcionalidades essenciais, descritas a seguir, como a diferenciação de segmentos de edifícios, o cadastro e gerenciamento de prestadores de serviço, e a geração automatizada de ordens de serviço. Além disso, é equipado com ferramentas de relatórios detalhados que apoiam na análise e resolução de problemas identificados.</p>
-<p align="justify">Como parte do desenvolvimento, a equipe criou duas landing pages distintas. A primeira é destinada a novos clientes, facilitando a solicitação de serviços através de um formulário simplificado. A segunda landing page é personalizada para clientes existentes, onde eles podem acessar, revisar e responder às ordens de serviço anteriores, bem como baixar laudos e fornecer feedback valioso, que é essencial para a melhoria contínua do sistema.</p>
-<p align="justify">Essas interfaces são projetadas para serem intuitivas e fáceis de usar, garantindo que tanto novos quanto antigos clientes possam navegar pelo sistema sem dificuldades. Este projeto não apenas melhora a eficiência operacional, mas também eleva o padrão de serviço ao cliente, reforçando a confiança e a satisfação do cliente com o processo de gestão de inspeções prediais.</p>
 
-<h3>Funcionalidades</h3>
+<h3>Problema</h3>
+
+<p align="justify">A gestão de anomalias identificadas em Laudos de Inspeção Predial apresenta diversos desafios para as empresas que precisam garantir a manutenção adequada de edifícios. A falta de um sistema integrado dificulta a diferenciação dos segmentos do edifício, o controle de prestadores de serviço e a geração e monitoramento de ordens de serviço. Além disso, a ausência de ferramentas eficazes para a criação de relatórios detalhados compromete a capacidade de tomar decisões informadas e de implementar as correções necessárias. Esse cenário resulta em ineficiências operacionais e uma potencial perda no valor do patrimônio predial.</p>
+
+<h3>Solucao</h3>
+
+<p align="justify">A equipe da B1nary Devs desenvolveu uma aplicação web completa que visa otimizar o gerenciamento de anomalias identificadas em Laudos de Inspeção Predial. O sistema foi projetado para integrar de forma eficiente o controle de diversos elementos essenciais, como a diferenciação dos segmentos específicos de um edifício, o cadastro e a gestão de prestadores de serviço, e a geração automática de ordens de serviço. Além disso, a aplicação inclui a criação de relatórios detalhados, que auxiliam na análise das anomalias e permitem uma tomada de decisões mais precisa e informada, promovendo a preservação do patrimônio.</p>
+
+<p>Uma das inovações implementadas foi o desenvolvimento de duas landing pages distintas. A primeira, destinada a novos clientes, oferece uma interface intuitiva com um formulário simplificado para facilitar a solicitação de novas ordens de serviço. A segunda landing page, personalizada para clientes existentes, permite o fácil acesso a ordens de serviço anteriores, o download de laudos de inspeção e a possibilidade de fornecer feedback valioso, como sugestões ou reclamações.</p>
+
+<p>Com essa solução, a equipe da B1nary Devs não só simplificou o processo de gestão e correção de anomalias, mas também aprimorou a experiência do usuário, criando um sistema eficiente e fácil de usar. O sistema contribui para a preservação do patrimônio predial e otimiza os processos operacionais, atendendo tanto às necessidades de novos clientes quanto daqueles já existentes.</p>
+<details>
+  <summary><b>Funcionalidades do Sistema</b></summary>
+  <br>
 <ul>
     <li>Cadastro de segmento - Permite cadastrar e associar segmentos específicos de edifícios.</li>
     <li>Cadastro de prestador de serviço - Facilita o cadastro de prestadores para utilização em ordens de serviço.</li>
@@ -290,7 +297,7 @@ Como eu era o único responsável pelo desenvolvimento do backend, tive que lida
     <li>Aprovação e reprovação de ordens de serviço - Oferece capacidade para visualizar e gerenciar a aprovação de ordens.</li>
     <li>Interface intuitiva para solicitação e gestão de serviços.</li>
 </ul>
-
+</details>
 <h3>Tecnologias Utilizadas</h3>
 <ul>
     <li>Figma - para UX/UI design.</li>
@@ -317,6 +324,7 @@ Como eu era o único responsável pelo desenvolvimento do backend, tive que lida
     <li><strong>Desenvolvimento de Módulos em Vue.js:</strong> Durante o projeto, desenvolvi a habilidade de criar e gerenciar módulos no framework Vue.js, o que me permitiu construir interfaces de usuário dinâmicas. Aprendi a estruturar o código de forma modular, o que facilita a manutenção e a escalabilidade da aplicação, além de permitir a reutilização de componentes em diferentes partes do projeto sem redundâncias.</li>
 </ul>
 
+<hr>
 <h4>5º Semestre • 2024</h4>
 <h2>DESCRIÇÃO DO PROJETO</h2>
 <p align="justify">Durante o quinto semestre, o projeto desenvolvido na TecSUS focou na coleta, processamento e análise de grandes volumes de dados provenientes de faturas de energia, água e gás de diversas empresas do setor de atacado e varejo. Cada unidade cliente possui diversos contratos relacionados a serviços de utilidade pública, e a gestão eficiente dessas informações é crucial para a análise técnica e financeira. O desafio principal era transformar dados não estruturados, armazenados em arquivos de texto no formato CSV, em um formato organizado e acessível que pudesse ser utilizado para gerar insights valiosos. O objetivo final era permitir que os clientes da TecSUS pudessem identificar oportunidades de redução de custos, otimização de contratos e detecção de anomalias em padrões de consumo.</p>
