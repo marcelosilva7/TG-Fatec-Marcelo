@@ -72,8 +72,18 @@ Tecnologia de São José dos Campos.</p>
 <h3>Modularização e Estrutura de Código</h3>
 <p>A modularização foi uma estratégia adotada para melhorar a organização e a manutenibilidade do código. Ao dividir o projeto em módulos separados, cada um responsável por uma parte distinta da funcionalidade geral, pude focar em cada aspecto do sistema isoladamente. Isso facilitou a depuração, teste e expansão futura do código. A modularização ajudou na separação clara das responsabilidades dentro do aplicativo, o que é fundamental para manter a qualidade e a escalabilidade do software.</p>
 
-<hr>
+<h3>Softs Skils</h3>
+<h4>Comunicacao</h4>
+<p>Como era meu primeiro projeto, precisei ser bastante comunicativo para garantir um bom entendimento do problema e, assim, produzir de forma adequada. A interação constante com os outros membros da equipe foi essencial para compreender suas ideias e o funcionamento dos seus códigos, pois fiquei responsável por modularizar e integrar o código de todos em um único arquivo, o que facilitou a manutenção e a legibilidade do projeto.</p>
 
+<h4>Proatividade</h4>
+<p>Fui bastante proativo no projeto, pois já havia estudado Python meses antes, o que facilitou a produção das funções e me permitiu concluir minhas tarefas antes dos outros membros. Com isso, pude ajudá-los em suas dúvidas e, por estar com um entendimento mais amplo do projeto, propus ao grupo a responsabilidade de integrar os códigos de todos, garantindo uma maior coesão e organização no trabalho final.</p>
+
+<h4>Trablho em Equipe</h4>
+<p>
+Aprimorei muito minhas habilidades de trabalho em equipe ao auxiliar meus colegas sempre que tinham dúvidas, oferecendo explicações e orientações claras. Estive disponível para ajudar e garantir que todos estivessem alinhados, contribuindo para o progresso coletivo do projeto.</p>
+
+<hr>
 <h3>Aplicação PRO4TECH RH</h3>
 <h4>2º Semestre • 2022 </h4>
 <p align="justify">Parceiro Acadêmico: <a href="https://www.pro4tech.com.br/">Pro4Tech</a></p>
@@ -128,7 +138,23 @@ O sistema é projetado para otimizar o processo de contratação, simplificando 
 <p align="justify">A aplicação da arquitetura Model-View-Controller (MVC) no desenvolvimento de um software desktop em Java foi outro ponto alto do meu aprendizado. Compreendi como separar as responsabilidades dentro da aplicação, organizando o código de maneira que o Model gerencia a lógica de negócios e os dados, o View cuida da apresentação e interação com o usuário, e o Controller faz a mediação da entrada e saída de dados. Essa separação clara ajudou a tornar o software mais organizado, flexível e fácil de testar.</p>
 <h4>Desenvolvimento de Aplicações Desktop com Java</h4>
 <p align="justify">Trabalhar com Java para criar uma aplicação desktop foi uma experiência enriquecedora que ampliou minha compreensão sobre a programação orientada a objetos e o desenvolvimento de interfaces de usuário. Aprender a manipular eventos, construir interfaces responsivas e garantir uma experiência de usuário fluida e funcional mostrou-se essencial para o sucesso do projeto. A capacidade de projetar interfaces que atendem eficazmente às necessidades dos usuários finais em ambientes corporativos melhorou significativamente, resultando em um produto mais intuitivo e acessível.</p>
+
+<h3>Softs Skils</h3>
+<h4>Visão de Negocio</h4>
+<p>Como fui responsável pelo backend e pelo banco de dados, precisei desenvolver uma forte compreensão das regras de negócio, garantindo que elas fossem corretamente implementadas no sistema. Isso exigiu uma visão estratégica, para alinhar o desenvolvimento técnico às necessidades do projeto e assegurar que todas as funcionalidades atendessem aos requisitos da solução.</p>
+
+<h4>Resiliencia</h4>
+<p>
+  ste foi um dos trabalhos mais desafiadores, pois dois membros do grupo abandonaram o projeto durante sua execução. Com isso, assumi a responsabilidade pelo backend e banco de dados em Java, o que me obrigou a estudar intensivamente para dominar a tecnologia e garantir a conclusão bem-sucedida do projeto.
+</p>
+
+<h4>habilidade de solucionar problemas</h4>
+<p>
+Como eu era o único responsável pelo desenvolvimento do backend, tive que lidar com todos os problemas que surgiam durante o processo. Busquei ajuda de professores, tanto da faculdade quanto de fora, para superar os desafios de desenvolvimento, especialmente porque foi meu primeiro software desenvolvido em Java. Essa busca por soluções foi fundamental para o sucesso do projeto.</p>
 <hr>
+
+
+
 <h4>3º Semestre • 2023 </h4>
 <h2>DESCRIÇÃO DO PROJETO</h2>
 <p>O foco deste projeto é desenvolver uma aplicação web destinada ao gerenciamento eficiente de vendas, abordando três aspectos fundamentais: o histórico de vendas dos vendedores, o planejamento de vendas e o registro das vendas realizadas.</p>
