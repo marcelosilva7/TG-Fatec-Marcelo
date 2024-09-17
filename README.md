@@ -84,6 +84,8 @@ Tecnologia de São José dos Campos.</p>
 Aprimorei muito minhas habilidades de trabalho em equipe ao auxiliar meus colegas sempre que tinham dúvidas, oferecendo explicações e orientações claras. Estive disponível para ajudar e garantir que todos estivessem alinhados, contribuindo para o progresso coletivo do projeto.</p>
 
 <hr>
+
+
 <h2>Aplicação PRO4TECH RH</h2>
 <h4>2º Semestre • 2022 </h4>
 <p align="justify">Parceiro Acadêmico: <a href="https://www.pro4tech.com.br/">Pro4Tech</a></p>
@@ -267,6 +269,18 @@ Como eu era o único responsável pelo desenvolvimento do backend, tive que lida
 
 <p>Esses aspectos dos models são fundamentais no desenvolvimento de aplicações baseadas em dados e foram essenciais para aprofundar meu conhecimento em design de software e arquitetura de sistemas. A combinação dessas habilidades com as experiências anteriores em CRUD, controladores, repositórios, serviços e DTOs proporcionou uma compreensão abrangente do desenvolvimento de aplicações web do ponto de vista do Back-End.</p>
 
+
+<h3>Softs Skils</h3>
+<h4>Solucionar Problemas</h4>
+<p> Como responsável pelo backend, enfrentei o desafio de trabalhar com arquiteturas REST pela primeira vez, saindo da familiar arquitetura DAO. Além disso, estávamos aprendendo Spring Boot, o que tornou o processo ainda mais desafiador. Ao longo das sprints, surgiram muitos problemas que precisei solucionar, o que exigiu um grande esforço de aprendizado e adaptação. Contei com o apoio dos professores, especialmente do professor Nadatelle, que sempre esteve disponível para esclarecer minhas dúvidas em questões específicas, o que foi fundamental para superar essas dificuldades.</p>
+
+<h4>Adaptabilidade</h4>
+<p>Tive que me adaptar rapidamente à nova tecnologia de REST e à mudança de arquitetura, saindo de DAO para Spring Boot. Esse ajuste foi essencial para que eu pudesse entregar o projeto com sucesso, mesmo enfrentando desafios técnicos e aprendendo conforme o desenvolvimento avançava.</p>
+
+<h4>Comunicacao</h4>
+<p>Foi essencial desenvolver uma comunicação clara e expressiva ao entrar em um grupo novo. O desafio foi entender rapidamente a maneira como eles trabalhavam e se comunicavam, adaptando minha forma de interagir para garantir que conseguíssemos colaborar de maneira eficaz e concluir o projeto com sucesso.</p>
+
+
 <hr>
 
 
@@ -324,7 +338,26 @@ Como eu era o único responsável pelo desenvolvimento do backend, tive que lida
     <li><strong>Desenvolvimento de Módulos em Vue.js:</strong> Durante o projeto, desenvolvi a habilidade de criar e gerenciar módulos no framework Vue.js, o que me permitiu construir interfaces de usuário dinâmicas. Aprendi a estruturar o código de forma modular, o que facilita a manutenção e a escalabilidade da aplicação, além de permitir a reutilização de componentes em diferentes partes do projeto sem redundâncias.</li>
 </ul>
 
+
+
+<h3>Softs Skils</h3>
+<h4>Comunicacao Assertiva</h4>
+<p>Como Scrum Master, desenvolvi e pratiquei uma comunicação assertiva para lidar eficazmente com os problemas que surgiam ao longo das sprints. Essa habilidade foi essencial para facilitar o diálogo com os membros da equipe, garantindo que todos estivessem alinhados e permitindo a identificação das melhores soluções para as situações enfrentadas.</p>
+
+<h4>Empatia</h4>
+<p>Como Scrum Master, a empatia foi uma habilidade fundamental para compreender o que os membros da equipe estavam enfrentando. Com essa visão, pude apoiar cada um de acordo com suas necessidades, ajustando o ritmo de trabalho e criando um ambiente mais colaborativo e compreensivo, o que contribuiu para o sucesso do time e para a resolução dos desafios de forma mais humana.</p>
+
+<h4>Gerenciamento de tempo</h4>
+<p>Como Scrum Master, o gerenciamento de tempo foi crucial para o sucesso do projeto. Tive que organizar as tarefas de forma eficiente, quebrando-as em pequenas tasks para facilitar o acompanhamento e garantir que os prazos fossem cumpridos. Esse planejamento permitiu monitorar o progresso da equipe de maneira mais eficaz e assegurar que as entregas estivessem alinhadas com o cronograma das sprints.</p>
+
+
+
 <hr>
+
+
+
+
+
 <h4>5º Semestre • 2024</h4>
 <h2>DESCRIÇÃO DO PROJETO</h2>
 <p align="justify">Durante o quinto semestre, o projeto desenvolvido na TecSUS focou na coleta, processamento e análise de grandes volumes de dados provenientes de faturas de energia, água e gás de diversas empresas do setor de atacado e varejo. Cada unidade cliente possui diversos contratos relacionados a serviços de utilidade pública, e a gestão eficiente dessas informações é crucial para a análise técnica e financeira. O desafio principal era transformar dados não estruturados, armazenados em arquivos de texto no formato CSV, em um formato organizado e acessível que pudesse ser utilizado para gerar insights valiosos. O objetivo final era permitir que os clientes da TecSUS pudessem identificar oportunidades de redução de custos, otimização de contratos e detecção de anomalias em padrões de consumo.</p>
