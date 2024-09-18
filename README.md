@@ -359,12 +359,14 @@ Como eu era o único responsável pelo desenvolvimento do backend, tive que lida
 
 
 <h4>5º Semestre • 2024</h4>
-<h2>DESCRIÇÃO DO PROJETO</h2>
+<h2>Tecsus</h2>
 <p align="justify">Durante o quinto semestre, o projeto desenvolvido na TecSUS focou na coleta, processamento e análise de grandes volumes de dados provenientes de faturas de energia, água e gás de diversas empresas do setor de atacado e varejo. Cada unidade cliente possui diversos contratos relacionados a serviços de utilidade pública, e a gestão eficiente dessas informações é crucial para a análise técnica e financeira. O desafio principal era transformar dados não estruturados, armazenados em arquivos de texto no formato CSV, em um formato organizado e acessível que pudesse ser utilizado para gerar insights valiosos. O objetivo final era permitir que os clientes da TecSUS pudessem identificar oportunidades de redução de custos, otimização de contratos e detecção de anomalias em padrões de consumo.</p>
 <p align="justify">A complexidade do desafio estava na diversidade e volume dos dados, além da necessidade de garantir que todas as informações fossem processadas de maneira precisa e consistente. Cada contrato, vinculado a diferentes concessionárias de abastecimento, podia gerar várias faturas mensais, contendo detalhes que variavam desde valores de consumo até termos contratuais específicos. A TecSUS necessitava de uma solução robusta que pudesse não apenas organizar esses dados, mas também apresentá-los de maneira clara e intuitiva para facilitar a tomada de decisões.</p>
 <h2>SOLUÇÃO PROPOSTA</h2>
 <p align="justify">A solução desenvolvida abordou diretamente esses desafios, através da implementação de um processo completo de ETL (Extract, Transform, Load). Este processo foi responsável pela extração dos dados dos arquivos CSV, seguido da transformação desses dados para garantir sua integridade e conformidade com o modelo estrela. Finalmente, os dados tratados foram inseridos em um banco de dados estruturado, pronto para consultas e análises.</p>
 <p align="justify">Além do ETL, foi desenvolvido um dashboard interativo que permitia aos administradores da TecSUS realizar análises detalhadas das contas e contratos, com a possibilidade de aplicar filtros específicos para focar em áreas de interesse. O dashboard oferecia visualizações claras e intuitivas que facilitavam a identificação de padrões de consumo e comparações entre diferentes períodos e tipos de serviços (energia, água e gás). Além disso, a solução incluía a geração de relatórios detalhados e alertas automáticos para consumos acima da média, auxiliando na detecção de anomalias e oferecendo oportunidades para a otimização de recursos.</p>
+
+
 <h2>TECNOLOGIAS UTILIZADAS</h2>
 <ul>
     <li>Python para desenvolvimento de scripts ETL</li>
