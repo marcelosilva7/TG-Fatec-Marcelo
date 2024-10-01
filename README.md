@@ -6,35 +6,47 @@
 <h2>Sobre mim</h2>
 <p align="justify">Graduado em Administracao de Empresas pelo Centro Universitário Etep e matriculado no 6º semestre do curso tecnólogo em Banco de Dados pela Faculdade de 
 Tecnologia de São José dos Campos.</p>
+<p>
+    Iniciei minha carreira profissional no atendimento do Paço Municipal de São José dos Campos, onde atuava como atendente e era responsável por abrir processos administrativos. Após um ano nessa função, solicitei transferência de área e fui designado ao Banco do Povo Paulista, onde passei a realizar todo o processo de concessão de empréstimos para os clientes. Obtive bons resultados, mas, após um ano, infelizmente meu contrato chegou ao fim.
+</p>
+<p>
+    Com o início da pandemia, decidi explorar novas oportunidades e comecei a realizar transmissões ao vivo. Criei uma página no Facebook, onde fazia lives jogando games antigos. Ao longo de um ano, consegui cerca de 20 mil seguidores e, com o sucesso das transmissões, troquei meu equipamento, passando de um notebook antigo para um PC de alto desempenho. No entanto, devido à instabilidade, precisei interromper as lives para me dedicar a uma nova oportunidade de trabalho na Farma Conde.
+</p>
+<p>
+    Na Farma Conde, comecei como auxiliar de arquivo e, ao longo do tempo, passei pelos setores legal, contábil e cadastro, até chegar ao setor fiscal, onde permaneci por um ano e meio. Durante esse período, iniciei a faculdade na FATEC, onde descobri minha verdadeira vocação. Após seis meses conciliando trabalho e estudos, decidi pedir demissão para me dedicar integralmente à faculdade e buscar um estágio na área que eu realmente gostava. Seis meses depois, consegui um estágio como desenvolvedor no Sicoob Cressem.
+</p>
 <p align="justify">Atualmente sou Desenvolvedor Full Stack Jr no Sicoob Cressem. Responsável pela criação e administração de um sistema Web integrado ao Active Directory, utilizado por cerca de 80 usuários diários, gerando uma média de 8.000 requisições REST por dia. Administro um banco de dados com mais de 100 tabelas, garantindo a integridade dos dados, realizando backups regulares, e implementando junções e processos automáticos. Além disso, sou responsável pelos processos diários de ETL, desenvolvo backups automáticos de arquivos e programas executáveis em Python, e atuo na automação de processos com RPA utilizando Python.</p>
 <p align="center">• <a href="https://www.linkedin.com/in/marcelo-silva7/">LinkedIn</a> • <a href="https://github.com/marcelosilva7">GitHub</a> •</p>
 <hr>
 <h2>Meus Projetos</h2>
-<h3>Assistente Virtual Lola</h3>
+<h2>Assistente Virtual Lola</h2>
 <h4>1º Semestre • 2022 </h4> 
 <p align="justify">Parceiro Acadêmico: <a href="https://fatecsjc-prd.azurewebsites.net/">FATEC São José dos Campos - Prof. Jessen Vidal</a></p>
 <p align="justify">Projeto desenvolvido sob orientação do professor Fabiano Sabha, desenvolvendo uma API específica para a educação infantil.</p>
 <!-- <p align="center"><img src="https://exemplo.com/imagens/assistente_virtual.png" width="20%"> foto da lola</p> -->
-<p align="justify">Lola é uma assistente virtual projetada especificamente para crianças na faixa etária de 5 a 8 anos. Ativada por comando de voz com a palavra-chave "Oi Lola", ela oferece diversas funcionalidades educativas e interativas, promovendo um ambiente de aprendizado dinâmico e envolvente.</p>
-<p align="justify">A assistente pode realizar cálculos matemáticos simples, contar histórias envolventes, configurar alarmes, traduzir frases do inglês para o português, ensinar o processo de escovação de dentes, além de oferecer jogos educativos, um dicionário e a função de soletrar palavras.</p>
-<br>
-<h3>Prévia da Solução</h3>
-<p align="justify">O assistente foi projetado para ser facilmente integrado a diferentes plataformas, oferecendo suporte a comandos totalmente via voz para uma interação natural e amigável. O foco é em funcionalidades que auxiliam no desenvolvimento educacional e na autonomia das crianças.</p>
+ <h3>Problema</h3>
+    <p>
+        Com o crescente uso da tecnologia entre as crianças, especialmente na faixa etária de 5 a 8 anos, surgem preocupações em relação ao equilíbrio entre entretenimento e aprendizado. Aplicativos e assistentes virtuais voltados para crianças nem sempre são adequados para essa faixa etária, oferecendo conteúdos complexos ou distrações pouco educativas. Além disso, muitas vezes, esses recursos não estimulam de maneira eficaz habilidades importantes, como o desenvolvimento do vocabulário, autonomia em tarefas diárias e o aprendizado de conceitos básicos, como matemática simples e noções de higiene. Outro desafio é encontrar ferramentas tecnológicas que as crianças possam utilizar de forma autônoma e segura, sem a necessidade de supervisão constante.
+    </p>
+
+<h3>Proposta de Solução</h3>
+<p>
+    A assistente virtual Lola foi projetada para enfrentar esses desafios, oferecendo uma plataforma educativa e interativa voltada especificamente para crianças de 5 a 8 anos. Ativada por comandos de voz com a palavra-chave "Oi Lola", ela permite que as crianças interajam de forma natural e intuitiva, promovendo o desenvolvimento de habilidades cognitivas e a autonomia nas tarefas diárias. Lola oferece diversas funcionalidades interativas que auxiliam no aprendizado e no desenvolvimento das crianças em um ambiente tecnológico acessível e seguro.
+</p>
+
 <details>
   <summary><b>Funcionalidades Interativas</b></summary>
-  <br>
   <ul>
     <li>Cálculos matemáticos simples</li>
     <li>Contação de histórias infantis</li>
     <li>Configuração de despertadores para ajudar nos estudos</li>
     <li>Tradução de inglês para português</li>
     <li>Instruções para escovação de dentes</li>
-    <li>Jogo de Pedra, Papel e tesoura</li>
+    <li>Jogo de Pedra, Papel e Tesoura</li>
     <li>Dicionário para desenvolvimento de vocabulário</li>
     <li>Soletração de palavras</li>
   </ul>
 </details>
-<br>
 <h3>Tecnologias Utilizadas</h3>
 <p align="justify">As principais tecnologias incluem:</p>
 <ul>
@@ -43,7 +55,6 @@ Tecnologia de São José dos Campos.</p>
   <li>Google Speech Recognition para reconhecimento de voz</li>
   <li>Google Trans para serviços de tradução</li>
 </ul>
-<br>
 <h3>Contribuições Pessoais</h3>
 <p align="justify">Durante o desenvolvimento deste projeto, assumi responsabilidades críticas no desenvolvimento de funcionalidades interativas e na estruturação do código, aplicando técnicas avançadas de programação e princípios de design de software:</p>
 <ul>
@@ -51,32 +62,48 @@ Tecnologia de São José dos Campos.</p>
     <li><strong>Implementação de Narração de Histórias:</strong> Programei um sistema de narração de histórias que utiliza a síntese de voz para contar histórias infantis de maneira envolvente e interativa. Este módulo foi desenvolvido com o auxílio de bibliotecas de TTS (text-to-speech), permitindo que histórias pré-definidas sejam narradas de forma clara e acessível, melhorando a experiência auditiva das crianças e incentivando o gosto pela literatura desde cedo.</li>
     <li><strong>Integração de Funcionalidades no Assistente Virtual:</strong> Coordenei a integração de diversas funcionalidades no assistente virtual, garantindo uma navegação fluida e intuitiva. Este trabalho envolveu a criação de uma interface de usuário unificada e a implementação de lógicas de interação que facilitam o acesso a jogos, contação de histórias, tradução de línguas, entre outros, dentro de um único ambiente. A modularização do código foi essencial para manter a organização e permitir a expansão futura do sistema.</li>
 </ul>
-<br>
-
-<h2>LIÇÕES APRENDIDAS</h2>
+<h3>LIÇÕES APRENDIDAS</h3>
 <h3>Desenvolvimento de Operações com Comandos de Voz</h3>
-
 <p>Durante o projeto, me aprofundei na programação Python, focando em bibliotecas de processamento de voz como `pyttsx3` para síntese de fala e `speech_recognition` para reconhecimento de voz. Essa experiência foi crucial para entender como interagir com o usuário de maneira eficaz por meio de comandos de voz. A implementação dessas tecnologias exigiu o aprendizado de como configurar o ambiente de desenvolvimento para captura e análise de áudio, processamento de comandos de voz em tempo real, e a resposta do sistema através de feedback auditivo.</p>
+
 <h3>Implementação de Jogos Interativos</h3>
-
 <p>A criação do jogo 'Pedra, Papel e Tesoura' foi uma parte significativa do meu aprendizado no semestre. Desenvolvi a lógica completa do jogo em Python, que incluiu gerar aleatoriamente as escolhas do computador e determinar o vencedor com base nas entradas do usuário. Isso não apenas reforçou minhas habilidades de programação, mas também me ensinou sobre a importância de criar uma lógica de jogo envolvente e como processar entradas do usuário de forma eficiente.</p>
+
 <h3>Modularização e Estrutura de Código</h3>
-
 <p>A modularização foi uma estratégia adotada para melhorar a organização e a manutenibilidade do código. Ao dividir o projeto em módulos separados, cada um responsável por uma parte distinta da funcionalidade geral, pude focar em cada aspecto do sistema isoladamente. Isso facilitou a depuração, teste e expansão futura do código. A modularização ajudou na separação clara das responsabilidades dentro do aplicativo, o que é fundamental para manter a qualidade e a escalabilidade do software.</p>
-<br>
 
-<h3>Aplicação PRO4TECH RH</h3>
+<h3>Softs Skils</h3>
+<h4>Comunicacao</h4>
+<p>Como era meu primeiro projeto, precisei ser bastante comunicativo para garantir um bom entendimento do problema e, assim, produzir de forma adequada. A interação constante com os outros membros da equipe foi essencial para compreender suas ideias e o funcionamento dos seus códigos, pois fiquei responsável por modularizar e integrar o código de todos em um único arquivo, o que facilitou a manutenção e a legibilidade do projeto.</p>
+
+<h4>Proatividade</h4>
+<p>Fui bastante proativo no projeto, pois já havia estudado Python meses antes, o que facilitou a produção das funções e me permitiu concluir minhas tarefas antes dos outros membros. Com isso, pude ajudá-los em suas dúvidas e, por estar com um entendimento mais amplo do projeto, propus ao grupo a responsabilidade de integrar os códigos de todos, garantindo uma maior coesão e organização no trabalho final.</p>
+
+<h4>Trablho em Equipe</h4>
+<p>
+Aprimorei muito minhas habilidades de trabalho em equipe ao auxiliar meus colegas sempre que tinham dúvidas, oferecendo explicações e orientações claras. Estive disponível para ajudar e garantir que todos estivessem alinhados, contribuindo para o progresso coletivo do projeto.</p>
+
+<hr>
+
+
+<h2>Aplicação PRO4TECH RH</h2>
 <h4>2º Semestre • 2022 </h4>
 <p align="justify">Parceiro Acadêmico: <a href="https://www.pro4tech.com.br/">Pro4Tech</a></p>
+
+ <h3>Problema</h3>
+ <p>  
+O processo de recrutamento e seleção de candidatos pode ser desafiador para empresas que gerenciam um grande volume de vagas e candidaturas. Muitos sistemas de Recursos Humanos disponíveis no mercado são complicados e ineficientes, dificultando o gerenciamento adequado de informações sobre os candidatos e as vagas. Além disso, a ausência de integração eficiente entre dados, relatórios detalhados e uma interface intuitiva pode atrasar o processo de contratação, impactando a qualidade e agilidade na seleção de talentos.
+ </p>
+
 <!-- <p align="center"><img src="https://exemplo.com/imagens/pro4tech_rh.png" width="20%"></p> -->
-<p align="justify">A aplicação PRO4TECH RH foi desenvolvida como um sistema de gerenciamento de vagas de Recursos Humanos, permitindo a interação eficiente entre candidatos e oportunidades de emprego. Utilizando tecnologias avançadas, o sistema cruza dados dos candidatos com as vagas disponíveis, gerando relatórios detalhados para facilitar o processo de contratação.</p>
-<p align="justify">Projetada para ser intuitiva e robusta, a interface facilita o cadastro de novas vagas, edição e gerenciamento por parte dos usuários de RH, bem como a aplicação dos candidatos nas vagas de interesse.</p>
-<br>
-<h3>Arquitetura do Projeto</h3>
-<!-- <p align="center"><img src="https://exemplo.com/imagens/arquitetura_pro4tech.png" width="100%"></p> -->
-<br>
-<h3>Prévia da Solução</h3>
-<p align="justify">O sistema foi construído seguindo o modelo MVC (Model-View-Controller), com Java puro e utilizando a biblioteca Swing para a interface de usuário da aplicação de desktop. O acesso e gerenciamento de dados são realizados através de JDBC conectado a um banco de dados MySQL, garantindo uma operação fluida e segura.</p>
+
+<h3>Solucao</h3>
+<p>
+O PRO4TECH RH surge como uma solução completa para enfrentar os desafios comuns no processo de recrutamento e seleção de candidatos. Ao integrar a gestão de vagas de emprego com uma interface amigável e tecnologias avançadas de cruzamento de dados, o sistema permite que equipes de Recursos Humanos tenham maior controle, agilidade e precisão em suas atividades diárias.
+</p>
+<p>
+O sistema é projetado para otimizar o processo de contratação, simplificando a tarefa de gerenciar um grande número de candidaturas e vagas de emprego. Através de uma plataforma robusta, o PRO4TECH RH facilita o registro de vagas, a candidatura de usuários e a gestão completa de todo o processo seletivo. Além disso, o uso de relatórios detalhados gera insights estratégicos que ajudam os gestores a tomar decisões mais rápidas e informadas, melhorando a qualidade da contratação.
+</p>
 <details>
   <summary><b>Funcionalidades do Sistema</b></summary>
   <br>
@@ -86,9 +113,9 @@ Tecnologia de São José dos Campos.</p>
     <li>Candidatura dos usuários às vagas disponíveis.</li>
     <li>Recepção de relatórios completos para o RH.</li>
     <li>Monitoramento e atualização do status das vagas por candidatos e RH.</li>
+    <li>Gera relatorios em PDF.</li>
   </ul>
 </details>
-<br>
 <h3>Tecnologias Utilizadas</h3>
 <p align="justify">As principais tecnologias utilizadas incluem:</p>
 <ul>
@@ -97,7 +124,6 @@ Tecnologia de São José dos Campos.</p>
   <li>JDBC para conexão com o banco de dados.</li>
   <li>Swing para a construção da interface de usuário.</li>
 </ul>
-<br>
 <h3>Contribuições Pessoais</h3>
 <p align="justify">Desempenhei um papel essencial no desenvolvimento do projeto PRO4TECH RH, sendo responsável pela criação do banco de dados e pela programação de toda a camada de back-end. Implementei as funções das classes DAO, que são cruciais para a comunicação eficiente entre a interface de usuário e o banco de dados MySQL. Além disso, desenvolvi todas as funcionalidades dos botões na interface, garantindo uma interação fluída e intuitiva para os usuários. As principais atividades que liderei incluem:</p>
 <ul>
@@ -105,7 +131,6 @@ Tecnologia de São José dos Campos.</p>
   <li><strong>Desenvolvimento das funções DAO para manipulação dos dados:</strong> Implementei classes DAO (Data Access Object) para abstrair e encapsular todas as operações de banco de dados relacionadas ao projeto. Isso incluiu a criação de métodos específicos para inserção, atualização, exclusão e recuperação de dados. A aplicação de padrões como DAO permitiu que o sistema mantivesse uma separação clara entre a lógica de negócios e a camada de acesso a dados, facilitando futuras alterações e manutenções no código.</li>
   <li><strong>Implementação das lógicas de negócio que controlam as funcionalidades dos botões:</strong> Programei a lógica por trás de cada botão na interface do usuário, garantindo que as ações desencadeadas pelos usuários fossem processadas corretamente pelo sistema. Isso envolveu a configuração de eventos de clique, validação de dados de entrada, e a execução de operações de banco de dados pertinentes. Cada funcionalidade foi cuidadosamente testada para assegurar que as operações fossem realizadas de maneira segura e eficiente, proporcionando uma experiência de usuário consistente e confiável.</li>
 </ul>
-<br>
 <h3>Lições Aprendidas</h3>
 <h4>Introdução ao Desenvolvimento de Bancos de Dados</h4>
 <p align="justify">Este projeto foi a minha iniciação ao design e implementação de bancos de dados, usando MySQL. Aprendi sobre a estruturação de tabelas, definição de chaves primárias e estrangeiras, e a importância de criar relações eficientes entre as tabelas para otimizar consultas e manter a integridade dos dados. O conhecimento adquirido foi crucial para entender como organizar grandes volumes de informações e garantir que o sistema possa recuperar, inserir e atualizar dados de forma rápida e segura.</p>
@@ -116,14 +141,46 @@ Tecnologia de São José dos Campos.</p>
 <h4>Desenvolvimento de Aplicações Desktop com Java</h4>
 <p align="justify">Trabalhar com Java para criar uma aplicação desktop foi uma experiência enriquecedora que ampliou minha compreensão sobre a programação orientada a objetos e o desenvolvimento de interfaces de usuário. Aprender a manipular eventos, construir interfaces responsivas e garantir uma experiência de usuário fluida e funcional mostrou-se essencial para o sucesso do projeto. A capacidade de projetar interfaces que atendem eficazmente às necessidades dos usuários finais em ambientes corporativos melhorou significativamente, resultando em um produto mais intuitivo e acessível.</p>
 
-<h4>3º Semestre • 2023 </h4>
-<h2>DESCRIÇÃO DO PROJETO</h2>
-<p>O foco deste projeto é desenvolver uma aplicação web destinada ao gerenciamento eficiente de vendas, abordando três aspectos fundamentais: o histórico de vendas dos vendedores, o planejamento de vendas e o registro das vendas realizadas.</p>
-<p>A funcionalidade central da aplicação reside em sua habilidade de comparar e analisar esses três conjuntos de dados de maneira detalhada e precisa. Isso possibilita uma avaliação aprofundada dos resultados das vendas, considerando tanto o histórico dos vendedores quanto os planos de vendas previamente estabelecidos.</p>
-<p>Um elemento inovador do projeto é a integração de um algoritmo preexistente de Inteligência Artificial. Esse algoritmo será utilizado para gerar previsões e insights valiosos, visando aumentar a precisão e confiabilidade das análises realizadas pela aplicação.</p>
-<p>Em suma, o desafio do projeto é criar uma aplicação web que não só simplifique o gerenciamento de vendas, mas também ofereça uma análise minuciosa ao comparar o histórico dos vendedores, o planejamento de vendas e os registros de vendas efetivas. Além disso, a aplicação contará com o aprimoramento de previsões baseadas em Inteligência Artificial, melhorando significativamente o processo de tomhttps://github.com/marcelosilva7/bertoti/blob/main/Metodologia%20da%20Pesquisa%20Cientifico%20Tecnologica/README.mdada de decisões relacionadas a vendas.</p>
+<h3>Softs Skils</h3>
+<h4>Visão de Negocio</h4>
+<p>Como fui responsável pelo backend e pelo banco de dados, precisei desenvolver uma forte compreensão das regras de negócio, garantindo que elas fossem corretamente implementadas no sistema. Isso exigiu uma visão estratégica, para alinhar o desenvolvimento técnico às necessidades do projeto e assegurar que todas as funcionalidades atendessem aos requisitos da solução.</p>
 
-<h2>TECNOLOGIAS UTILIZADAS</h2>
+<h4>Resiliencia</h4>
+<p>
+  ste foi um dos trabalhos mais desafiadores, pois dois membros do grupo abandonaram o projeto durante sua execução. Com isso, assumi a responsabilidade pelo backend e banco de dados em Java, o que me obrigou a estudar intensivamente para dominar a tecnologia e garantir a conclusão bem-sucedida do projeto.
+</p>
+
+<h4>habilidade de solucionar problemas</h4>
+<p>
+Como eu era o único responsável pelo desenvolvimento do backend, tive que lidar com todos os problemas que surgiam durante o processo. Busquei ajuda de professores, tanto da faculdade quanto de fora, para superar os desafios de desenvolvimento, especialmente porque foi meu primeiro software desenvolvido em Java. Essa busca por soluções foi fundamental para o sucesso do projeto.</p>
+
+
+<hr>
+
+
+<h4>3º Semestre • 2023 </h4>
+<h2>Sistema de Predicao de Vendas</h2>
+<h3>Problema</h3>
+<p>O processo de gerenciamento de vendas nas empresas apresenta desafios significativos, especialmente ao lidar com três áreas críticas: histórico de vendas dos vendedores, planejamento de vendas e registros das vendas realizadas. A falta de integração entre essas informações dificulta uma análise precisa e detalhada do desempenho, tornando o processo de tomada de decisões demorado e suscetível a erros. Além disso, a ausência de ferramentas preditivas limita a capacidade de antecipar tendências e otimizar os resultados de vendas.</p>
+<h3>Solucao</h3>
+<p>A solução proposta é o desenvolvimento de uma aplicação web robusta e intuitiva para o gerenciamento de vendas, que permitirá às empresas integrar e analisar de forma eficiente três pilares fundamentais: histórico de vendas dos vendedores, planejamento de vendas e registro das vendas realizadas. A principal vantagem dessa solução é a capacidade de realizar análises comparativas entre esses conjuntos de dados, permitindo que administradores e vendedores avaliem o desempenho com precisão e em tempo real.</p>
+
+<p> Além das funcionalidades básicas de cadastro de vendedores e planejamento de vendas, a aplicação se destacará pela integração de um algoritmo de Inteligência Artificial (IA), que será utilizado para gerar previsões e insights valiosos. Isso dará aos gestores e vendedores uma visão mais clara sobre possíveis tendências e permitirá que ajustes estratégicos sejam feitos com antecedência, melhorando a eficácia das decisões relacionadas às vendas.</p>
+<details>
+  <summary><b>Funcionalidades do Sistema</b></summary>
+  <br>
+  <ul>
+    <li>Cadastro de vendedores e clientes.</li>
+    <li>Planejamento de vendas para clientes específicos.</li>
+    <li>Registro e acompanhamento de vendas realizadas.</li>
+    <li>Dashboard centralizado para administradores.</li>
+    <li>Dashboard personalizado para vendedores.</li>
+    <li>Previsões e insights gerados por Inteligência Artificial.</li>
+    <li>Geração e exportação de relatórios detalhados.</li>
+  </ul>
+</details>
+
+<h3>TECNOLOGIAS UTILIZADAS</h3>
 <ul>
     <li>JavaScript </li>
     <li>Bootstrap </li>
@@ -132,7 +189,7 @@ Tecnologia de São José dos Campos.</p>
     <li>MySQL </li>
 </ul>
 
-<h2>CONTRIBUIÇÕES PESSOAIS</h2>
+<h3>CONTRIBUIÇÕES PESSOAIS</h3>
 <p>Na realização deste projeto, desempenhei um papel crucial no desenvolvimento do back-end, aplicando minhas habilidades técnicas e influenciando estrategicamente o progresso do sistema:</p>
 <ul>
     <li><strong>Desenvolvimento de Operações de CRUD para Modelos Diversos:</strong> Liderei a implementação das operações de CRUD para modelos chave como Cliente, Vendedor e Registro. Utilizei APIs RESTful para gerenciar os dados de forma eficiente, aplicando meu conhecimento aprofundado em Spring Boot e JPA para criar soluções de back-end robustas.</li>
@@ -141,7 +198,7 @@ Tecnologia de São José dos Campos.</p>
     <li><strong>Implementação do RegistroConverter:</strong> Um dos desafios mais intricados que enfrentei foi o projeto e implementação do RegistroConverter. Esse componente foi vital na transformação de objetos de entidade em DTOs e vice-versa, assegurando uma transferência de dados eficiente e segura entre as camadas da aplicação. Esse trabalho me permitiu aprofundar meus conhecimentos sobre padrões DTO e práticas de segurança de dados.</li>
 </ul>
 
-<h2>APRENDIZADOS</h2>
+<h3>APRENDIZADOS</h3>
 <h3>Desenvolvimento de Operações de CRUD</h3>
 <p>Entendimento Profundo do Spring Boot e JPA: A implementação das operações de CRUD para entidades como Cliente, Vendedor e Registro exigiu que eu aprofundasse meu conhecimento no Spring Boot e na Java Persistence API (JPA). Criei repositórios sofisticados e utilizei métodos CRUD padrão, além de operações personalizadas.</p>
 <p>Modelagem de Dados e Relacionamentos: Desenvolver os modelos e estabelecer relações entre eles permitiu-me adquirir habilidades avançadas em modelagem de dados e compreender como as entidades interagem dentro do banco de dados SQL.</p>
@@ -194,7 +251,7 @@ Tecnologia de São José dos Campos.</p>
 
 ![classeregistro](https://github.com/marcelosilva7/bertoti/assets/101959064/fd51b9ac-dca1-40fd-9b05-053514ada5a8)
 
-<h2>O que cada parte faz:</h2>
+<h3>O que cada parte faz:</h3>
 <ul>
     <li><strong>O Espelho Mágico (@Entity):</strong> A anotação '@Entity' diz que a nossa classe 'Registro' é um reflexo direto de uma prateleira no armário, onde cada papel é importante e precisa ser guardado com cuidado.</li>
     <li><strong>Etiqueta do Espelho (@Table):</strong> A '@Table' é como uma etiqueta no espelho que nos diz qual é o nome dessa prateleira no banco de dados.</li>
@@ -213,17 +270,38 @@ Tecnologia de São José dos Campos.</p>
 <p>Esses aspectos dos models são fundamentais no desenvolvimento de aplicações baseadas em dados e foram essenciais para aprofundar meu conhecimento em design de software e arquitetura de sistemas. A combinação dessas habilidades com as experiências anteriores em CRUD, controladores, repositórios, serviços e DTOs proporcionou uma compreensão abrangente do desenvolvimento de aplicações web do ponto de vista do Back-End.</p>
 
 
-<h3>Sistema de Gestão de Anomalias em Laudos de Inspeção Predial</h3>
+<h3>Softs Skils</h3>
+<h4>Solucionar Problemas</h4>
+<p> Como responsável pelo backend, enfrentei o desafio de trabalhar com arquiteturas REST pela primeira vez, saindo da familiar arquitetura DAO. Além disso, estávamos aprendendo Spring Boot, o que tornou o processo ainda mais desafiador. Ao longo das sprints, surgiram muitos problemas que precisei solucionar, o que exigiu um grande esforço de aprendizado e adaptação. Contei com o apoio dos professores, especialmente do professor Nadatelle, que sempre esteve disponível para esclarecer minhas dúvidas em questões específicas, o que foi fundamental para superar essas dificuldades.</p>
+
+<h4>Adaptabilidade</h4>
+<p>Tive que me adaptar rapidamente à nova tecnologia de REST e à mudança de arquitetura, saindo de DAO para Spring Boot. Esse ajuste foi essencial para que eu pudesse entregar o projeto com sucesso, mesmo enfrentando desafios técnicos e aprendendo conforme o desenvolvimento avançava.</p>
+
+<h4>Comunicacao</h4>
+<p>Foi essencial desenvolver uma comunicação clara e expressiva ao entrar em um grupo novo. O desafio foi entender rapidamente a maneira como eles trabalhavam e se comunicavam, adaptando minha forma de interagir para garantir que conseguíssemos colaborar de maneira eficaz e concluir o projeto com sucesso.</p>
+
+
+<hr>
+
+
+<h2>Sistema de Gestão de Anomalias em Laudos de Inspeção Predial</h2>
 <h4>4º Semestre • 2023 </h4> 
-<p align="justify"><strong>Descrição do Projeto:</strong> O desafio enfrentado pela equipe da B1nary Devs consiste em desenvolver um sistema abrangente para controlar e gerenciar anomalias identificadas em Laudos de Inspeção Predial. As principais funcionalidades do sistema incluem a diferenciação de segmentos específicos de um edifício, o cadastro eficiente de prestadores de serviço, a geração e gerenciamento de ordens de serviço, além da criação de relatórios detalhados que ajudam na tomada de decisões informadas e promovem a preservação do patrimônio. Como solução, estamos desenvolvendo um sistema web que não só simplifica a gestão desses elementos, mas também incorpora uma landing page intuitiva para facilitar a solicitação de novas ordens de serviço por novos clientes através de um simples formulário. Para clientes existentes, uma landing page personalizada permitirá o fácil acesso a ordens de serviço anteriores, a capacidade de baixar laudos e fornecer feedback valioso, incluindo sugestões e reclamações. Este sistema é crucial para aprimorar a eficácia na correção de anomalias e para a gestão eficiente de infraestruturas prediais.</p>
 
-<h3>Prévia do Projeto</h3>
-<p align="justify">O projeto desenvolvido pela equipe da B1nary Devs aborda um desafio crucial no setor de inspeção predial: a gestão eficiente de anomalias identificadas nos laudos. Esta aplicação web avançada é projetada para melhorar significativamente a maneira como as anomalias são controladas e gerenciadas, aumentando a preservação do patrimônio e permitindo decisões mais informadas e precisas.</p>
-<p align="justify">O sistema integra várias funcionalidades essenciais, descritas a seguir, como a diferenciação de segmentos de edifícios, o cadastro e gerenciamento de prestadores de serviço, e a geração automatizada de ordens de serviço. Além disso, é equipado com ferramentas de relatórios detalhados que apoiam na análise e resolução de problemas identificados.</p>
-<p align="justify">Como parte do desenvolvimento, a equipe criou duas landing pages distintas. A primeira é destinada a novos clientes, facilitando a solicitação de serviços através de um formulário simplificado. A segunda landing page é personalizada para clientes existentes, onde eles podem acessar, revisar e responder às ordens de serviço anteriores, bem como baixar laudos e fornecer feedback valioso, que é essencial para a melhoria contínua do sistema.</p>
-<p align="justify">Essas interfaces são projetadas para serem intuitivas e fáceis de usar, garantindo que tanto novos quanto antigos clientes possam navegar pelo sistema sem dificuldades. Este projeto não apenas melhora a eficiência operacional, mas também eleva o padrão de serviço ao cliente, reforçando a confiança e a satisfação do cliente com o processo de gestão de inspeções prediais.</p>
 
-<h3>Funcionalidades</h3>
+<h3>Problema</h3>
+
+<p align="justify">A gestão de anomalias identificadas em Laudos de Inspeção Predial apresenta diversos desafios para as empresas que precisam garantir a manutenção adequada de edifícios. A falta de um sistema integrado dificulta a diferenciação dos segmentos do edifício, o controle de prestadores de serviço e a geração e monitoramento de ordens de serviço. Além disso, a ausência de ferramentas eficazes para a criação de relatórios detalhados compromete a capacidade de tomar decisões informadas e de implementar as correções necessárias. Esse cenário resulta em ineficiências operacionais e uma potencial perda no valor do patrimônio predial.</p>
+
+<h3>Solucao</h3>
+
+<p align="justify">A equipe da B1nary Devs desenvolveu uma aplicação web completa que visa otimizar o gerenciamento de anomalias identificadas em Laudos de Inspeção Predial. O sistema foi projetado para integrar de forma eficiente o controle de diversos elementos essenciais, como a diferenciação dos segmentos específicos de um edifício, o cadastro e a gestão de prestadores de serviço, e a geração automática de ordens de serviço. Além disso, a aplicação inclui a criação de relatórios detalhados, que auxiliam na análise das anomalias e permitem uma tomada de decisões mais precisa e informada, promovendo a preservação do patrimônio.</p>
+
+<p>Uma das inovações implementadas foi o desenvolvimento de duas landing pages distintas. A primeira, destinada a novos clientes, oferece uma interface intuitiva com um formulário simplificado para facilitar a solicitação de novas ordens de serviço. A segunda landing page, personalizada para clientes existentes, permite o fácil acesso a ordens de serviço anteriores, o download de laudos de inspeção e a possibilidade de fornecer feedback valioso, como sugestões ou reclamações.</p>
+
+<p>Com essa solução, a equipe da B1nary Devs não só simplificou o processo de gestão e correção de anomalias, mas também aprimorou a experiência do usuário, criando um sistema eficiente e fácil de usar. O sistema contribui para a preservação do patrimônio predial e otimiza os processos operacionais, atendendo tanto às necessidades de novos clientes quanto daqueles já existentes.</p>
+<details>
+  <summary><b>Funcionalidades do Sistema</b></summary>
+  <br>
 <ul>
     <li>Cadastro de segmento - Permite cadastrar e associar segmentos específicos de edifícios.</li>
     <li>Cadastro de prestador de serviço - Facilita o cadastro de prestadores para utilização em ordens de serviço.</li>
@@ -233,7 +311,7 @@ Tecnologia de São José dos Campos.</p>
     <li>Aprovação e reprovação de ordens de serviço - Oferece capacidade para visualizar e gerenciar a aprovação de ordens.</li>
     <li>Interface intuitiva para solicitação e gestão de serviços.</li>
 </ul>
-
+</details>
 <h3>Tecnologias Utilizadas</h3>
 <ul>
     <li>Figma - para UX/UI design.</li>
@@ -260,13 +338,35 @@ Tecnologia de São José dos Campos.</p>
     <li><strong>Desenvolvimento de Módulos em Vue.js:</strong> Durante o projeto, desenvolvi a habilidade de criar e gerenciar módulos no framework Vue.js, o que me permitiu construir interfaces de usuário dinâmicas. Aprendi a estruturar o código de forma modular, o que facilita a manutenção e a escalabilidade da aplicação, além de permitir a reutilização de componentes em diferentes partes do projeto sem redundâncias.</li>
 </ul>
 
+
+
+<h3>Softs Skils</h3>
+<h4>Comunicacao Assertiva</h4>
+<p>Como Scrum Master, desenvolvi e pratiquei uma comunicação assertiva para lidar eficazmente com os problemas que surgiam ao longo das sprints. Essa habilidade foi essencial para facilitar o diálogo com os membros da equipe, garantindo que todos estivessem alinhados e permitindo a identificação das melhores soluções para as situações enfrentadas.</p>
+
+<h4>Empatia</h4>
+<p>Como Scrum Master, a empatia foi uma habilidade fundamental para compreender o que os membros da equipe estavam enfrentando. Com essa visão, pude apoiar cada um de acordo com suas necessidades, ajustando o ritmo de trabalho e criando um ambiente mais colaborativo e compreensivo, o que contribuiu para o sucesso do time e para a resolução dos desafios de forma mais humana.</p>
+
+<h4>Gerenciamento de tempo</h4>
+<p>Como Scrum Master, o gerenciamento de tempo foi crucial para o sucesso do projeto. Tive que organizar as tarefas de forma eficiente, quebrando-as em pequenas tasks para facilitar o acompanhamento e garantir que os prazos fossem cumpridos. Esse planejamento permitiu monitorar o progresso da equipe de maneira mais eficaz e assegurar que as entregas estivessem alinhadas com o cronograma das sprints.</p>
+
+
+
+<hr>
+
+
+
+
+
 <h4>5º Semestre • 2024</h4>
-<h2>DESCRIÇÃO DO PROJETO</h2>
+<h2>Tecsus</h2>
 <p align="justify">Durante o quinto semestre, o projeto desenvolvido na TecSUS focou na coleta, processamento e análise de grandes volumes de dados provenientes de faturas de energia, água e gás de diversas empresas do setor de atacado e varejo. Cada unidade cliente possui diversos contratos relacionados a serviços de utilidade pública, e a gestão eficiente dessas informações é crucial para a análise técnica e financeira. O desafio principal era transformar dados não estruturados, armazenados em arquivos de texto no formato CSV, em um formato organizado e acessível que pudesse ser utilizado para gerar insights valiosos. O objetivo final era permitir que os clientes da TecSUS pudessem identificar oportunidades de redução de custos, otimização de contratos e detecção de anomalias em padrões de consumo.</p>
 <p align="justify">A complexidade do desafio estava na diversidade e volume dos dados, além da necessidade de garantir que todas as informações fossem processadas de maneira precisa e consistente. Cada contrato, vinculado a diferentes concessionárias de abastecimento, podia gerar várias faturas mensais, contendo detalhes que variavam desde valores de consumo até termos contratuais específicos. A TecSUS necessitava de uma solução robusta que pudesse não apenas organizar esses dados, mas também apresentá-los de maneira clara e intuitiva para facilitar a tomada de decisões.</p>
 <h2>SOLUÇÃO PROPOSTA</h2>
 <p align="justify">A solução desenvolvida abordou diretamente esses desafios, através da implementação de um processo completo de ETL (Extract, Transform, Load). Este processo foi responsável pela extração dos dados dos arquivos CSV, seguido da transformação desses dados para garantir sua integridade e conformidade com o modelo estrela. Finalmente, os dados tratados foram inseridos em um banco de dados estruturado, pronto para consultas e análises.</p>
 <p align="justify">Além do ETL, foi desenvolvido um dashboard interativo que permitia aos administradores da TecSUS realizar análises detalhadas das contas e contratos, com a possibilidade de aplicar filtros específicos para focar em áreas de interesse. O dashboard oferecia visualizações claras e intuitivas que facilitavam a identificação de padrões de consumo e comparações entre diferentes períodos e tipos de serviços (energia, água e gás). Além disso, a solução incluía a geração de relatórios detalhados e alertas automáticos para consumos acima da média, auxiliando na detecção de anomalias e oferecendo oportunidades para a otimização de recursos.</p>
+
+
 <h2>TECNOLOGIAS UTILIZADAS</h2>
 <ul>
     <li>Python para desenvolvimento de scripts ETL</li>
