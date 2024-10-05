@@ -18,10 +18,14 @@ Tecnologia de São José dos Campos.</p>
 <p align="justify">Atualmente sou Desenvolvedor Full Stack Jr no Sicoob Cressem. Responsável pela criação e administração de um sistema Web integrado ao Active Directory, utilizado por cerca de 80 usuários diários, gerando uma média de 8.000 requisições REST por dia. Administro um banco de dados com mais de 100 tabelas, garantindo a integridade dos dados, realizando backups regulares, e implementando junções e processos automáticos. Além disso, sou responsável pelos processos diários de ETL, desenvolvo backups automáticos de arquivos e programas executáveis em Python, e atuo na automação de processos com RPA utilizando Python.</p>
 <p align="center">• <a href="https://www.linkedin.com/in/marcelo-silva7/">LinkedIn</a> • <a href="https://github.com/marcelosilva7">GitHub</a> •</p>
 <hr>
+
+
 <h2>Meus Projetos</h2>
 <h2>Assistente Virtual Lola</h2>
 <h4>1º Semestre • 2022 </h4> 
-<p align="justify">Parceiro Acadêmico: <a href="https://fatecsjc-prd.azurewebsites.net/">FATEC São José dos Campos - Prof. Jessen Vidal</a></p>
+<p align="justify">Parceiro Acadêmico: <a href="https://fatecsjc-prd.azurewebsites.net/">FATEC São José dos Campos - Prof. Jessen Vidal</a> <a href="https://github.com/OsReservas/API_LOLA-ASSISTENTE-VIRTUAL">Repositorio</a></p>
+
+
 <p align="justify">Projeto desenvolvido sob orientação do professor Fabiano Sabha, desenvolvendo uma API específica para a educação infantil.</p>
 <!-- <p align="center"><img src="https://exemplo.com/imagens/assistente_virtual.png" width="20%"> foto da lola</p> -->
  <h3>Problema</h3>
@@ -88,7 +92,8 @@ Aprimorei muito minhas habilidades de trabalho em equipe ao auxiliar meus colega
 
 <h2>Aplicação PRO4TECH RH</h2>
 <h4>2º Semestre • 2022 </h4>
-<p align="justify">Parceiro Acadêmico: <a href="https://www.pro4tech.com.br/">Pro4Tech</a></p>
+<p align="justify">Parceiro Acadêmico: <a href="https://www.pro4tech.com.br/">Pro4Tech</a> <a href="https://github.com/OsReservas/Project-RH">Repositorio</a></p>
+
 
  <h3>Problema</h3>
  <p>  
@@ -157,9 +162,9 @@ Como eu era o único responsável pelo desenvolvimento do backend, tive que lida
 
 <hr>
 
-
-<h4>3º Semestre • 2023 </h4>
 <h2>Sistema de Predicao de Vendas</h2>
+<h4>3º Semestre • 2023 </h4>
+<p align="justify">Parceiro Acadêmico: <a href="https://www.domrock.net/#:~:text=A%20otimiza%C3%A7%C3%A3o%20do%20portf%C3%B3lio%20e%20da">Dom Rock</a> <a href="https://github.com/B1nary-Devs/DOM-ROCK">Repositorio</a></p>
 <h3>Problema</h3>
 <p>O processo de gerenciamento de vendas nas empresas apresenta desafios significativos, especialmente ao lidar com três áreas críticas: histórico de vendas dos vendedores, planejamento de vendas e registros das vendas realizadas. A falta de integração entre essas informações dificulta uma análise precisa e detalhada do desempenho, tornando o processo de tomada de decisões demorado e suscetível a erros. Além disso, a ausência de ferramentas preditivas limita a capacidade de antecipar tendências e otimizar os resultados de vendas.</p>
 <h3>Solucao</h3>
@@ -286,7 +291,8 @@ Como eu era o único responsável pelo desenvolvimento do backend, tive que lida
 
 <h2>Sistema de Gestão de Anomalias em Laudos de Inspeção Predial</h2>
 <h4>4º Semestre • 2023 </h4> 
-
+<p align="justify">Parceiro Acadêmico: <a href="https://www.jaia.software/">Jaia Software</a>  <a href="https://github.com/B1nary-Devs/JAIA-SOFTWARE">Repositorio</a></p>
+https://github.com/B1nary-Devs/JAIA-SOFTWARE
 
 <h3>Problema</h3>
 
@@ -357,9 +363,11 @@ Como eu era o único responsável pelo desenvolvimento do backend, tive que lida
 
 
 
-
-<h4>5º Semestre • 2024</h4>
 <h2>Tecsus</h2>
+<h4>5º Semestre • 2024</h4>
+<p align="justify">Parceiro Acadêmico: <a href="https://tecsus.com.br/">Tecsus</a> <a href="https://github.com/B1nary-Devs/Tecsus">Repositorio</a></p>
+
+
 <p align="justify">Durante o quinto semestre, o projeto desenvolvido na TecSUS focou na coleta, processamento e análise de grandes volumes de dados provenientes de faturas de energia, água e gás de diversas empresas do setor de atacado e varejo. Cada unidade cliente possui diversos contratos relacionados a serviços de utilidade pública, e a gestão eficiente dessas informações é crucial para a análise técnica e financeira. O desafio principal era transformar dados não estruturados, armazenados em arquivos de texto no formato CSV, em um formato organizado e acessível que pudesse ser utilizado para gerar insights valiosos. O objetivo final era permitir que os clientes da TecSUS pudessem identificar oportunidades de redução de custos, otimização de contratos e detecção de anomalias em padrões de consumo.</p>
 <p align="justify">A complexidade do desafio estava na diversidade e volume dos dados, além da necessidade de garantir que todas as informações fossem processadas de maneira precisa e consistente. Cada contrato, vinculado a diferentes concessionárias de abastecimento, podia gerar várias faturas mensais, contendo detalhes que variavam desde valores de consumo até termos contratuais específicos. A TecSUS necessitava de uma solução robusta que pudesse não apenas organizar esses dados, mas também apresentá-los de maneira clara e intuitiva para facilitar a tomada de decisões.</p>
 <h2>SOLUÇÃO PROPOSTA</h2>
