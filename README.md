@@ -33,7 +33,7 @@ Tecnologia de São José dos Campos.</p>
         Com o crescente uso da tecnologia entre as crianças, especialmente na faixa etária de 5 a 8 anos, surgem preocupações em relação ao equilíbrio entre entretenimento e aprendizado. Aplicativos e assistentes virtuais voltados para crianças nem sempre são adequados para essa faixa etária, oferecendo conteúdos complexos ou distrações pouco educativas. Além disso, muitas vezes, esses recursos não estimulam de maneira eficaz habilidades importantes, como o desenvolvimento do vocabulário, autonomia em tarefas diárias e o aprendizado de conceitos básicos, como matemática simples e noções de higiene. Outro desafio é encontrar ferramentas tecnológicas que as crianças possam utilizar de forma autônoma e segura, sem a necessidade de supervisão constante.
     </p>
 
-<h3>Proposta de Solução</h3>
+<h3>Solução</h3>
 <p>
     A assistente virtual Lola foi projetada para enfrentar esses desafios, oferecendo uma plataforma educativa e interativa voltada especificamente para crianças de 5 a 8 anos. Ativada por comandos de voz com a palavra-chave "Oi Lola", ela permite que as crianças interajam de forma natural e intuitiva, promovendo o desenvolvimento de habilidades cognitivas e a autonomia nas tarefas diárias. Lola oferece diversas funcionalidades interativas que auxiliam no aprendizado e no desenvolvimento das crianças em um ambiente tecnológico acessível e seguro.
 </p>
@@ -356,33 +356,41 @@ https://github.com/B1nary-Devs/JAIA-SOFTWARE
 <h4>Gerenciamento de tempo</h4>
 <p>Como Scrum Master, o gerenciamento de tempo foi crucial para o sucesso do projeto. Tive que organizar as tarefas de forma eficiente, quebrando-as em pequenas tasks para facilitar o acompanhamento e garantir que os prazos fossem cumpridos. Esse planejamento permitiu monitorar o progresso da equipe de maneira mais eficaz e assegurar que as entregas estivessem alinhadas com o cronograma das sprints.</p>
 
-
-
 <hr>
 
-
-
-
-<h2>Tecsus</h2>
+<h2>Sistema de monitoramento Tecsus</h2>
 <h4>5º Semestre • 2024</h4>
 <p align="justify">Parceiro Acadêmico: <a href="https://tecsus.com.br/">Tecsus</a> <a href="https://github.com/B1nary-Devs/Tecsus">Repositorio</a></p>
 
 
-<p align="justify">Durante o quinto semestre, o projeto desenvolvido na TecSUS focou na coleta, processamento e análise de grandes volumes de dados provenientes de faturas de energia, água e gás de diversas empresas do setor de atacado e varejo. Cada unidade cliente possui diversos contratos relacionados a serviços de utilidade pública, e a gestão eficiente dessas informações é crucial para a análise técnica e financeira. O desafio principal era transformar dados não estruturados, armazenados em arquivos de texto no formato CSV, em um formato organizado e acessível que pudesse ser utilizado para gerar insights valiosos. O objetivo final era permitir que os clientes da TecSUS pudessem identificar oportunidades de redução de custos, otimização de contratos e detecção de anomalias em padrões de consumo.</p>
-<p align="justify">A complexidade do desafio estava na diversidade e volume dos dados, além da necessidade de garantir que todas as informações fossem processadas de maneira precisa e consistente. Cada contrato, vinculado a diferentes concessionárias de abastecimento, podia gerar várias faturas mensais, contendo detalhes que variavam desde valores de consumo até termos contratuais específicos. A TecSUS necessitava de uma solução robusta que pudesse não apenas organizar esses dados, mas também apresentá-los de maneira clara e intuitiva para facilitar a tomada de decisões.</p>
-<h2>SOLUÇÃO PROPOSTA</h2>
-<p align="justify">A solução desenvolvida abordou diretamente esses desafios, através da implementação de um processo completo de ETL (Extract, Transform, Load). Este processo foi responsável pela extração dos dados dos arquivos CSV, seguido da transformação desses dados para garantir sua integridade e conformidade com o modelo estrela. Finalmente, os dados tratados foram inseridos em um banco de dados estruturado, pronto para consultas e análises.</p>
-<p align="justify">Além do ETL, foi desenvolvido um dashboard interativo que permitia aos administradores da TecSUS realizar análises detalhadas das contas e contratos, com a possibilidade de aplicar filtros específicos para focar em áreas de interesse. O dashboard oferecia visualizações claras e intuitivas que facilitavam a identificação de padrões de consumo e comparações entre diferentes períodos e tipos de serviços (energia, água e gás). Além disso, a solução incluía a geração de relatórios detalhados e alertas automáticos para consumos acima da média, auxiliando na detecção de anomalias e oferecendo oportunidades para a otimização de recursos.</p>
+<h3>Problema</h3>
+
+<p align="justify">O desafio consiste em realizar uma análise abrangente e eficiente dos dados provenientes das faturas de energia, água e gás. Isso envolve lidar com uma grande quantidade de informações complexas e variadas, desde os valores de consumo até os detalhes contratuais e os padrões de utilização ao longo do tempo. A exibição desses dados também é parte essencial do desafio, pois é preciso apresentar as informações de forma clara, intuitiva e relevante para os usuários finais. Isso implica criar visualizações que permitam uma compreensão rápida e aprofundada dos padrões de consumo, tendências ao longo do tempo e comparações entre diferentes períodos, contratos e tipos de serviços (energia, água e gás). Portanto, o desafio abrange desde a coleta e processamento dos dados até a apresentação visual e análise interpretativa, visando fornecer insights valiosos para a tomada de decisões estratégicas e operacionais.</p>
 
 
-<h2>TECNOLOGIAS UTILIZADAS</h2>
+<h3>Solucao</h3>
+<p align="justify">A solução proposta para lidar com os desafios na análise e exibição de dados de faturas de energia, água e gás inclui a implementação de processos de tratativa nos dados dos arquivos de contrato e contas, garantindo a integridade e consistência das informações. Além disso, será desenvolvido um dashboard intuitivo e interativo, permitindo aos administradores realizar métricas e acompanhamentos detalhados das contas e contratos, com filtros específicos para análises precisas. Também será possível gerar relatórios detalhados de consumo total em diferentes períodos, auxiliando na identificação de padrões e tomada de decisões estratégicas. A solução também oferecerá alertas automáticos de consumo acima da média para detectar possíveis anomalias e oportunidades de otimização.</p>
+
+<details><summary><b>Funcionalidades do Sistema</b></summary> 
+<ul> <li>Visualização de gráficos de consumo de energia, água e gás</li> 
+  <li>Filtros para análise de dados por período e tipo de serviço (energia, água, gás)</li> 
+  <li>Geração automática de relatórios detalhados de consumo</li> 
+  <li>Alertas automáticos de consumo acima da média</li> 
+  <li>Comparação entre diferentes períodos de consumo</li> 
+  <li>Atualização automatizada de dados ao carregar novos arquivos CSV</li> 
+  <li>Exportação de relatórios em formatos CSV e PDF</li> 
+  <li>Dashboard interativo com métricas e visualizações personalizáveis</li> 
+</ul> 
+</details>
+
+<h3>TECNOLOGIAS UTILIZADAS</h3>
 <ul>
     <li>Python para desenvolvimento de scripts ETL</li>
     <li>Pandas para manipulação e tratamento de dados</li>
     <li>SQLAlchemy para integração e manipulação de banco de dados</li>
     <li>Arquivos CSV como fonte de dados</li>
 </ul>
-<h2>CONTRIBUIÇÕES PESSOAIS</h2>
+<h3>CONTRIBUIÇÕES PESSOAIS</h3>
 <p align="justify">Durante este projeto, desempenhei um papel fundamental como desenvolvedor, assumindo a responsabilidade pelo processo completo de ETL. Minhas principais contribuições incluem:</p>
 <ul>
     <li><strong>Implementação do Processo ETL:</strong> Desenvolvi e automatizei todo o pipeline de ETL, desde a extração dos dados dos arquivos CSV até a transformação e carregamento desses dados em um banco de dados estruturado. Utilizando Python e Pandas, garanti que o processo fosse realizado de forma eficiente, com foco na integridade e consistência dos dados.</li>
@@ -390,9 +398,15 @@ https://github.com/B1nary-Devs/JAIA-SOFTWARE
     <li><strong>Automatização do ETL para Atualizações:</strong> Além da carga inicial dos dados, desenvolvi uma rotina automatizada para a atualização contínua dos dados. Isso permite que o cliente, ao realizar o upload de novos arquivos CSV através de uma interface web, acione o processo de ETL para atualizar as informações no banco de dados de forma automática e eficiente. Essa funcionalidade garante que os dados estejam sempre atualizados e prontos para análises futuras.</li>
     <li><strong>Criação e Gerenciamento de um Data Lake:</strong> Projetei e implementei um data lake para armazenar e organizar grandes volumes de dados de forma estruturada. O data lake foi essencial para suportar a integração e processamento dos dados de diversas fontes, garantindo que todos os dados estivessem disponíveis para consultas e análises detalhadas.</li>
 </ul>
-<h2>LIÇÕES APRENDIDAS</h2>
+<h3>LIÇÕES APRENDIDAS</h3>
 <ul>
     <li><strong>Modelo Estrela:</strong> Aprendi a aplicar o modelo estrela, uma técnica crucial na organização de dados para análises OLAP (Online Analytical Processing). Essa modelagem facilitou a criação de relatórios e dashboards, permitindo uma visão detalhada e eficiente dos dados de consumo.</li>
     <li><strong>Automatização do ETL:</strong> Desenvolvi habilidades avançadas em automação de processos de ETL, incluindo a criação de rotinas para a atualização contínua dos dados. Essa experiência foi essencial para garantir a integridade dos dados e a eficiência no processamento de novas informações conforme elas eram inseridas no sistema.</li>
     <li><strong>Criação e Gerenciamento de Data Lake:</strong> O trabalho com data lakes me proporcionou uma compreensão profunda sobre como armazenar e organizar grandes volumes de dados de maneira estruturada, permitindo um acesso eficiente e uma integração fluida com sistemas de análise de dados.</li>
+
+<h3>Softs Skils</h3>
+
+<li><strong>Resolução de problemas:</strong> Como fui responsável por todo o processo de ETL no projeto, essa habilidade foi crucial, já que a base de dados estava cheia de inconsistências e problemas. Tive que limpar os dados, corrigir erros e organizá-los em um modelo estrela, o que foi extremamente trabalhoso. Além disso, depois de toda essa preparação, precisei inserir os dados no banco de dados relacional, garantindo a consistência e a integridade das informações. Esse processo exigiu muita paciência e criatividade para superar os desafios e garantir que os dados estivessem prontos para análise.</li>
+
+<li><strong>Trabalho em equipe e colaboração:</strong> No projeto, trabalhei em conjunto com colegas e parceiros, integrando o front-end e back-end ao meu processo de ETL. Colaborei com a equipe de front-end para garantir a exibição correta dos dados no dashboard e com o time de back-end para organizar o banco de dados de forma eficiente. Essa integração foi essencial para o sucesso do sistema, garantindo que todas as partes funcionassem de forma eficaz e integrada.</li>
 </ul>
