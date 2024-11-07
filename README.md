@@ -25,9 +25,11 @@ Tecnologia de São José dos Campos.</p>
 <h4>1º Semestre • 2022 </h4> 
 <p align="justify">Parceiro Acadêmico: <a href="https://fatecsjc-prd.azurewebsites.net/">FATEC São José dos Campos - Prof. Jessen Vidal</a> <a href="https://github.com/OsReservas/API_LOLA-ASSISTENTE-VIRTUAL">Repositorio</a></p>
 
-
 <p align="justify">Projeto desenvolvido sob orientação do professor Fabiano Sabha, desenvolvendo uma API específica para a educação infantil.</p>
 <!-- <p align="center"><img src="https://exemplo.com/imagens/assistente_virtual.png" width="20%"> foto da lola</p> -->
+
+https://github.com/user-attachments/assets/7a8e2f35-c652-4f09-9dcc-729561692638
+
  <h3>Problema</h3>
     <p>
         Com o crescente uso da tecnologia entre as crianças, especialmente na faixa etária de 5 a 8 anos, surgem preocupações em relação ao equilíbrio entre entretenimento e aprendizado. Aplicativos e assistentes virtuais voltados para crianças nem sempre são adequados para essa faixa etária, oferecendo conteúdos complexos ou distrações pouco educativas. Além disso, muitas vezes, esses recursos não estimulam de maneira eficaz habilidades importantes, como o desenvolvimento do vocabulário, autonomia em tarefas diárias e o aprendizado de conceitos básicos, como matemática simples e noções de higiene. Outro desafio é encontrar ferramentas tecnológicas que as crianças possam utilizar de forma autônoma e segura, sem a necessidade de supervisão constante.
@@ -93,6 +95,8 @@ Aprimorei muito minhas habilidades de trabalho em equipe ao auxiliar meus colega
 <h2>Aplicação PRO4TECH RH</h2>
 <h4>2º Semestre • 2022 </h4>
 <p align="justify">Parceiro Acadêmico: <a href="https://www.pro4tech.com.br/">Pro4Tech</a> <a href="https://github.com/OsReservas/Project-RH">Repositorio</a></p>
+
+![rh03](https://github.com/user-attachments/assets/dd54d315-2389-44ed-8e43-09d0873637bc)
 
 
  <h3>Problema</h3>
@@ -165,6 +169,10 @@ Como eu era o único responsável pelo desenvolvimento do backend, tive que lida
 <h2>Sistema de Predicao de Vendas</h2>
 <h4>3º Semestre • 2023 </h4>
 <p align="justify">Parceiro Acadêmico: <a href="https://www.domrock.net/#:~:text=A%20otimiza%C3%A7%C3%A3o%20do%20portf%C3%B3lio%20e%20da">Dom Rock</a> <a href="https://github.com/B1nary-Devs/DOM-ROCK">Repositorio</a></p>
+
+![238165266-b8670574-138e-4850-a426-94e4ca85456c](https://github.com/user-attachments/assets/89e48779-8315-4cd1-a013-04498c214468)
+
+
 <h3>Problema</h3>
 <p>O processo de gerenciamento de vendas nas empresas apresenta desafios significativos, especialmente ao lidar com três áreas críticas: histórico de vendas dos vendedores, planejamento de vendas e registros das vendas realizadas. A falta de integração entre essas informações dificulta uma análise precisa e detalhada do desempenho, tornando o processo de tomada de decisões demorado e suscetível a erros. Além disso, a ausência de ferramentas preditivas limita a capacidade de antecipar tendências e otimizar os resultados de vendas.</p>
 <h3>Solucao</h3>
@@ -292,7 +300,8 @@ Como eu era o único responsável pelo desenvolvimento do backend, tive que lida
 <h2>Sistema de Gestão de Anomalias em Laudos de Inspeção Predial</h2>
 <h4>4º Semestre • 2023 </h4> 
 <p align="justify">Parceiro Acadêmico: <a href="https://www.jaia.software/">Jaia Software</a>  <a href="https://github.com/B1nary-Devs/JAIA-SOFTWARE">Repositorio</a></p>
-https://github.com/B1nary-Devs/JAIA-SOFTWARE
+
+![280539824-aef223f2-0808-412e-947b-ee1ed5637693](https://github.com/user-attachments/assets/19ac7531-21ca-41d9-b059-3d1d1945f15a)
 
 <h3>Problema</h3>
 
@@ -361,6 +370,8 @@ https://github.com/B1nary-Devs/JAIA-SOFTWARE
 <h2>Sistema de monitoramento Tecsus</h2>
 <h4>5º Semestre • 2024</h4>
 <p align="justify">Parceiro Acadêmico: <a href="https://tecsus.com.br/">Tecsus</a> <a href="https://github.com/B1nary-Devs/Tecsus">Repositorio</a></p>
+
+![322318621-5cd05c92-733b-44af-8177-b2c8f2c9b37e](https://github.com/user-attachments/assets/306dfb30-40bd-4150-9c91-f86d7492e16f)
 
 
 <h3>Problema</h3>
