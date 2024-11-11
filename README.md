@@ -4,7 +4,7 @@
   como requisito parcial para a obtenção do título de Tecnólogo em Banco de Dados.</p>
 
 <h2>Sobre mim</h2>
-<p align="justify">Graduado em Administracao de Empresas pelo Centro Universitário Etep e matriculado no 6º semestre do curso tecnólogo em Banco de Dados pela Faculdade de 
+<p align="justify">Graduado em Administração de Empresas pelo Centro Universitário ETEP e matriculado no 6º semestre do curso tecnólogo em Banco de Dados pela Faculdade de 
 Tecnologia de São José dos Campos.</p>
 <p>
     Iniciei minha carreira profissional no atendimento do Paço Municipal de São José dos Campos, onde atuava como atendente e era responsável por abrir processos administrativos. Após um ano nessa função, solicitei transferência de área e fui designado ao Banco do Povo Paulista, onde passei a realizar todo o processo de concessão de empréstimos para os clientes. Obtive bons resultados, mas, após um ano, infelizmente meu contrato chegou ao fim.
@@ -23,7 +23,7 @@ Tecnologia de São José dos Campos.</p>
 <h2>Meus Projetos</h2>
 <h2>Assistente Virtual Lola</h2>
 <h4>1º Semestre • 2022 </h4> 
-<p align="justify">Parceiro Acadêmico: <a href="https://fatecsjc-prd.azurewebsites.net/">FATEC São José dos Campos - Prof. Jessen Vidal</a> <a href="https://github.com/OsReservas/API_LOLA-ASSISTENTE-VIRTUAL">Repositorio</a></p>
+<p align="justify">Parceiro Acadêmico: <a href="https://fatecsjc-prd.azurewebsites.net/">FATEC São José dos Campos - Prof. Jessen Vidal</a> <a href="https://github.com/OsReservas/API_LOLA-ASSISTENTE-VIRTUAL">Repositório</a></p>
 
 <p align="justify">Projeto desenvolvido sob orientação do professor Fabiano Sabha, desenvolvendo uma API específica para a educação infantil.</p>
 <!-- <p align="center"><img src="https://exemplo.com/imagens/assistente_virtual.png" width="20%"> foto da lola</p> -->
@@ -79,13 +79,13 @@ https://github.com/user-attachments/assets/7a8e2f35-c652-4f09-9dcc-729561692638
 <p>A modularização foi uma estratégia adotada para melhorar a organização e a manutenibilidade do código. Ao dividir o projeto em módulos separados, cada um responsável por uma parte distinta da funcionalidade geral, pude focar em cada aspecto do sistema isoladamente. Isso facilitou a depuração, teste e expansão futura do código. A modularização ajudou na separação clara das responsabilidades dentro do aplicativo, o que é fundamental para manter a qualidade e a escalabilidade do software.</p>
 
 <h3>Softs Skils</h3>
-<h4>Comunicacao</h4>
+<h4>Comunicação</h4>
 <p>Como era meu primeiro projeto, precisei ser bastante comunicativo para garantir um bom entendimento do problema e, assim, produzir de forma adequada. A interação constante com os outros membros da equipe foi essencial para compreender suas ideias e o funcionamento dos seus códigos, pois fiquei responsável por modularizar e integrar o código de todos em um único arquivo, o que facilitou a manutenção e a legibilidade do projeto.</p>
 
 <h4>Proatividade</h4>
 <p>Fui bastante proativo no projeto, pois já havia estudado Python meses antes, o que facilitou a produção das funções e me permitiu concluir minhas tarefas antes dos outros membros. Com isso, pude ajudá-los em suas dúvidas e, por estar com um entendimento mais amplo do projeto, propus ao grupo a responsabilidade de integrar os códigos de todos, garantindo uma maior coesão e organização no trabalho final.</p>
 
-<h4>Trablho em Equipe</h4>
+<h4>Trabalho em Equipe</h4>
 <p>
 Aprimorei muito minhas habilidades de trabalho em equipe ao auxiliar meus colegas sempre que tinham dúvidas, oferecendo explicações e orientações claras. Estive disponível para ajudar e garantir que todos estivessem alinhados, contribuindo para o progresso coletivo do projeto.</p>
 
@@ -94,7 +94,7 @@ Aprimorei muito minhas habilidades de trabalho em equipe ao auxiliar meus colega
 
 <h2>Aplicação PRO4TECH RH</h2>
 <h4>2º Semestre • 2022 </h4>
-<p align="justify">Parceiro Acadêmico: <a href="https://www.pro4tech.com.br/">Pro4Tech</a> <a href="https://github.com/OsReservas/Project-RH">Repositorio</a></p>
+<p align="justify">Parceiro Acadêmico: <a href="https://www.pro4tech.com.br/">Pro4Tech</a> <a href="https://github.com/OsReservas/Project-RH">Repositório</a></p>
 
 ![rh03](https://github.com/user-attachments/assets/dd54d315-2389-44ed-8e43-09d0873637bc)
 
@@ -106,7 +106,7 @@ O processo de recrutamento e seleção de candidatos pode ser desafiador para em
 
 <!-- <p align="center"><img src="https://exemplo.com/imagens/pro4tech_rh.png" width="20%"></p> -->
 
-<h3>Solucao</h3>
+<h3>Solução</h3>
 <p>
 O PRO4TECH RH surge como uma solução completa para enfrentar os desafios comuns no processo de recrutamento e seleção de candidatos. Ao integrar a gestão de vagas de emprego com uma interface amigável e tecnologias avançadas de cruzamento de dados, o sistema permite que equipes de Recursos Humanos tenham maior controle, agilidade e precisão em suas atividades diárias.
 </p>
@@ -122,7 +122,7 @@ O sistema é projetado para otimizar o processo de contratação, simplificando 
     <li>Candidatura dos usuários às vagas disponíveis.</li>
     <li>Recepção de relatórios completos para o RH.</li>
     <li>Monitoramento e atualização do status das vagas por candidatos e RH.</li>
-    <li>Gera relatorios em PDF.</li>
+    <li>Gera relatórios em PDF.</li>
   </ul>
 </details>
 <h3>Tecnologias Utilizadas</h3>
@@ -134,7 +134,7 @@ O sistema é projetado para otimizar o processo de contratação, simplificando 
   <li>Swing para a construção da interface de usuário.</li>
 </ul>
 <h3>Contribuições Pessoais</h3>
-<p align="justify">Desempenhei um papel essencial no desenvolvimento do projeto PRO4TECH RH, sendo responsável pela criação do banco de dados e pela programação de toda a camada de back-end. Implementei as funções das classes DAO, que são cruciais para a comunicação eficiente entre a interface de usuário e o banco de dados MySQL. Além disso, desenvolvi todas as funcionalidades dos botões na interface, garantindo uma interação fluída e intuitiva para os usuários. As principais atividades que liderei incluem:</p>
+<p align="justify">Desempenhei um papel essencial no desenvolvimento do projeto PRO4TECH RH, sendo responsável pela criação do banco de dados e pela programação de toda a camada de Back-End. Implementei as funções das classes DAO, que são cruciais para a comunicação eficiente entre a interface de usuário e o banco de dados MySQL. Além disso, desenvolvi todas as funcionalidades dos botões na interface, garantindo uma interação fluída e intuitiva para os usuários. As principais atividades que liderei incluem:</p>
 <ul>
   <li><strong>Criação e estruturação do banco de dados MySQL:</strong> Fui responsável por definir a arquitetura inicial do banco de dados, incluindo a criação de tabelas e o estabelecimento de relações entre elas. Esse processo envolveu a análise cuidadosa dos requisitos do sistema para garantir que o banco de dados fosse capaz de armazenar e processar eficientemente todos os dados necessários, com especial atenção à integridade dos dados e ao desempenho das consultas.</li>
   <li><strong>Desenvolvimento das funções DAO para manipulação dos dados:</strong> Implementei classes DAO (Data Access Object) para abstrair e encapsular todas as operações de banco de dados relacionadas ao projeto. Isso incluiu a criação de métodos específicos para inserção, atualização, exclusão e recuperação de dados. A aplicação de padrões como DAO permitiu que o sistema mantivesse uma separação clara entre a lógica de negócios e a camada de acesso a dados, facilitando futuras alterações e manutenções no código.</li>
@@ -151,31 +151,31 @@ O sistema é projetado para otimizar o processo de contratação, simplificando 
 <p align="justify">Trabalhar com Java para criar uma aplicação desktop foi uma experiência enriquecedora que ampliou minha compreensão sobre a programação orientada a objetos e o desenvolvimento de interfaces de usuário. Aprender a manipular eventos, construir interfaces responsivas e garantir uma experiência de usuário fluida e funcional mostrou-se essencial para o sucesso do projeto. A capacidade de projetar interfaces que atendem eficazmente às necessidades dos usuários finais em ambientes corporativos melhorou significativamente, resultando em um produto mais intuitivo e acessível.</p>
 
 <h3>Softs Skils</h3>
-<h4>Visão de Negocio</h4>
-<p>Como fui responsável pelo backend e pelo banco de dados, precisei desenvolver uma forte compreensão das regras de negócio, garantindo que elas fossem corretamente implementadas no sistema. Isso exigiu uma visão estratégica, para alinhar o desenvolvimento técnico às necessidades do projeto e assegurar que todas as funcionalidades atendessem aos requisitos da solução.</p>
+<h4>Visão de Negócio</h4>
+<p>Como fui responsável pelo Back-End e pelo banco de dados, precisei desenvolver uma forte compreensão das regras de negócio, garantindo que elas fossem corretamente implementadas no sistema. Isso exigiu uma visão estratégica, para alinhar o desenvolvimento técnico às necessidades do projeto e assegurar que todas as funcionalidades atendessem aos requisitos da solução.</p>
 
-<h4>Resiliencia</h4>
+<h4>Resiliência</h4>
 <p>
-  ste foi um dos trabalhos mais desafiadores, pois dois membros do grupo abandonaram o projeto durante sua execução. Com isso, assumi a responsabilidade pelo backend e banco de dados em Java, o que me obrigou a estudar intensivamente para dominar a tecnologia e garantir a conclusão bem-sucedida do projeto.
+  Este foi um dos trabalhos mais desafiadores, pois dois membros do grupo abandonaram o projeto durante sua execução. Com isso, assumi a responsabilidade pelo Back-End e banco de dados em Java, o que me obrigou a estudar intensivamente para dominar a tecnologia e garantir a conclusão bem-sucedida do projeto.
 </p>
 
-<h4>habilidade de solucionar problemas</h4>
+<h4>Habilidade de solucionar problemas</h4>
 <p>
-Como eu era o único responsável pelo desenvolvimento do backend, tive que lidar com todos os problemas que surgiam durante o processo. Busquei ajuda de professores, tanto da faculdade quanto de fora, para superar os desafios de desenvolvimento, especialmente porque foi meu primeiro software desenvolvido em Java. Essa busca por soluções foi fundamental para o sucesso do projeto.</p>
+Como eu era o único responsável pelo desenvolvimento do Back-End, tive que lidar com todos os problemas que surgiam durante o processo. Busquei ajuda de professores, tanto da faculdade quanto de fora, para superar os desafios de desenvolvimento, especialmente porque foi meu primeiro software desenvolvido em Java. Essa busca por soluções foi fundamental para o sucesso do projeto.</p>
 
 
 <hr>
 
-<h2>Sistema de Predicao de Vendas</h2>
+<h2>Sistema de Predição de Vendas</h2>
 <h4>3º Semestre • 2023 </h4>
-<p align="justify">Parceiro Acadêmico: <a href="https://www.domrock.net/#:~:text=A%20otimiza%C3%A7%C3%A3o%20do%20portf%C3%B3lio%20e%20da">Dom Rock</a> <a href="https://github.com/B1nary-Devs/DOM-ROCK">Repositorio</a></p>
+<p align="justify">Parceiro Acadêmico: <a href="https://www.domrock.net/#:~:text=A%20otimiza%C3%A7%C3%A3o%20do%20portf%C3%B3lio%20e%20da">Dom Rock</a> <a href="https://github.com/B1nary-Devs/DOM-ROCK">Repositório</a></p>
 
 ![238165266-b8670574-138e-4850-a426-94e4ca85456c](https://github.com/user-attachments/assets/89e48779-8315-4cd1-a013-04498c214468)
 
 
 <h3>Problema</h3>
 <p>O processo de gerenciamento de vendas nas empresas apresenta desafios significativos, especialmente ao lidar com três áreas críticas: histórico de vendas dos vendedores, planejamento de vendas e registros das vendas realizadas. A falta de integração entre essas informações dificulta uma análise precisa e detalhada do desempenho, tornando o processo de tomada de decisões demorado e suscetível a erros. Além disso, a ausência de ferramentas preditivas limita a capacidade de antecipar tendências e otimizar os resultados de vendas.</p>
-<h3>Solucao</h3>
+<h3>Solução</h3>
 <p>A solução proposta é o desenvolvimento de uma aplicação web robusta e intuitiva para o gerenciamento de vendas, que permitirá às empresas integrar e analisar de forma eficiente três pilares fundamentais: histórico de vendas dos vendedores, planejamento de vendas e registro das vendas realizadas. A principal vantagem dessa solução é a capacidade de realizar análises comparativas entre esses conjuntos de dados, permitindo que administradores e vendedores avaliem o desempenho com precisão e em tempo real.</p>
 
 <p> Além das funcionalidades básicas de cadastro de vendedores e planejamento de vendas, a aplicação se destacará pela integração de um algoritmo de Inteligência Artificial (IA), que será utilizado para gerar previsões e insights valiosos. Isso dará aos gestores e vendedores uma visão mais clara sobre possíveis tendências e permitirá que ajustes estratégicos sejam feitos com antecedência, melhorando a eficácia das decisões relacionadas às vendas.</p>
@@ -203,10 +203,10 @@ Como eu era o único responsável pelo desenvolvimento do backend, tive que lida
 </ul>
 
 <h3>CONTRIBUIÇÕES PESSOAIS</h3>
-<p>Na realização deste projeto, desempenhei um papel crucial no desenvolvimento do back-end, aplicando minhas habilidades técnicas e influenciando estrategicamente o progresso do sistema:</p>
+<p>Na realização deste projeto, desempenhei um papel crucial no desenvolvimento do Back-End, aplicando minhas habilidades técnicas e influenciando estrategicamente o progresso do sistema:</p>
 <ul>
-    <li><strong>Desenvolvimento de Operações de CRUD para Modelos Diversos:</strong> Liderei a implementação das operações de CRUD para modelos chave como Cliente, Vendedor e Registro. Utilizei APIs RESTful para gerenciar os dados de forma eficiente, aplicando meu conhecimento aprofundado em Spring Boot e JPA para criar soluções de back-end robustas.</li>
-    <li><strong>Criação de Controladores:</strong> Fui responsável pelo desenvolvimento de controladores em Java com Spring Boot. Essa tarefa envolveu a gestão de solicitações e respostas HTTP e a integração da interface do usuário com a lógica de negócios. Essa experiência reforçou meu entendimento do fluxo de dados entre o front-end e o back-end e melhorou minha habilidade em processar e responder a dados de forma eficiente e segura.</li>
+    <li><strong>Desenvolvimento de Operações de CRUD para Modelos Diversos:</strong> Liderei a implementação das operações de CRUD para modelos chave como Cliente, Vendedor e Registro. Utilizei APIs RESTful para gerenciar os dados de forma eficiente, aplicando meu conhecimento aprofundado em Spring Boot e JPA para criar soluções de Back-End robustas.</li>
+    <li><strong>Criação de Controladores:</strong> Fui responsável pelo desenvolvimento de controladores em Java com Spring Boot. Essa tarefa envolveu a gestão de solicitações e respostas HTTP e a integração da interface do usuário com a lógica de negócios. Essa experiência reforçou meu entendimento do fluxo de dados entre o Front-End e o Back-End e melhorou minha habilidade em processar e responder a dados de forma eficiente e segura.</li>
     <li><strong>Estruturação de Repositórios e Serviços:</strong> Projetar e desenvolver repositórios e serviços foi uma das minhas principais contribuições. Concentrei-me em simplificar as operações de banco de dados e encapsular a lógica de negócios, seguindo as melhores práticas de código limpo e sustentável. Isso incluiu a criação de serviços especializados para abstrair a complexidade das interações com o banco de dados, melhorando a manutenibilidade e a escalabilidade do sistema.</li>
     <li><strong>Implementação do RegistroConverter:</strong> Um dos desafios mais intricados que enfrentei foi o projeto e implementação do RegistroConverter. Esse componente foi vital na transformação de objetos de entidade em DTOs e vice-versa, assegurando uma transferência de dados eficiente e segura entre as camadas da aplicação. Esse trabalho me permitiu aprofundar meus conhecimentos sobre padrões DTO e práticas de segurança de dados.</li>
 </ul>
@@ -285,12 +285,12 @@ Como eu era o único responsável pelo desenvolvimento do backend, tive que lida
 
 <h3>Softs Skils</h3>
 <h4>Solucionar Problemas</h4>
-<p> Como responsável pelo backend, enfrentei o desafio de trabalhar com arquiteturas REST pela primeira vez, saindo da familiar arquitetura DAO. Além disso, estávamos aprendendo Spring Boot, o que tornou o processo ainda mais desafiador. Ao longo das sprints, surgiram muitos problemas que precisei solucionar, o que exigiu um grande esforço de aprendizado e adaptação. Contei com o apoio dos professores, especialmente do professor Nadatelle, que sempre esteve disponível para esclarecer minhas dúvidas em questões específicas, o que foi fundamental para superar essas dificuldades.</p>
+<p> Como responsável pelo Back-End, enfrentei o desafio de trabalhar com arquiteturas REST pela primeira vez, saindo da familiar arquitetura DAO. Além disso, estávamos aprendendo Spring Boot, o que tornou o processo ainda mais desafiador. Ao longo das sprints, surgiram muitos problemas que precisei solucionar, o que exigiu um grande esforço de aprendizado e adaptação. Contei com o apoio dos professores, especialmente do professor Nadatelle, que sempre esteve disponível para esclarecer minhas dúvidas em questões específicas, o que foi fundamental para superar essas dificuldades.</p>
 
 <h4>Adaptabilidade</h4>
 <p>Tive que me adaptar rapidamente à nova tecnologia de REST e à mudança de arquitetura, saindo de DAO para Spring Boot. Esse ajuste foi essencial para que eu pudesse entregar o projeto com sucesso, mesmo enfrentando desafios técnicos e aprendendo conforme o desenvolvimento avançava.</p>
 
-<h4>Comunicacao</h4>
+<h4>Comunicação</h4>
 <p>Foi essencial desenvolver uma comunicação clara e expressiva ao entrar em um grupo novo. O desafio foi entender rapidamente a maneira como eles trabalhavam e se comunicavam, adaptando minha forma de interagir para garantir que conseguíssemos colaborar de maneira eficaz e concluir o projeto com sucesso.</p>
 
 
@@ -299,7 +299,7 @@ Como eu era o único responsável pelo desenvolvimento do backend, tive que lida
 
 <h2>Sistema de Gestão de Anomalias em Laudos de Inspeção Predial</h2>
 <h4>4º Semestre • 2023 </h4> 
-<p align="justify">Parceiro Acadêmico: <a href="https://www.jaia.software/">Jaia Software</a>  <a href="https://github.com/B1nary-Devs/JAIA-SOFTWARE">Repositorio</a></p>
+<p align="justify">Parceiro Acadêmico: <a href="https://www.jaia.software/">Jaia Software</a>  <a href="https://github.com/B1nary-Devs/JAIA-SOFTWARE">Repositório</a></p>
 
 ![280539824-aef223f2-0808-412e-947b-ee1ed5637693](https://github.com/user-attachments/assets/19ac7531-21ca-41d9-b059-3d1d1945f15a)
 
@@ -307,7 +307,7 @@ Como eu era o único responsável pelo desenvolvimento do backend, tive que lida
 
 <p align="justify">A gestão de anomalias identificadas em Laudos de Inspeção Predial apresenta diversos desafios para as empresas que precisam garantir a manutenção adequada de edifícios. A falta de um sistema integrado dificulta a diferenciação dos segmentos do edifício, o controle de prestadores de serviço e a geração e monitoramento de ordens de serviço. Além disso, a ausência de ferramentas eficazes para a criação de relatórios detalhados compromete a capacidade de tomar decisões informadas e de implementar as correções necessárias. Esse cenário resulta em ineficiências operacionais e uma potencial perda no valor do patrimônio predial.</p>
 
-<h3>Solucao</h3>
+<h3>Solução</h3>
 
 <p align="justify">A equipe da B1nary Devs desenvolveu uma aplicação web completa que visa otimizar o gerenciamento de anomalias identificadas em Laudos de Inspeção Predial. O sistema foi projetado para integrar de forma eficiente o controle de diversos elementos essenciais, como a diferenciação dos segmentos específicos de um edifício, o cadastro e a gestão de prestadores de serviço, e a geração automática de ordens de serviço. Além disso, a aplicação inclui a criação de relatórios detalhados, que auxiliam na análise das anomalias e permitem uma tomada de decisões mais precisa e informada, promovendo a preservação do patrimônio.</p>
 
@@ -330,11 +330,11 @@ Como eu era o único responsável pelo desenvolvimento do backend, tive que lida
 <h3>Tecnologias Utilizadas</h3>
 <ul>
     <li>Figma - para UX/UI design.</li>
-    <li>Spring - Framework para criação do back-end.</li>
-    <li>Vue js - Framework para criação da interface web do front-end</li>
+    <li>Spring - Framework para criação do Back-End.</li>
+    <li>Vue js - Framework para criação da interface web do Front-End</li>
     <li>Axios - para chamadas HTTP.</li>
     <li>Oracle Cloud - Hospedagem do banco de dados.</li>
-    <li>TypeScript - para desenvolvimento front-end.</li>
+    <li>TypeScript - para desenvolvimento Front-End.</li>
     <li>HTML5 - para estruturação da página.</li>
     <li>CSS3 - para estilização.</li>
 </ul>
@@ -342,21 +342,21 @@ Como eu era o único responsável pelo desenvolvimento do backend, tive que lida
 <h3>Contribuições Pessoais</h3>
 <ul>
     <li><strong>Atuação como Scrum Master:</strong> Liderei e gerenciei o processo de desenvolvimento ágil do projeto, facilitando a comunicação entre os membros da equipe, removendo obstáculos e garantindo que todos os prazos fossem cumpridos. Além disso, organizei e conduzi as reuniões diárias (Daily Scrum), planejamento das sprints, revisões e retrospectivas, mantendo o projeto alinhado com os objetivos propostos.</li>
-    <li><strong>Desenvolvimento do Front-End e Back-End:</strong> Desenvolvi componentes cruciais tanto no front-end quanto no back-end, garantindo uma integração fluida e eficiente entre as interfaces do usuário e o servidor. No front-end, utilizei tecnologias como HTML5, CSS3 e TypeScript para criar interfaces responsivas e interativas. No back-end, implementei lógicas de negócios com Java e Spring, manipulando dados e implementando APIs RESTful para a comunicação entre o front-end e o banco de dados.</li>
+    <li><strong>Desenvolvimento do Front-End e Back-End:</strong> Desenvolvi componentes cruciais tanto no Front-End quanto no Back-End, garantindo uma integração fluida e eficiente entre as interfaces do usuário e o servidor. No Front-End, utilizei tecnologias como HTML5, CSS3 e TypeScript para criar interfaces responsivas e interativas. No Back-End, implementei lógicas de negócios com Java e Spring, manipulando dados e implementando APIs RESTful para a comunicação entre o Front-End e o banco de dados.</li>
     <li><strong>Modelagem do Banco de Dados e Criação de Scripts de Geração das Tabelas:</strong> Projetei a estrutura do banco de dados usando práticas de modelagem normalizada para garantir a eficiência e a integridade dos dados. Escrevi scripts SQL para a criação de tabelas, relacionamentos e procedimentos armazenados, que foram fundamentais para a operação correta do sistema. Minha contribuição assegurou que o banco de dados fosse robusto, seguro e otimizado para consultas de alta performance.</li>
 </ul>
 
 <h3>Lições Aprendidas</h3>
 <ul>
     <li><strong>Modelagem de Banco de Dados Normalizado:</strong> Durante o projeto, aprimorei significativamente meus conhecimentos em modelagem de banco de dados. Aprendi a importância e as técnicas de normalização para otimizar a eficiência e escalabilidade do sistema. Isso envolveu entender como evitar redundâncias e como garantir a integridade dos dados através do estabelecimento de chaves estrangeiras, relações e índices adequados. Esse processo foi crucial para manter o desempenho do sistema em alto nível, especialmente em operações que exigem acesso intensivo ao banco de dados.</li>
-    <li><strong>Integração com Múltiplos Repositórios e Front-end:</strong> Adquiri experiência prática em trabalhar com múltiplos repositórios de dados e na integração destes com o front-end do sistema. Configurei e gerenciei interações entre diferentes fontes de dados e o front-end, permitindo um fluxo mais fluido e eficaz de informações através das camadas do sistema. Essa habilidade foi essencial para criar uma aplicação robusta e modular, que se adapta facilmente a novas exigências e integrações futuras.</li>
+    <li><strong>Integração com Múltiplos Repositórios e Front-End:</strong> Adquiri experiência prática em trabalhar com múltiplos repositórios de dados e na integração destes com o Front-End do sistema. Configurei e gerenciei interações entre diferentes fontes de dados e o Front-End, permitindo um fluxo mais fluido e eficaz de informações através das camadas do sistema. Essa habilidade foi essencial para criar uma aplicação robusta e modular, que se adapta facilmente a novas exigências e integrações futuras.</li>
     <li><strong>Desenvolvimento de Módulos em Vue.js:</strong> Durante o projeto, desenvolvi a habilidade de criar e gerenciar módulos no framework Vue.js, o que me permitiu construir interfaces de usuário dinâmicas. Aprendi a estruturar o código de forma modular, o que facilita a manutenção e a escalabilidade da aplicação, além de permitir a reutilização de componentes em diferentes partes do projeto sem redundâncias.</li>
 </ul>
 
 
 
 <h3>Softs Skils</h3>
-<h4>Comunicacao Assertiva</h4>
+<h4>Comunicação Assertiva</h4>
 <p>Como Scrum Master, desenvolvi e pratiquei uma comunicação assertiva para lidar eficazmente com os problemas que surgiam ao longo das sprints. Essa habilidade foi essencial para facilitar o diálogo com os membros da equipe, garantindo que todos estivessem alinhados e permitindo a identificação das melhores soluções para as situações enfrentadas.</p>
 
 <h4>Empatia</h4>
@@ -369,7 +369,7 @@ Como eu era o único responsável pelo desenvolvimento do backend, tive que lida
 
 <h2>Sistema de monitoramento Tecsus</h2>
 <h4>5º Semestre • 2024</h4>
-<p align="justify">Parceiro Acadêmico: <a href="https://tecsus.com.br/">Tecsus</a> <a href="https://github.com/B1nary-Devs/Tecsus">Repositorio</a></p>
+<p align="justify">Parceiro Acadêmico: <a href="https://tecsus.com.br/">Tecsus</a> <a href="https://github.com/B1nary-Devs/Tecsus">Repositório</a></p>
 
 ![322318621-5cd05c92-733b-44af-8177-b2c8f2c9b37e](https://github.com/user-attachments/assets/306dfb30-40bd-4150-9c91-f86d7492e16f)
 
@@ -379,7 +379,7 @@ Como eu era o único responsável pelo desenvolvimento do backend, tive que lida
 <p align="justify">O desafio consiste em realizar uma análise abrangente e eficiente dos dados provenientes das faturas de energia, água e gás. Isso envolve lidar com uma grande quantidade de informações complexas e variadas, desde os valores de consumo até os detalhes contratuais e os padrões de utilização ao longo do tempo. A exibição desses dados também é parte essencial do desafio, pois é preciso apresentar as informações de forma clara, intuitiva e relevante para os usuários finais. Isso implica criar visualizações que permitam uma compreensão rápida e aprofundada dos padrões de consumo, tendências ao longo do tempo e comparações entre diferentes períodos, contratos e tipos de serviços (energia, água e gás). Portanto, o desafio abrange desde a coleta e processamento dos dados até a apresentação visual e análise interpretativa, visando fornecer insights valiosos para a tomada de decisões estratégicas e operacionais.</p>
 
 
-<h3>Solucao</h3>
+<h3>Solução</h3>
 <p align="justify">A solução proposta para lidar com os desafios na análise e exibição de dados de faturas de energia, água e gás inclui a implementação de processos de tratativa nos dados dos arquivos de contrato e contas, garantindo a integridade e consistência das informações. Além disso, será desenvolvido um dashboard intuitivo e interativo, permitindo aos administradores realizar métricas e acompanhamentos detalhados das contas e contratos, com filtros específicos para análises precisas. Também será possível gerar relatórios detalhados de consumo total em diferentes períodos, auxiliando na identificação de padrões e tomada de decisões estratégicas. A solução também oferecerá alertas automáticos de consumo acima da média para detectar possíveis anomalias e oportunidades de otimização.</p>
 
 <details><summary><b>Funcionalidades do Sistema</b></summary> 
@@ -419,5 +419,5 @@ Como eu era o único responsável pelo desenvolvimento do backend, tive que lida
 
 <li><strong>Resolução de problemas:</strong> Como fui responsável por todo o processo de ETL no projeto, essa habilidade foi crucial, já que a base de dados estava cheia de inconsistências e problemas. Tive que limpar os dados, corrigir erros e organizá-los em um modelo estrela, o que foi extremamente trabalhoso. Além disso, depois de toda essa preparação, precisei inserir os dados no banco de dados relacional, garantindo a consistência e a integridade das informações. Esse processo exigiu muita paciência e criatividade para superar os desafios e garantir que os dados estivessem prontos para análise.</li>
 
-<li><strong>Trabalho em equipe e colaboração:</strong> No projeto, trabalhei em conjunto com colegas e parceiros, integrando o front-end e back-end ao meu processo de ETL. Colaborei com a equipe de front-end para garantir a exibição correta dos dados no dashboard e com o time de back-end para organizar o banco de dados de forma eficiente. Essa integração foi essencial para o sucesso do sistema, garantindo que todas as partes funcionassem de forma eficaz e integrada.</li>
+<li><strong>Trabalho em equipe e colaboração:</strong> No projeto, trabalhei em conjunto com colegas e parceiros, integrando o Front-End e Back-End ao meu processo de ETL. Colaborei com a equipe de Front-End para garantir a exibição correta dos dados no dashboard e com o time de Back-End para organizar o banco de dados de forma eficiente. Essa integração foi essencial para o sucesso do sistema, garantindo que todas as partes funcionassem de forma eficaz e integrada.</li>
 </ul>
