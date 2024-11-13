@@ -367,6 +367,61 @@ Como eu era o único responsável pelo desenvolvimento do Back-End, tive que lid
 
 <hr>
 
+<h2>Sistema de gerenciamento SPC</h2>
+<h4>6º Semestre • 2024</h4>
+<p align="justify">Parceiro Acadêmico: <a href="https://spcgrafeno.com.br">SPC Grafeno</a> <a href="https://github.com/B1nary-Devs/SPC-Grafeno">Repositório</a></p>
+
+<h3>Problema</h3>
+
+<p align="justify">O desafio proposto consiste em explorar um banco de dados diversificado contendo informações históricas sobre ativos financeiros, transações e comportamentos de mercado, utilizando técnicas de aprendizado de máquina para identificar padrões e oportunidades. O objetivo é desenvolver produtos financeiros inovadores que agreguem valor tanto para a empresa quanto para seus clientes. Esses produtos podem prever tendências, identificar riscos ou qualificar ativos financeiros. A solução deve ser apresentada como uma prova de conceito, justificando as técnicas utilizadas, avaliando o desempenho dos modelos e demonstrando a viabilidade do produto proposto.</p>
+
+
+<h3>Solução</h3>
+<p align="justify">Com base no desafio proposto, foi desenvolvida uma solução que consistirá em um sistema robusto com controle de acesso diferenciado, permitindo a gestão de diferentes perfis de usuário. O sistema oferecerá funcionalidades de CRUD para Cedentes e Sacados, possibilitando a gestão completa desses atores no processo financeiro. Ele também permitirá que o Administrador visualize faturas, enquanto Cedentes poderão ver faturas a vencer, vencidas e quitadas, além de informações sobre os Sacados. O sistema incluirá a visualização de Locais de Pagamento para o Administrador, gerará alertas para atividades fora do padrão e fornecerá relatórios de reconciliação mensal, que também conterão previsões baseadas em dados históricos, otimizando a gestão e o monitoramento das operações financeiras.</p>
+
+<details><summary><b>Funcionalidades do Sistema</b></summary> 
+<ul> <li>Visualização de gráficos de consumo de energia, água e gás</li> 
+  <li>Filtros para análise de dados por período e tipo de serviço (energia, água, gás)</li> 
+  <li>Geração automática de relatórios detalhados de consumo</li> 
+  <li>Alertas automáticos de consumo acima da média</li> 
+  <li>Comparação entre diferentes períodos de consumo</li> 
+  <li>Atualização automatizada de dados ao carregar novos arquivos CSV</li> 
+  <li>Exportação de relatórios em formatos CSV e PDF</li> 
+  <li>Dashboard interativo com métricas e visualizações personalizáveis</li> 
+</ul> 
+</details>
+
+<h3>TECNOLOGIAS UTILIZADAS</h3>
+<ul>
+    <li>Google Coolab para desenvolvimento colaborativo e treinamento das IAs.</li>
+    <li>Pandas para manipulação e preparação de dados.</li>
+    <li>Framework para construção de API REST no backend.</li>
+    <li>MongoDB Banco de dados NoSQL, flexível e escalável para armazenamento dos dados.</li>
+    <li>Vue.js para criar um front-end interativo.</li>
+</ul>
+<h3>CONTRIBUIÇÕES PESSOAIS</h3>
+<p align="justify">Durante este projeto, desempenhei um papel fundamental como desenvolvedor, assumindo a responsabilidade pelo processo completo de ETL. Minhas principais contribuições incluem:</p>
+<ul>
+    <li><strong>Implementação do Processo ETL:</strong> Desenvolvi e automatizei todo o pipeline de ETL, desde a extração dos dados dos arquivos CSV até a transformação e carregamento desses dados em um banco de dados estruturado. Utilizando Python e Pandas, garanti que o processo fosse realizado de forma eficiente, com foco na integridade e consistência dos dados.</li>
+    <li><strong>Modelagem Estrela:</strong> Fui responsável pela criação e implementação do modelo estrela, estruturando os dados de maneira que suportassem análises detalhadas e complexas. Esse modelo foi fundamental para a organização clara dos dados, permitindo uma análise eficiente e a geração de relatórios.</li>
+    <li><strong>Automatização do ETL para Atualizações:</strong> Além da carga inicial dos dados, desenvolvi uma rotina automatizada para a atualização contínua dos dados. Isso permite que o cliente, ao realizar o upload de novos arquivos CSV através de uma interface web, acione o processo de ETL para atualizar as informações no banco de dados de forma automática e eficiente. Essa funcionalidade garante que os dados estejam sempre atualizados e prontos para análises futuras.</li>
+    <li><strong>Criação e Gerenciamento de um Data Lake:</strong> Projetei e implementei um data lake para armazenar e organizar grandes volumes de dados de forma estruturada. O data lake foi essencial para suportar a integração e processamento dos dados de diversas fontes, garantindo que todos os dados estivessem disponíveis para consultas e análises detalhadas.</li>
+</ul>
+<h3>LIÇÕES APRENDIDAS</h3>
+<ul>
+    <li><strong>Modelo Estrela:</strong> Aprendi a aplicar o modelo estrela, uma técnica crucial na organização de dados para análises OLAP (Online Analytical Processing). Essa modelagem facilitou a criação de relatórios e dashboards, permitindo uma visão detalhada e eficiente dos dados de consumo.</li>
+    <li><strong>Automatização do ETL:</strong> Desenvolvi habilidades avançadas em automação de processos de ETL, incluindo a criação de rotinas para a atualização contínua dos dados. Essa experiência foi essencial para garantir a integridade dos dados e a eficiência no processamento de novas informações conforme elas eram inseridas no sistema.</li>
+    <li><strong>Criação e Gerenciamento de Data Lake:</strong> O trabalho com data lakes me proporcionou uma compreensão profunda sobre como armazenar e organizar grandes volumes de dados de maneira estruturada, permitindo um acesso eficiente e uma integração fluida com sistemas de análise de dados.</li>
+
+<h3>Softs Skils</h3>
+
+<li><strong>Resolução de problemas:</strong> Como fui responsável por todo o processo de ETL no projeto, essa habilidade foi crucial, já que a base de dados estava cheia de inconsistências e problemas. Tive que limpar os dados, corrigir erros e organizá-los em um modelo estrela, o que foi extremamente trabalhoso. Além disso, depois de toda essa preparação, precisei inserir os dados no banco de dados relacional, garantindo a consistência e a integridade das informações. Esse processo exigiu muita paciência e criatividade para superar os desafios e garantir que os dados estivessem prontos para análise.</li>
+
+<li><strong>Trabalho em equipe e colaboração:</strong> No projeto, trabalhei em conjunto com colegas e parceiros, integrando o Front-End e Back-End ao meu processo de ETL. Colaborei com a equipe de Front-End para garantir a exibição correta dos dados no dashboard e com o time de Back-End para organizar o banco de dados de forma eficiente. Essa integração foi essencial para o sucesso do sistema, garantindo que todas as partes funcionassem de forma eficaz e integrada.</li>
+</ul>
+
+<hr>
+
 <h2>Sistema de monitoramento Tecsus</h2>
 <h4>5º Semestre • 2024</h4>
 <p align="justify">Parceiro Acadêmico: <a href="https://tecsus.com.br/">Tecsus</a> <a href="https://github.com/B1nary-Devs/Tecsus">Repositório</a></p>
