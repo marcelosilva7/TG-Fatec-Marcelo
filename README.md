@@ -56,10 +56,10 @@ https://github.com/user-attachments/assets/7a8e2f35-c652-4f09-9dcc-729561692638
 <h3>Tecnologias Utilizadas</h3>
 <p align="justify">As principais tecnologias incluem:</p>
 <ul>
-  <li>Python para lógica de programação</li>
-  <li>pyttsx3 para sintetização de voz</li>
-  <li>Google Speech Recognition para reconhecimento de voz</li>
-  <li>Google Trans para serviços de tradução</li>
+  <li>Python para lógica de programação.</li>
+  <li>pyttsx3 para sintetização de voz.</li>
+  <li>Google Speech Recognition para reconhecimento de voz.</li>
+  <li>Google Trans para serviços de tradução.</li>
 </ul>
 <h3>Contribuições Pessoais</h3>
 <p align="justify">Durante o desenvolvimento deste projeto, assumi responsabilidades críticas no desenvolvimento de funcionalidades interativas e na estruturação do código, aplicando técnicas avançadas de programação e princípios de design de software:</p>
@@ -128,10 +128,12 @@ O sistema é projetado para otimizar o processo de contratação, simplificando 
 <h3>Tecnologias Utilizadas</h3>
 <p align="justify">As principais Tecnologias Utilizadas incluem:</p>
 <ul>
-  <li>Java 18.0.2.1 para a lógica de programação.</li>
-  <li>MySQL 8.0.30.0 para gestão de dados.</li>
+  
+  <li>Java para a lógica de programação.</li>
+  <li>MySQL para gestão de dados.</li>
   <li>JDBC para conexão com o banco de dados.</li>
   <li>Swing para a construção da interface de usuário.</li>
+  
 </ul>
 <h3>Contribuições Pessoais</h3>
 <p align="justify">Desempenhei um papel essencial no desenvolvimento do projeto PRO4TECH RH, sendo responsável pela criação do banco de dados e pela programação de toda a camada de Back-End. Implementei as funções das classes DAO, que são cruciais para a comunicação eficiente entre a interface de usuário e o banco de dados MySQL. Além disso, desenvolvi todas as funcionalidades dos botões na interface, garantindo uma interação fluída e intuitiva para os usuários. As principais atividades que liderei incluem:</p>
@@ -195,11 +197,15 @@ Como eu era o único responsável pelo desenvolvimento do Back-End, tive que lid
 
 <h3>Tecnologias Utilizadas</h3>
 <ul>
-    <li>JavaScript </li>
-    <li>Bootstrap </li>
-    <li>Java </li>
-    <li>Spring Boot </li>
-    <li>MySQL </li>
+    <li>Figma para UX/UI design.</li>
+    <li>Spring para criação do Back-End.</li>
+    <li>Axios para chamadas HTTP.</li>
+    <li>JavaScript para desenvolvimento Front-End.</li>
+    <li>MySQL como banco de dados</li>  
+    <li>HTML5 para estruturação da página.</li>
+    <li>CSS3 para estilização.</li>
+    <li>Bootstrap para estilização.</li>
+    
 </ul>
 
 <h3>Contribuições Pessoais</h3>
@@ -211,79 +217,20 @@ Como eu era o único responsável pelo desenvolvimento do Back-End, tive que lid
     <li><strong>Implementação do RegistroConverter:</strong> Um dos desafios mais intricados que enfrentei foi o projeto e implementação do RegistroConverter. Esse componente foi vital na transformação de objetos de entidade em DTOs e vice-versa, assegurando uma transferência de dados eficiente e segura entre as camadas da aplicação. Esse trabalho me permitiu aprofundar meus conhecimentos sobre padrões DTO e práticas de segurança de dados.</li>
 </ul>
 
-<h3>APRENDIZADOS</h3>
-<h3>Desenvolvimento de Operações de CRUD</h3>
-<p>Entendimento Profundo do Spring Boot e JPA: A implementação das operações de CRUD para entidades como Cliente, Vendedor e Registro exigiu que eu aprofundasse meu conhecimento no Spring Boot e na Java Persistence API (JPA). Criei repositórios sofisticados e utilizei métodos CRUD padrão, além de operações personalizadas.</p>
-<p>Modelagem de Dados e Relacionamentos: Desenvolver os modelos e estabelecer relações entre eles permitiu-me adquirir habilidades avançadas em modelagem de dados e compreender como as entidades interagem dentro do banco de dados SQL.</p>
-
-<h3>Criação de Controladores</h3>
-<p>Gestão de Solicitações HTTP: Desenvolver controladores em Java com Spring Boot permitiu-me familiarizar-me com o tratamento de solicitações HTTP, incluindo o recebimento, processamento e resposta aos dados dos usuários.</p>
-<p>Integração de Front-End e Back-End: Ao criar controladores, reforcei meu entendimento de como as solicitações do Front-End são processadas no Back-End e como os dados são enviados de volta ao usuário, proporcionando uma visão completa do fluxo de dados em uma aplicação web.</p>
-
-<h3>Estruturação de Repositórios e Serviços</h3>
-<p>Abstração e Organização do Código: Aprendi a importância de manter o código organizado e modular, criando repositórios e serviços que abstraem a lógica de negócios e operações de banco de dados, seguindo as melhores práticas de desenvolvimento.</p>
-
-<h3>Implementação do RegistroConverter</h3>
-<p>Conversão e Transferência de Dados Eficiente: O desenvolvimento do RegistroConverter aprimorou meu conhecimento sobre padrões DTO (Data Transfer Object). Tornei-me habilidoso na conversão de entidades em DTOs para transferência de dados eficiente e segura entre diferentes camadas da aplicação.</p>
-
-<details>
-<summary><b>Entendendo o Conversor de Registro</b></summary>    
-  <br>
-
-<p>Vamos imaginar que a classe 'RegistroConverter' é um tipo de filtro mágico em um escritório de registros. Quando alguém pede informações sobre as vendas (isso é o que chamamos de 'fazer um get'), esse filtro transforma pilhas de papéis com detalhes técnicos em um resumo fácil de entender.</p>
-
-![classeconverterregistro](https://github.com/marcelosilva7/bertoti/assets/101959064/67ccf6f3-7432-40db-8c71-ece447fcc383)
-
-<h2>Como o Conversor Trabalha:</h2>
+<h3>Lições Aprendidas</h3>
 <ul>
-    <li><strong>@Component:</strong> Essa é a etiqueta que diz que nosso filtro é uma ferramenta que pode ser usada no escritório a qualquer momento.</li>
-    <li><strong>public class RegistroConverter:</strong> É o nome do nosso filtro mágico.</li>
-    <li><strong>public List<RegistroGetRequestDto> convert(...):</strong> Essa é a instrução que diz o que o filtro deve fazer: ele pega uma lista de registros detalhados e os transforma em uma lista de resumos.</li>
-    <li><strong>final List<RegistroGetRequestDto> listaDtos = new ArrayList<>():</strong> Aqui estamos preparando uma pilha vazia onde vamos colocar todos os nossos resumos.</li>
-    <li><strong>for(Registro r: registros):</strong> Isso é como dizer "Para cada registro de venda em nossa pilha de papéis...".</li>
-    <li><strong>listaDtos.add(...):</strong> Aqui estamos pegando as informações de cada registro e colocando no nosso resumo.</li>
-    <li><strong>.builder():</strong> Isso é uma forma de começar a criar um resumo a partir dos registros.</li>
-    <li><strong>.id(r.getId()) ... .predicoes(r.getPredicoes()):</strong> Estes são os detalhes que estamos escolhendo para incluir no nosso resumo: número de identificação, nome do cliente, nome do produto, nome do vendedor, planos de vendas, histórico de vendas, data da venda e previsões.</li>
-    <li><strong>.build():</strong> Isso sinaliza que terminamos de criar um resumo e ele está pronto para ser adicionado à pilha de resumos.</li>
+<li><strong>Desenvolvimento de Operações de CRUD:</strong> Durante a implementação de CRUD para entidades como Cliente, Vendedor e Registro, aprofundei meu entendimento do Spring Boot e JPA. Criei repositórios avançados, utilizando tanto métodos padrão quanto operações personalizadas, e adquiri uma visão mais profunda sobre modelagem de dados e a interação entre entidades no banco de dados SQL.</li>
+<li><strong>Criação de Controladores:</strong> Trabalhar com controladores em Spring Boot me ensinou a gerenciar solicitações HTTP, desde o recebimento e processamento até o envio de respostas aos usuários. Essa experiência consolidou meu entendimento sobre o fluxo de dados entre o Front-End e o Back-End, garantindo integração eficiente e comunicação clara entre as camadas da aplicação.</li>
+<li><strong>Estruturação de Repositórios e Serviços:</strong> Aprendi a organizar o código de maneira modular, separando as responsabilidades em repositórios e serviços. Essa abordagem permite abstrair a lógica de negócios e operações de banco de dados, mantendo o código limpo, reutilizável e aderente às melhores práticas.</li>
+<li><strong>Implementação do RegistroConverter:</strong> O desenvolvimento do RegistroConverter aprimorou meu domínio sobre o padrão DTO (Data Transfer Object). Aprendi a converter entidades em DTOs para transferir dados de forma eficiente e segura entre as camadas da aplicação, melhorando o desempenho e a segurança.</li>
+<li><strong>Definição de Estruturas de Dados:</strong> Ao criar modelos como Cliente, Vendedor, Produto e Registro, desenvolvi habilidades para especificar campos, tipos de dados e aplicar anotações de validação, definindo a base estrutural da aplicação.</li>
+<li><strong>Mapeamento Objeto-Relacional (ORM):</strong> Com a utilização do JPA, aprendi a mapear propriedades de classes Java para colunas de banco de dados, entendendo como as operações realizadas em objetos Java se traduzem em comandos SQL.</li>
+<li><strong>Relacionamentos entre Entidades:</strong> Tornei-me proficiente em definir e gerenciar relações um-para-muitos e muitos-para-um entre entidades, representando conexões lógicas e regras de negócio de maneira eficaz.</li>
+<li><strong>Análise e Design de Entidades:</strong> Adquiri experiência em traduzir requisitos de negócios em um design de banco de dados eficiente, considerando aspectos como chaves primárias, restrições e relações entre tabelas para garantir um modelo robusto.</li> 
 </ul>
-
-<p>Em resumo, 'RegistroConverter' pega todas as informações complexas e detalhadas sobre vendas e as transforma em uma forma mais simples e clara, que é fácil para qualquer pessoa entender quando ela pede para ver essas informações. É como se alguém pedisse um resumo dos eventos mais importantes em um jornal, em vez de ler todas as notícias.</p>
-</details>
-
-<h3>Trabalho com Models</h3>
-<p>Definição de Estruturas de Dados: Ao criar classes de modelo como Cliente, Vendedor, Produto e Registro, aprendi a definir as estruturas de dados fundamentais para a aplicação, especificando campos, tipos de dados e anotações de validação.</p>
-<p>Mapeamento Objeto-Relacional (ORM): Com a utilização do JPA, adquiri habilidades no mapeamento objeto-relacional, mapeando propriedades de classes Java para colunas de banco de dados e compreendendo como operações em objetos Java se traduzem em operações no banco de dados.</p>
-<p>Relacionamentos entre Entidades: Aprendi a definir e gerenciar relacionamentos entre diferentes entidades, como relações um-para-muitos e muitos-para-um, essenciais para representar conexões lógicas e regras de negócio no modelo de dados.</p>
-<p>Análise e Design de Entidades: Projetar as entidades me ensinou a analisar os requisitos de negócios e traduzi-los em um design de banco de dados eficaz, considerando aspectos como chaves primárias, restrições e relações.</p>
-
-<details>
-  <summary><b>Entendendo os Models</b></summary>
-  <br>
-
-<p>Imagine que a classe 'Registro' é como um espelho mágico que reflete uma prateleira específica dentro de um imenso armário (o banco de dados). Cada vez que alguém faz uma venda, um formulário é preenchido e colocado nessa prateleira. A classe 'Registro' é a representação desses formulários no mundo dos computadores, onde cada formulário tem informações sobre a venda que aconteceu.</p>
-
-![classeregistro](https://github.com/marcelosilva7/bertoti/assets/101959064/fd51b9ac-dca1-40fd-9b05-053514ada5a8)
-
-<h3>O que cada parte faz:</h3>
-<ul>
-    <li><strong>O Espelho Mágico (@Entity):</strong> A anotação '@Entity' diz que a nossa classe 'Registro' é um reflexo direto de uma prateleira no armário, onde cada papel é importante e precisa ser guardado com cuidado.</li>
-    <li><strong>Etiqueta do Espelho (@Table):</strong> A '@Table' é como uma etiqueta no espelho que nos diz qual é o nome dessa prateleira no banco de dados.</li>
-    <li><strong>Canetas Mágicas (@Builder, @Data, @AllArgsConstructor, @NoArgsConstructor):</strong> Estas são ferramentas que fazem o trabalho pesado por nós, como preencher automaticamente os detalhes dos formulários, criar novos ou apagar os antigos.</li>
-    <li><strong>O Formulário (public class Registro):</strong> É o próprio papel onde escrevemos as informações da venda.</li>
-    <li><strong>Número de Identificação (@Id, @GeneratedValue):</strong> Cada formulário tem um número único, como um documento de identidade, que garante que cada venda seja única e não confunda com outras.</li>
-    <li><strong>Data da Venda (@Column):</strong> Este é um campo obrigatório no formulário que registra quando a venda aconteceu. É como a data no canto de uma carta, e não pode ser deixada em branco.</li>
-    <li><strong>Linhas de Conexão (@ManyToOne, @OneToMany):</strong> Estas são como linhas invisíveis que ligam o nosso formulário de venda a outros formulários importantes, como os detalhes do vendedor, do produto e do cliente. Eles nos ajudam a ver o quadro completo de cada venda.</li>
-    <li><strong>Anexos de Informações (Listas de entidades associadas):</strong> Assim como anexamos documentos adicionais a um formulário, a classe 'Registro' pode ter listas anexadas a ela, como planos de venda futuros, histórico de vendas anteriores e previsões.</li>
-    <li><strong>Trabalho em Equipe Inteligente (@JsonBackReference, @JsonManagedReference):</strong> Estas anotações ajudam a controlar o que mostramos quando compartilhamos nossos formulários com outros sistemas, evitando repetição e expondo apenas o que é necessário.</li>
-</ul>
-
-<p>Em resumo, a classe 'Registro' não só documenta todas as vendas que acontecem, como também é uma réplica digital da prateleira de vendas no nosso armário de banco de dados. Ela mantém tudo organizado e acessível, permitindo que a loja tenha uma visão clara de suas operações e planeje melhor para o futuro.</p>
-</details>
-
-<p>Esses aspectos dos models são fundamentais no desenvolvimento de aplicações baseadas em dados e foram essenciais para aprofundar meu conhecimento em design de software e arquitetura de sistemas. A combinação dessas habilidades com as experiências anteriores em CRUD, controladores, repositórios, serviços e DTOs proporcionou uma compreensão abrangente do desenvolvimento de aplicações web do ponto de vista do Back-End.</p>
-
 
 <h3>Softs Skils</h3>
+
 <h4>Solucionar Problemas</h4>
 <p> Como responsável pelo Back-End, enfrentei o desafio de trabalhar com arquiteturas REST pela primeira vez, saindo da familiar arquitetura DAO. Além disso, estávamos aprendendo Spring Boot, o que tornou o processo ainda mais desafiador. Ao longo das sprints, surgiram muitos problemas que precisei solucionar, o que exigiu um grande esforço de aprendizado e adaptação. Contei com o apoio dos professores, especialmente do professor Nadatelle, que sempre esteve disponível para esclarecer minhas dúvidas em questões específicas, o que foi fundamental para superar essas dificuldades.</p>
 
@@ -325,16 +272,18 @@ Como eu era o único responsável pelo desenvolvimento do Back-End, tive que lid
     <li>Interface intuitiva para solicitação e gestão de serviços.</li>
 </ul>
 </details>
+
 <h3>Tecnologias Utilizadas</h3>
 <ul>
-    <li>Figma - para UX/UI design.</li>
-    <li>Spring - Framework para criação do Back-End.</li>
-    <li>Vue js - Framework para criação da interface web do Front-End</li>
-    <li>Axios - para chamadas HTTP.</li>
-    <li>Oracle Cloud - Hospedagem do banco de dados.</li>
-    <li>TypeScript - para desenvolvimento Front-End.</li>
-    <li>HTML5 - para estruturação da página.</li>
-    <li>CSS3 - para estilização.</li>
+    <li>Figma para UX/UI design.</li>
+    <li>Spring para criação do Back-End.</li>
+    <li>Vue js para criação da interface web do Front-End</li>
+    <li>Axios para chamadas HTTP.</li>
+    <li>Oracle Cloud Hospedagem do banco de dados.</li>
+    <li>TypeScript para desenvolvimento Front-End.</li>
+    <li>HTML5 para estruturação da página.</li>
+    <li>CSS3 para estilização.</li>
+    <li>Axios para chamadas HTTP.</li>
 </ul>
 
 <h3>Contribuições Pessoais</h3>
@@ -394,10 +343,18 @@ Como eu era o único responsável pelo desenvolvimento do Back-End, tive que lid
 
 <h3>Tecnologias Utilizadas</h3>
 <ul>
-    <li>Python para desenvolvimento de scripts ETL</li>
-    <li>Pandas para manipulação e tratamento de dados</li>
-    <li>SQLAlchemy para integração e manipulação de banco de dados</li>
-    <li>Arquivos CSV como fonte de dados</li>
+    <li>Figma para UX/UI design.</li>
+    <li>Python para desenvolvimento de scripts ETL.</li>
+    <li>Pandas para manipulação e tratamento de dados.</li>
+    <li>SQLAlchemy para integração e manipulação de banco de dados.</li>
+    <li>MySQL como banco de dados.</li>  
+    <li>Arquivos CSV como fonte de dados.</li>
+    <li>FastAPI para construção de API REST no backend.</li>
+    <li>React para o Front-End.</li>
+    <li>Power BI para exibição dos dados.</li>
+    <li>HTML5 para estruturação da página.</li>
+    <li>CSS3 para estilização.</li>
+    <li>Axios para chamadas HTTP.</li>
 </ul>
 
 <h3>Contribuições Pessoais</h3>
@@ -440,27 +397,29 @@ Como eu era o único responsável pelo desenvolvimento do Back-End, tive que lid
 
 <details><summary><b>Funcionalidades do Sistema</b></summary>
 <ul>
-<li>Controle de acesso diferenciado para Administradores, Cedentes e Sacados</li>
-<li>Visualização de todas as faturas pelo Administrador</li>
-<li>Visualização de faturas a vencer, vencidas e quitatas pelo Cedente</li>
-<li>Consulta de informações dos Sacados pelo Cedente</li>
-<li>Visualização de locais de pagamento pelo Administrador</li>
-<li>Geração de alertas automáticos para atividades fora do padrão</li>
-<li>Relatórios de reconciliação mensal e previsões baseadas com dados históricos</li>
-<li>Gestão de termos de aceite conforme LGPD</li>
-<li>Transparência de informações sobre uso de dados pessoais</li>
-<li>Notificação automatizada de vazamentos de dados</li>
-</ul>
+    <li>Controle de acesso diferenciado para Administradores, Cedentes e Sacados</li>
+    <li>Visualização de todas as faturas pelo Administrador</li>
+    <li>Visualização de faturas a vencer, vencidas e quitatas pelo Cedente</li>
+    <li>Consulta de informações dos Sacados pelo Cedente</li>
+    <li>Visualização de locais de pagamento pelo Administrador</li>
+    <li>Geração de alertas automáticos para atividades fora do padrão</li>
+    <li>Relatórios de reconciliação mensal e previsões baseadas com dados históricos</li>
+    <li>Gestão de termos de aceite conforme LGPD</li>
+    <li>Transparência de informações sobre uso de dados pessoais</li>
+    <li>Notificação automatizada de vazamentos de dados</li>
+    </ul>
 </details>
 
 
 <h3>Tecnologias Utilizadas</h3>
 <ul>
+    <li>Figma para UX/UI design.</li>
     <li>Google Coolab para desenvolvimento colaborativo e treinamento das IAs.</li>
     <li>Pandas para manipulação e preparação de dados.</li>
-    <li>Framework para construção de API REST no backend.</li>
+    <li>Flask para construção de API REST no backend.</li>
     <li>MongoDB Banco de dados NoSQL, flexível e escalável para armazenamento dos dados.</li>
     <li>Vue.js para criar um front-end interativo.</li>
+    <li>Axios para chamadas HTTP.</li>
 </ul>
 
 
