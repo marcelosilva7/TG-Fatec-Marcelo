@@ -68,7 +68,7 @@ https://github.com/user-attachments/assets/7a8e2f35-c652-4f09-9dcc-729561692638
     <li><strong>Implementação de Narração de Histórias:</strong> Programei um sistema de narração de histórias que utiliza a síntese de voz para contar histórias infantis de maneira envolvente e interativa. Este módulo foi desenvolvido com o auxílio de bibliotecas de TTS (text-to-speech), permitindo que histórias pré-definidas sejam narradas de forma clara e acessível, melhorando a experiência auditiva das crianças e incentivando o gosto pela literatura desde cedo.</li>
     <li><strong>Integração de Funcionalidades no Assistente Virtual:</strong> Coordenei a integração de diversas funcionalidades no assistente virtual, garantindo uma navegação fluida e intuitiva. Este trabalho envolveu a criação de uma interface de usuário unificada e a implementação de lógicas de interação que facilitam o acesso a jogos, contação de histórias, tradução de línguas, entre outros, dentro de um único ambiente. A modularização do código foi essencial para manter a organização e permitir a expansão futura do sistema.</li>
 </ul>
-<h3>LIÇÕES APRENDIDAS</h3>
+<h3>Lições Aprendidas</h3>
 <h3>Desenvolvimento de Operações com Comandos de Voz</h3>
 <p>Durante o projeto, me aprofundei na programação Python, focando em bibliotecas de processamento de voz como `pyttsx3` para síntese de fala e `speech_recognition` para reconhecimento de voz. Essa experiência foi crucial para entender como interagir com o usuário de maneira eficaz por meio de comandos de voz. A implementação dessas tecnologias exigiu o aprendizado de como configurar o ambiente de desenvolvimento para captura e análise de áudio, processamento de comandos de voz em tempo real, e a resposta do sistema através de feedback auditivo.</p>
 
@@ -126,7 +126,7 @@ O sistema é projetado para otimizar o processo de contratação, simplificando 
   </ul>
 </details>
 <h3>Tecnologias Utilizadas</h3>
-<p align="justify">As principais tecnologias utilizadas incluem:</p>
+<p align="justify">As principais Tecnologias Utilizadas incluem:</p>
 <ul>
   <li>Java 18.0.2.1 para a lógica de programação.</li>
   <li>MySQL 8.0.30.0 para gestão de dados.</li>
@@ -193,7 +193,7 @@ Como eu era o único responsável pelo desenvolvimento do Back-End, tive que lid
   </ul>
 </details>
 
-<h3>TECNOLOGIAS UTILIZADAS</h3>
+<h3>Tecnologias Utilizadas</h3>
 <ul>
     <li>JavaScript </li>
     <li>Bootstrap </li>
@@ -202,7 +202,7 @@ Como eu era o único responsável pelo desenvolvimento do Back-End, tive que lid
     <li>MySQL </li>
 </ul>
 
-<h3>CONTRIBUIÇÕES PESSOAIS</h3>
+<h3>Contribuições Pessoais</h3>
 <p>Na realização deste projeto, desempenhei um papel crucial no desenvolvimento do Back-End, aplicando minhas habilidades técnicas e influenciando estrategicamente o progresso do sistema:</p>
 <ul>
     <li><strong>Desenvolvimento de Operações de CRUD para Modelos Diversos:</strong> Liderei a implementação das operações de CRUD para modelos chave como Cliente, Vendedor e Registro. Utilizei APIs RESTful para gerenciar os dados de forma eficiente, aplicando meu conhecimento aprofundado em Spring Boot e JPA para criar soluções de Back-End robustas.</li>
@@ -293,9 +293,7 @@ Como eu era o único responsável pelo desenvolvimento do Back-End, tive que lid
 <h4>Comunicação</h4>
 <p>Foi essencial desenvolver uma comunicação clara e expressiva ao entrar em um grupo novo. O desafio foi entender rapidamente a maneira como eles trabalhavam e se comunicavam, adaptando minha forma de interagir para garantir que conseguíssemos colaborar de maneira eficaz e concluir o projeto com sucesso.</p>
 
-
 <hr>
-
 
 <h2>Sistema de Gestão de Anomalias em Laudos de Inspeção Predial</h2>
 <h4>4º Semestre • 2023 </h4> 
@@ -367,61 +365,6 @@ Como eu era o único responsável pelo desenvolvimento do Back-End, tive que lid
 
 <hr>
 
-<h2>Sistema de gerenciamento SPC</h2>
-<h4>6º Semestre • 2024</h4>
-<p align="justify">Parceiro Acadêmico: <a href="https://spcgrafeno.com.br">SPC Grafeno</a> <a href="https://github.com/B1nary-Devs/SPC-Grafeno">Repositório</a></p>
-
-<h3>Problema</h3>
-
-<p align="justify">O desafio proposto consiste em explorar um banco de dados diversificado contendo informações históricas sobre ativos financeiros, transações e comportamentos de mercado, utilizando técnicas de aprendizado de máquina para identificar padrões e oportunidades. O objetivo é desenvolver produtos financeiros inovadores que agreguem valor tanto para a empresa quanto para seus clientes. Esses produtos podem prever tendências, identificar riscos ou qualificar ativos financeiros. A solução deve ser apresentada como uma prova de conceito, justificando as técnicas utilizadas, avaliando o desempenho dos modelos e demonstrando a viabilidade do produto proposto.</p>
-
-
-<h3>Solução</h3>
-<p align="justify">Com base no desafio proposto, foi desenvolvida uma solução que consistirá em um sistema robusto com controle de acesso diferenciado, permitindo a gestão de diferentes perfis de usuário. O sistema oferecerá funcionalidades de CRUD para Cedentes e Sacados, possibilitando a gestão completa desses atores no processo financeiro. Ele também permitirá que o Administrador visualize faturas, enquanto Cedentes poderão ver faturas a vencer, vencidas e quitadas, além de informações sobre os Sacados. O sistema incluirá a visualização de Locais de Pagamento para o Administrador, gerará alertas para atividades fora do padrão e fornecerá relatórios de reconciliação mensal, que também conterão previsões baseadas em dados históricos, otimizando a gestão e o monitoramento das operações financeiras.</p>
-
-<details><summary><b>Funcionalidades do Sistema</b></summary> 
-<ul> <li>Visualização de gráficos de consumo de energia, água e gás</li> 
-  <li>Filtros para análise de dados por período e tipo de serviço (energia, água, gás)</li> 
-  <li>Geração automática de relatórios detalhados de consumo</li> 
-  <li>Alertas automáticos de consumo acima da média</li> 
-  <li>Comparação entre diferentes períodos de consumo</li> 
-  <li>Atualização automatizada de dados ao carregar novos arquivos CSV</li> 
-  <li>Exportação de relatórios em formatos CSV e PDF</li> 
-  <li>Dashboard interativo com métricas e visualizações personalizáveis</li> 
-</ul> 
-</details>
-
-<h3>TECNOLOGIAS UTILIZADAS</h3>
-<ul>
-    <li>Google Coolab para desenvolvimento colaborativo e treinamento das IAs.</li>
-    <li>Pandas para manipulação e preparação de dados.</li>
-    <li>Framework para construção de API REST no backend.</li>
-    <li>MongoDB Banco de dados NoSQL, flexível e escalável para armazenamento dos dados.</li>
-    <li>Vue.js para criar um front-end interativo.</li>
-</ul>
-<h3>CONTRIBUIÇÕES PESSOAIS</h3>
-<p align="justify">Durante este projeto, desempenhei um papel fundamental como desenvolvedor, assumindo a responsabilidade pelo processo completo de ETL. Minhas principais contribuições incluem:</p>
-<ul>
-    <li><strong>Implementação do Processo ETL:</strong> Desenvolvi e automatizei todo o pipeline de ETL, desde a extração dos dados dos arquivos CSV até a transformação e carregamento desses dados em um banco de dados estruturado. Utilizando Python e Pandas, garanti que o processo fosse realizado de forma eficiente, com foco na integridade e consistência dos dados.</li>
-    <li><strong>Modelagem Estrela:</strong> Fui responsável pela criação e implementação do modelo estrela, estruturando os dados de maneira que suportassem análises detalhadas e complexas. Esse modelo foi fundamental para a organização clara dos dados, permitindo uma análise eficiente e a geração de relatórios.</li>
-    <li><strong>Automatização do ETL para Atualizações:</strong> Além da carga inicial dos dados, desenvolvi uma rotina automatizada para a atualização contínua dos dados. Isso permite que o cliente, ao realizar o upload de novos arquivos CSV através de uma interface web, acione o processo de ETL para atualizar as informações no banco de dados de forma automática e eficiente. Essa funcionalidade garante que os dados estejam sempre atualizados e prontos para análises futuras.</li>
-    <li><strong>Criação e Gerenciamento de um Data Lake:</strong> Projetei e implementei um data lake para armazenar e organizar grandes volumes de dados de forma estruturada. O data lake foi essencial para suportar a integração e processamento dos dados de diversas fontes, garantindo que todos os dados estivessem disponíveis para consultas e análises detalhadas.</li>
-</ul>
-<h3>LIÇÕES APRENDIDAS</h3>
-<ul>
-    <li><strong>Modelo Estrela:</strong> Aprendi a aplicar o modelo estrela, uma técnica crucial na organização de dados para análises OLAP (Online Analytical Processing). Essa modelagem facilitou a criação de relatórios e dashboards, permitindo uma visão detalhada e eficiente dos dados de consumo.</li>
-    <li><strong>Automatização do ETL:</strong> Desenvolvi habilidades avançadas em automação de processos de ETL, incluindo a criação de rotinas para a atualização contínua dos dados. Essa experiência foi essencial para garantir a integridade dos dados e a eficiência no processamento de novas informações conforme elas eram inseridas no sistema.</li>
-    <li><strong>Criação e Gerenciamento de Data Lake:</strong> O trabalho com data lakes me proporcionou uma compreensão profunda sobre como armazenar e organizar grandes volumes de dados de maneira estruturada, permitindo um acesso eficiente e uma integração fluida com sistemas de análise de dados.</li>
-
-<h3>Softs Skils</h3>
-
-<li><strong>Resolução de problemas:</strong> Como fui responsável por todo o processo de ETL no projeto, essa habilidade foi crucial, já que a base de dados estava cheia de inconsistências e problemas. Tive que limpar os dados, corrigir erros e organizá-los em um modelo estrela, o que foi extremamente trabalhoso. Além disso, depois de toda essa preparação, precisei inserir os dados no banco de dados relacional, garantindo a consistência e a integridade das informações. Esse processo exigiu muita paciência e criatividade para superar os desafios e garantir que os dados estivessem prontos para análise.</li>
-
-<li><strong>Trabalho em equipe e colaboração:</strong> No projeto, trabalhei em conjunto com colegas e parceiros, integrando o Front-End e Back-End ao meu processo de ETL. Colaborei com a equipe de Front-End para garantir a exibição correta dos dados no dashboard e com o time de Back-End para organizar o banco de dados de forma eficiente. Essa integração foi essencial para o sucesso do sistema, garantindo que todas as partes funcionassem de forma eficaz e integrada.</li>
-</ul>
-
-<hr>
-
 <h2>Sistema de monitoramento Tecsus</h2>
 <h4>5º Semestre • 2024</h4>
 <p align="justify">Parceiro Acadêmico: <a href="https://tecsus.com.br/">Tecsus</a> <a href="https://github.com/B1nary-Devs/Tecsus">Repositório</a></p>
@@ -449,14 +392,15 @@ Como eu era o único responsável pelo desenvolvimento do Back-End, tive que lid
 </ul> 
 </details>
 
-<h3>TECNOLOGIAS UTILIZADAS</h3>
+<h3>Tecnologias Utilizadas</h3>
 <ul>
     <li>Python para desenvolvimento de scripts ETL</li>
     <li>Pandas para manipulação e tratamento de dados</li>
     <li>SQLAlchemy para integração e manipulação de banco de dados</li>
     <li>Arquivos CSV como fonte de dados</li>
 </ul>
-<h3>CONTRIBUIÇÕES PESSOAIS</h3>
+
+<h3>Contribuições Pessoais</h3>
 <p align="justify">Durante este projeto, desempenhei um papel fundamental como desenvolvedor, assumindo a responsabilidade pelo processo completo de ETL. Minhas principais contribuições incluem:</p>
 <ul>
     <li><strong>Implementação do Processo ETL:</strong> Desenvolvi e automatizei todo o pipeline de ETL, desde a extração dos dados dos arquivos CSV até a transformação e carregamento desses dados em um banco de dados estruturado. Utilizando Python e Pandas, garanti que o processo fosse realizado de forma eficiente, com foco na integridade e consistência dos dados.</li>
@@ -464,7 +408,8 @@ Como eu era o único responsável pelo desenvolvimento do Back-End, tive que lid
     <li><strong>Automatização do ETL para Atualizações:</strong> Além da carga inicial dos dados, desenvolvi uma rotina automatizada para a atualização contínua dos dados. Isso permite que o cliente, ao realizar o upload de novos arquivos CSV através de uma interface web, acione o processo de ETL para atualizar as informações no banco de dados de forma automática e eficiente. Essa funcionalidade garante que os dados estejam sempre atualizados e prontos para análises futuras.</li>
     <li><strong>Criação e Gerenciamento de um Data Lake:</strong> Projetei e implementei um data lake para armazenar e organizar grandes volumes de dados de forma estruturada. O data lake foi essencial para suportar a integração e processamento dos dados de diversas fontes, garantindo que todos os dados estivessem disponíveis para consultas e análises detalhadas.</li>
 </ul>
-<h3>LIÇÕES APRENDIDAS</h3>
+
+<h3>Lições Aprendidas</h3>
 <ul>
     <li><strong>Modelo Estrela:</strong> Aprendi a aplicar o modelo estrela, uma técnica crucial na organização de dados para análises OLAP (Online Analytical Processing). Essa modelagem facilitou a criação de relatórios e dashboards, permitindo uma visão detalhada e eficiente dos dados de consumo.</li>
     <li><strong>Automatização do ETL:</strong> Desenvolvi habilidades avançadas em automação de processos de ETL, incluindo a criação de rotinas para a atualização contínua dos dados. Essa experiência foi essencial para garantir a integridade dos dados e a eficiência no processamento de novas informações conforme elas eram inseridas no sistema.</li>
@@ -476,3 +421,62 @@ Como eu era o único responsável pelo desenvolvimento do Back-End, tive que lid
 
 <li><strong>Trabalho em equipe e colaboração:</strong> No projeto, trabalhei em conjunto com colegas e parceiros, integrando o Front-End e Back-End ao meu processo de ETL. Colaborei com a equipe de Front-End para garantir a exibição correta dos dados no dashboard e com o time de Back-End para organizar o banco de dados de forma eficiente. Essa integração foi essencial para o sucesso do sistema, garantindo que todas as partes funcionassem de forma eficaz e integrada.</li>
 </ul>
+
+<hr>
+
+<h2>Sistema de gerenciamento SPC</h2>
+<h4>6º Semestre • 2024</h4>
+<p align="justify">Parceiro Acadêmico: <a href="https://spcgrafeno.com.br">SPC Grafeno</a> <a href="https://github.com/B1nary-Devs/SPC-Grafeno">Repositório</a></p>
+
+![379505125-1f6798e7-6a98-4c76-acbb-a00c92376b4e](https://github.com/user-attachments/assets/9cfb69d3-7a05-4c71-afa2-8a12dc48725a)
+
+<h3>Problema</h3>
+
+<p align="justify">O desafio proposto consiste em explorar um banco de dados diversificado contendo informações históricas sobre ativos financeiros, transações e comportamentos de mercado, utilizando técnicas de aprendizado de máquina para identificar padrões e oportunidades. O objetivo é desenvolver produtos financeiros inovadores que agreguem valor tanto para a empresa quanto para seus clientes. Esses produtos podem prever tendências, identificar riscos ou qualificar ativos financeiros. A solução deve ser apresentada como uma prova de conceito, justificando as técnicas utilizadas, avaliando o desempenho dos modelos e demonstrando a viabilidade do produto proposto.</p>
+
+
+<h3>Solução</h3>
+<p align="justify">Com base no desafio proposto, foi desenvolvida uma solução que consistirá em um sistema robusto com controle de acesso diferenciado, permitindo a gestão de diferentes perfis de usuário. O sistema oferecerá funcionalidades de CRUD para Cedentes e Sacados, possibilitando a gestão completa desses atores no processo financeiro. Ele também permitirá que o Administrador visualize faturas, enquanto Cedentes poderão ver faturas a vencer, vencidas e quitadas, além de informações sobre os Sacados. O sistema incluirá a visualização de Locais de Pagamento para o Administrador, gerará alertas para atividades fora do padrão e fornecerá relatórios de reconciliação mensal, que também conterão previsões baseadas em dados históricos, otimizando a gestão e o monitoramento das operações financeiras.</p>
+
+<details><summary><b>Funcionalidades do Sistema</b></summary>
+<ul>
+<li>Controle de acesso diferenciado para Administradores, Cedentes e Sacados</li>
+<li>Visualização de todas as faturas pelo Administrador</li>
+<li>Visualização de faturas a vencer, vencidas e quitatas pelo Cedente</li>
+<li>Consulta de informações dos Sacados pelo Cedente</li>
+<li>Visualização de locais de pagamento pelo Administrador</li>
+<li>Geração de alertas automáticos para atividades fora do padrão</li>
+<li>Relatórios de reconciliação mensal e previsões baseadas com dados históricos</li>
+<li>Gestão de termos de aceite conforme LGPD</li>
+<li>Transparência de informações sobre uso de dados pessoais</li>
+<li>Notificação automatizada de vazamentos de dados</li>
+</ul>
+</details>
+
+
+<h3>Tecnologias Utilizadas</h3>
+<ul>
+    <li>Google Coolab para desenvolvimento colaborativo e treinamento das IAs.</li>
+    <li>Pandas para manipulação e preparação de dados.</li>
+    <li>Framework para construção de API REST no backend.</li>
+    <li>MongoDB Banco de dados NoSQL, flexível e escalável para armazenamento dos dados.</li>
+    <li>Vue.js para criar um front-end interativo.</li>
+</ul>
+
+
+<h3>Contribuições Pessoais</h3>
+<ul>
+<li><strong>Atuação como Scrum Master:</strong> Liderei e gerenciei o projeto seguindo o framework Scrum, organizando e facilitando reuniões diárias (Daily Scrum), planejamentos de sprints, revisões e retrospectivas. Removi obstáculos, garanti a comunicação eficiente entre os membros da equipe e assegurei que as entregas fossem realizadas dentro dos prazos estabelecidos.</li>
+<li><strong>Implementação de Funcionalidades da LGPD:</strong> Desenvolvi as funcionalidades relacionadas à conformidade com a LGPD, incluindo termos de aceite, transparência sobre o uso de dados pessoais e notificações automatizadas em caso de vazamento de dados, garantindo alinhamento com as exigências legais.</li>
+<li><strong>Integração e Unificação de Dados:</strong> Unifiquei dados no formato CSV para consumo por IAs, permitindo que os dados fossem processados, remontados em formato JSON e inseridos no sistema por meio de uma rota de API dedicada à inserção, com foco nos dados relacionados aos Cedentes.</li> </ul>
+
+<h3>Lições Aprendidas</h3>
+<ul>
+<li><strong>Implementação da LGPD:</strong> Aprofundei meu entendimento sobre a Lei Geral de Proteção de Dados (LGPD), compreendendo seus princípios fundamentais, como a necessidade de consentimento explícito, a finalidade do uso de dados e a transparência com os titulares. No projeto, implementei funcionalidades que garantem conformidade com a legislação, como a criação de termos de aceite para o tratamento de dados, ferramentas para disponibilizar informações claras sobre o uso de dados pessoais, e notificações automatizadas para casos de vazamentos de informações sensíveis. Essa experiência me proporcionou uma visão prática sobre como alinhar tecnologia e governança de dados às exigências legais.</li>
+<li><strong>Bancos de Dados NoSQL:</strong> Adquiri conhecimento prático sobre bancos de dados NoSQL, especialmente o MongoDB, observando sua eficiência na velocidade de inserção e consulta de grandes volumes de dados.</li> </ul>
+
+<h3>Soft Skills Desenvolvidas</h3>
+<ul>
+<li><strong>Empatia:</strong> Durante o projeto, mostrei empatia ao colaborar com diferentes membros da equipe, compreendendo suas perspectivas e desafios. Facilitei a comunicação entre Front-End e Back-End, garantindo que as soluções atendiam às necessidades de todos os envolvidos e do sistema como um todo.</li>
+<li><strong>Atenção aos Detalhes:</strong> A conformidade com a LGPD e a manipulação de grandes volumes de dados exigiram foco intenso nos detalhes. Esse cuidado foi essencial para garantir a precisão das implementações e a consistência das informações inseridas no sistema.</li>
+<li><strong>Habilidade de Comunicação:</strong> Como Scrum Master, fui responsável por conduzir reuniões de equipe, alinhar objetivos e garantir a troca clara e eficaz de informações. Além disso, expliquei soluções técnicas de maneira acessível para diferentes membros da equipe, contribuindo para a integração e sucesso do projeto.</li> </ul>
