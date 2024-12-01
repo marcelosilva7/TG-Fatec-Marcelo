@@ -399,7 +399,7 @@ O sistema é projetado para otimizar o processo de contratação, simplificando 
 
 <h3>Lições Aprendidas</h3>
 
-<h4>>Modelo Estrela</h4>
+<h4>Modelo Estrela</h4>
 <p>Aprendi a aplicar o modelo estrela, uma técnica crucial na organização de dados para análises OLAP (Online Analytical Processing). Essa modelagem facilitou a criação de relatórios e dashboards, permitindo uma visão detalhada e eficiente dos dados de consumo.</p>
 
 <h4>Automatização do ETL</h4>
