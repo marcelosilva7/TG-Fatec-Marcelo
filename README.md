@@ -69,25 +69,28 @@ https://github.com/user-attachments/assets/7a8e2f35-c652-4f09-9dcc-729561692638
     <li><strong>Integração de Funcionalidades no Assistente Virtual:</strong> Coordenei a integração de diversas funcionalidades no assistente virtual, garantindo uma navegação fluida e intuitiva. Este trabalho envolveu a criação de uma interface de usuário unificada e a implementação de lógicas de interação que facilitam o acesso a jogos, contação de histórias, tradução de línguas, entre outros, dentro de um único ambiente. A modularização do código foi essencial para manter a organização e permitir a expansão futura do sistema.</li>
 </ul>
 <h3>Lições Aprendidas</h3>
-<h3>Desenvolvimento de Operações com Comandos de Voz</h3>
+<h4>Desenvolvimento de Operações com Comandos de Voz</h4>
 <p>Durante o projeto, me aprofundei na programação Python, focando em bibliotecas de processamento de voz como `pyttsx3` para síntese de fala e `speech_recognition` para reconhecimento de voz. Essa experiência foi crucial para entender como interagir com o usuário de maneira eficaz por meio de comandos de voz. A implementação dessas tecnologias exigiu o aprendizado de como configurar o ambiente de desenvolvimento para captura e análise de áudio, processamento de comandos de voz em tempo real, e a resposta do sistema através de feedback auditivo.</p>
 
-<h3>Implementação de Jogos Interativos</h3>
+<h4>Implementação de Jogos Interativos</h4>
 <p>A criação do jogo 'Pedra, Papel e Tesoura' foi uma parte significativa do meu aprendizado no semestre. Desenvolvi a lógica completa do jogo em Python, que incluiu gerar aleatoriamente as escolhas do computador e determinar o vencedor com base nas entradas do usuário. Isso não apenas reforçou minhas habilidades de programação, mas também me ensinou sobre a importância de criar uma lógica de jogo envolvente e como processar entradas do usuário de forma eficiente.</p>
 
-<h3>Modularização e Estrutura de Código</h3>
+<h4>Modularização e Estrutura de Código</h4>
 <p>A modularização foi uma estratégia adotada para melhorar a organização e a manutenibilidade do código. Ao dividir o projeto em módulos separados, cada um responsável por uma parte distinta da funcionalidade geral, pude focar em cada aspecto do sistema isoladamente. Isso facilitou a depuração, teste e expansão futura do código. A modularização ajudou na separação clara das responsabilidades dentro do aplicativo, o que é fundamental para manter a qualidade e a escalabilidade do software.</p>
 
 <h3>Softs Skils</h3>
-<h4>Comunicação</h4>
-<p>Como era meu primeiro projeto, precisei ser bastante comunicativo para garantir um bom entendimento do problema e, assim, produzir de forma adequada. A interação constante com os outros membros da equipe foi essencial para compreender suas ideias e o funcionamento dos seus códigos, pois fiquei responsável por modularizar e integrar o código de todos em um único arquivo, o que facilitou a manutenção e a legibilidade do projeto.</p>
 
-<h4>Proatividade</h4>
-<p>Fui bastante proativo no projeto, pois já havia estudado Python meses antes, o que facilitou a produção das funções e me permitiu concluir minhas tarefas antes dos outros membros. Com isso, pude ajudá-los em suas dúvidas e, por estar com um entendimento mais amplo do projeto, propus ao grupo a responsabilidade de integrar os códigos de todos, garantindo uma maior coesão e organização no trabalho final.</p>
+<h4>Trabalho em Equipe: Colaboração e Alinhamento</h4>
+<p><strong>Situação:</strong> Alguns membros do time enfrentaram dificuldades técnicas e precisaram de apoio para concluir suas partes do projeto. Sem o suporte adequado, isso poderia atrasar o progresso geral e prejudicar o resultado final do projeto.</p>
+<p><strong>Como resolvi:</strong> Trabalhei com os colegas, revisando seus códigos, explicando conceitos de programação e sugerindo melhorias. Essa colaboração não apenas garantiu a conclusão das tarefas, mas também promoveu um ambiente de aprendizado mútuo dentro da equipe.</p>
 
-<h4>Trabalho em Equipe</h4>
-<p>
-Aprimorei muito minhas habilidades de trabalho em equipe ao auxiliar meus colegas sempre que tinham dúvidas, oferecendo explicações e orientações claras. Estive disponível para ajudar e garantir que todos estivessem alinhados, contribuindo para o progresso coletivo do projeto.</p>
+<h4>Habilidade de Comunicação: Interação com a Equipe para Modularização do Código</h4>
+<p><strong>Situação:</strong> Ao integrar o trabalho dos colegas, percebi que a falta de padronização nas implementações poderia dificultar o progresso e prejudicar o resultado final.</p>
+<p><strong>Como resolvi:</strong> Conversei com os colegas para alinhar a estrutura do código e expliquei como a modularização ajudaria a tornar o projeto mais claro e organizado. Por meio de uma comunicação clara, consegui garantir que todos entendessem as mudanças e colaborassem para a coesão do projeto.</p>
+
+<h4>Proatividade: Antecipação e Organização</h4>
+<p><strong>Situação:</strong> Por já ter estudado Python antes do início do projeto, concluí minhas tarefas rapidamente, incluindo o desenvolvimento do jogo "Pedra, Papel e Tesoura" e do sistema de narração de histórias. No entanto, percebi que a equipe precisava de apoio em outras áreas para avançar no mesmo ritmo.</p>
+<p><strong>Como resolvi:</strong> Me propus a integrar os códigos desenvolvidos pelos colegas, organizando-os de maneira estruturada e modular. Durante esse processo, ajudei diretamente quem estava enfrentando dificuldades, explicando conceitos e ajustando funcionalidades para que tudo se encaixasse. Essa abordagem não só garantiu a entrega de um sistema unificado, mas também promoveu o progresso coletivo, criando um ambiente de colaboração e aprendizado contínuo.</p>
 
 <hr>
 
@@ -142,6 +145,7 @@ O sistema é projetado para otimizar o processo de contratação, simplificando 
   <li><strong>Desenvolvimento das funções DAO para manipulação dos dados:</strong> Implementei classes DAO (Data Access Object) para abstrair e encapsular todas as operações de banco de dados relacionadas ao projeto. Isso incluiu a criação de métodos específicos para inserção, atualização, exclusão e recuperação de dados. A aplicação de padrões como DAO permitiu que o sistema mantivesse uma separação clara entre a lógica de negócios e a camada de acesso a dados, facilitando futuras alterações e manutenções no código.</li>
   <li><strong>Implementação das lógicas de negócio que controlam as funcionalidades dos botões:</strong> Programei a lógica por trás de cada botão na interface do usuário, garantindo que as ações desencadeadas pelos usuários fossem processadas corretamente pelo sistema. Isso envolveu a configuração de eventos de clique, validação de dados de entrada, e a execução de operações de banco de dados pertinentes. Cada funcionalidade foi cuidadosamente testada para assegurar que as operações fossem realizadas de maneira segura e eficiente, proporcionando uma experiência de usuário consistente e confiável.</li>
 </ul>
+
 <h3>Lições Aprendidas</h3>
 <h4>Introdução ao Desenvolvimento de Bancos de Dados</h4>
 <p align="justify">Este projeto foi a minha iniciação ao design e implementação de bancos de dados, usando MySQL. Aprendi sobre a estruturação de tabelas, definição de chaves primárias e estrangeiras, e a importância de criar relações eficientes entre as tabelas para otimizar consultas e manter a integridade dos dados. O conhecimento adquirido foi crucial para entender como organizar grandes volumes de informações e garantir que o sistema possa recuperar, inserir e atualizar dados de forma rápida e segura.</p>
@@ -153,18 +157,18 @@ O sistema é projetado para otimizar o processo de contratação, simplificando 
 <p align="justify">Trabalhar com Java para criar uma aplicação desktop foi uma experiência enriquecedora que ampliou minha compreensão sobre a programação orientada a objetos e o desenvolvimento de interfaces de usuário. Aprender a manipular eventos, construir interfaces responsivas e garantir uma experiência de usuário fluida e funcional mostrou-se essencial para o sucesso do projeto. A capacidade de projetar interfaces que atendem eficazmente às necessidades dos usuários finais em ambientes corporativos melhorou significativamente, resultando em um produto mais intuitivo e acessível.</p>
 
 <h3>Softs Skils</h3>
-<h4>Visão de Negócio</h4>
-<p>Como fui responsável pelo Back-End e pelo banco de dados, precisei desenvolver uma forte compreensão das regras de negócio, garantindo que elas fossem corretamente implementadas no sistema. Isso exigiu uma visão estratégica, para alinhar o desenvolvimento técnico às necessidades do projeto e assegurar que todas as funcionalidades atendessem aos requisitos da solução.</p>
 
-<h4>Resiliência</h4>
-<p>
-  Este foi um dos trabalhos mais desafiadores, pois dois membros do grupo abandonaram o projeto durante sua execução. Com isso, assumi a responsabilidade pelo Back-End e banco de dados em Java, o que me obrigou a estudar intensivamente para dominar a tecnologia e garantir a conclusão bem-sucedida do projeto.
-</p>
+<h4>Resiliência: Superação dos Desafios com a Redução da Equipe</h4>
+<p><strong>Situação:</strong> Durante o projeto, dois membros do grupo abandonaram a equipe, deixando-me como o único responsável pela camada de Back-End e pelo banco de dados. Isso tornou o trabalho significativamente mais desafiador, já que precisei lidar sozinho com toda a lógica do sistema e as integrações.</p>
+<p><strong>Como resolvi:</strong> Diante desse desafio, reorganizei minhas prioridades e dediquei horas extras ao estudo e à implementação do sistema. Busquei auxílio com professores da faculdade e de fora para resolver problemas técnicos, especialmente porque era minha primeira experiência desenvolvendo em Java. Essa resiliência permitiu que eu concluísse o Back-End com sucesso, mesmo em circunstâncias adversas.</p>
 
-<h4>Habilidade de solucionar problemas</h4>
-<p>
-Como eu era o único responsável pelo desenvolvimento do Back-End, tive que lidar com todos os problemas que surgiam durante o processo. Busquei ajuda de professores, tanto da faculdade quanto de fora, para superar os desafios de desenvolvimento, especialmente porque foi meu primeiro software desenvolvido em Java. Essa busca por soluções foi fundamental para o sucesso do projeto.</p>
+<h4>Visão de Negócio: Garantindo Funcionalidades Alinhadas ao Propósito</h4>
+<p><sotrong>Situação:</sotrong> Durante o desenvolvimento do sistema, era fundamental garantir que as funcionalidades implementadas atendessem às necessidades dos gestores de Recursos Humanos, como registro de vagas, candidatura de usuários e geração de relatórios detalhados, alinhando o sistema ao objetivo de otimizar o processo de recrutamento e seleção.</p>
+<p><strong>Como resolvi:</strong> Compreendi as necessidades estratégicas do sistema e traduzi essas demandas em lógicas de Back-End. Implementei validações para os dados inseridos pelos candidatos, criei funcionalidades para associar candidatos às vagas de forma eficiente e desenvolvi métodos para geração de relatórios detalhados no banco de dados. Essas soluções tornaram o sistema funcional, intuitivo e alinhado às expectativas dos gestores.</p>
 
+<h4>Habilidade de Solucionar Problemas: Primeira Experiência com Java e Desafios Técnicos</h4>
+<p><strong>Situação:</strong> Durante o desenvolvimento do Back-End, enfrentei vários problemas técnicos, principalmente por ser minha primeira experiência com Java. Além disso, surgiram dificuldades em implementar a conexão com o banco de dados e em configurar eventos na interface.</p>
+<p><strong>Como resolvi:</strong> Pesquisei intensivamente por soluções, tanto na documentação oficial quanto em fóruns e materiais online. Busquei ajuda de professores e colegas para entender os conceitos mais complexos e apliquei uma abordagem iterativa para testar e corrigir os problemas. Esse esforço constante para encontrar soluções foi essencial para entregar um sistema funcional e confiável.</p>
 
 <hr>
 
@@ -218,27 +222,45 @@ Como eu era o único responsável pelo desenvolvimento do Back-End, tive que lid
 </ul>
 
 <h3>Lições Aprendidas</h3>
-<ul>
-<li><strong>Desenvolvimento de Operações de CRUD:</strong> Durante a implementação de CRUD para entidades como Cliente, Vendedor e Registro, aprofundei meu entendimento do Spring Boot e JPA. Criei repositórios avançados, utilizando tanto métodos padrão quanto operações personalizadas, e adquiri uma visão mais profunda sobre modelagem de dados e a interação entre entidades no banco de dados SQL.</li>
-<li><strong>Criação de Controladores:</strong> Trabalhar com controladores em Spring Boot me ensinou a gerenciar solicitações HTTP, desde o recebimento e processamento até o envio de respostas aos usuários. Essa experiência consolidou meu entendimento sobre o fluxo de dados entre o Front-End e o Back-End, garantindo integração eficiente e comunicação clara entre as camadas da aplicação.</li>
-<li><strong>Estruturação de Repositórios e Serviços:</strong> Aprendi a organizar o código de maneira modular, separando as responsabilidades em repositórios e serviços. Essa abordagem permite abstrair a lógica de negócios e operações de banco de dados, mantendo o código limpo, reutilizável e aderente às melhores práticas.</li>
-<li><strong>Implementação do RegistroConverter:</strong> O desenvolvimento do RegistroConverter aprimorou meu domínio sobre o padrão DTO (Data Transfer Object). Aprendi a converter entidades em DTOs para transferir dados de forma eficiente e segura entre as camadas da aplicação, melhorando o desempenho e a segurança.</li>
-<li><strong>Definição de Estruturas de Dados:</strong> Ao criar modelos como Cliente, Vendedor, Produto e Registro, desenvolvi habilidades para especificar campos, tipos de dados e aplicar anotações de validação, definindo a base estrutural da aplicação.</li>
-<li><strong>Mapeamento Objeto-Relacional (ORM):</strong> Com a utilização do JPA, aprendi a mapear propriedades de classes Java para colunas de banco de dados, entendendo como as operações realizadas em objetos Java se traduzem em comandos SQL.</li>
-<li><strong>Relacionamentos entre Entidades:</strong> Tornei-me proficiente em definir e gerenciar relações um-para-muitos e muitos-para-um entre entidades, representando conexões lógicas e regras de negócio de maneira eficaz.</li>
-<li><strong>Análise e Design de Entidades:</strong> Adquiri experiência em traduzir requisitos de negócios em um design de banco de dados eficiente, considerando aspectos como chaves primárias, restrições e relações entre tabelas para garantir um modelo robusto.</li> 
-</ul>
+
+<h4>Desenvolvimento de Operações de CRUD</h4>
+<p>Durante a implementação de CRUD para entidades como Cliente, Vendedor e Registro, aprofundei meu entendimento do Spring Boot e JPA. Criei repositórios avançados, utilizando tanto métodos padrão quanto operações personalizadas, e adquiri uma visão mais profunda sobre modelagem de dados e a interação entre entidades no banco de dados SQL.</p>
+
+<h4>Criação de Controladores</h4>
+<p>Trabalhar com controladores em Spring Boot me ensinou a gerenciar solicitações HTTP, desde o recebimento e processamento até o envio de respostas aos usuários. Essa experiência consolidou meu entendimento sobre o fluxo de dados entre o Front-End e o Back-End, garantindo integração eficiente e comunicação clara entre as camadas da aplicação.</p>
+
+<h4>Estruturação de Repositórios e Serviços</h4>
+<p>Aprendi a organizar o código de maneira modular, separando as responsabilidades em repositórios e serviços. Essa abordagem permite abstrair a lógica de negócios e operações de banco de dados, mantendo o código limpo, reutilizável e aderente às melhores práticas.</p>
+
+<h4>Implementação do RegistroConverter</h4>
+<p>O desenvolvimento do RegistroConverter aprimorou meu domínio sobre o padrão DTO (Data Transfer Object). Aprendi a converter entidades em DTOs para transferir dados de forma eficiente e segura entre as camadas da aplicação, melhorando o desempenho e a segurança.</p>
+
+<h4>Definição de Estruturas de Dados</h4>
+<p>Ao criar modelos como Cliente, Vendedor, Produto e Registro, desenvolvi habilidades para especificar campos, tipos de dados e aplicar anotações de validação, definindo a base estrutural da aplicação.</p>
+
+<h4>Mapeamento Objeto-Relacional (ORM)</h4>
+<p>Com a utilização do JPA, aprendi a mapear propriedades de classes Java para colunas de banco de dados, entendendo como as operações realizadas em objetos Java se traduzem em comandos SQL.</p>
+
+<h4>Relacionamentos entre Entidades</h4>
+<p>Tornei-me proficiente em definir e gerenciar relações um-para-muitos e muitos-para-um entre entidades, representando conexões lógicas e regras de negócio de maneira eficaz.</p>
+
+<h4>Análise e Design de Entidades</h4>
+<p>Adquiri experiência em traduzir requisitos de negócios em um design de banco de dados eficiente, considerando aspectos como chaves primárias, restrições e relações entre tabelas para garantir um modelo robusto.</p>
+
 
 <h3>Softs Skils</h3>
 
-<h4>Solucionar Problemas</h4>
-<p> Como responsável pelo Back-End, enfrentei o desafio de trabalhar com arquiteturas REST pela primeira vez, saindo da familiar arquitetura DAO. Além disso, estávamos aprendendo Spring Boot, o que tornou o processo ainda mais desafiador. Ao longo das sprints, surgiram muitos problemas que precisei solucionar, o que exigiu um grande esforço de aprendizado e adaptação. Contei com o apoio dos professores, especialmente do professor Nadatelle, que sempre esteve disponível para esclarecer minhas dúvidas em questões específicas, o que foi fundamental para superar essas dificuldades.</p>
+<h4>Adaptabilidade: Adaptação Rápida a Novas Tecnologias e Arquiteturas</h4>
+<p><strong>Situação:</strong> O projeto exigia a transição de uma arquitetura familiar, baseada em DAO, para REST com Spring Boot. Essa mudança foi desafiadora, pois precisei aprender a trabalhar com novas tecnologias enquanto desenvolvia o sistema.</p>
+<p><strong>Como resolvi:</strong> Adaptei-me à nova abordagem, estudando as diferenças entre as arquiteturas e aplicando o que aprendia diretamente no projeto. Organizei meu tempo para equilibrar o aprendizado com o desenvolvimento, priorizando funcionalidades críticas como os controladores e repositories. Essa adaptabilidade garantiu que eu conseguisse implementar todas as funcionalidades esperadas dentro do prazo.</p>
 
-<h4>Adaptabilidade</h4>
-<p>Tive que me adaptar rapidamente à nova tecnologia de REST e à mudança de arquitetura, saindo de DAO para Spring Boot. Esse ajuste foi essencial para que eu pudesse entregar o projeto com sucesso, mesmo enfrentando desafios técnicos e aprendendo conforme o desenvolvimento avançava.</p>
+<h4>Solucionar Problemas: Aprendizado e Adaptação com Spring Boot e REST</h4>
+<p><strong>Situação:</strong> Durante o desenvolvimento do projeto, tive que lidar com a mudança para a arquitetura REST usando Spring Boot, que era nova para mim. Além disso, surgiram problemas complexos ao implementar operações de CRUD e integração com o banco de dados.</p>
+<p><strong>Como resolvi:</strong> Me dediquei a estudar Spring Boot e RESTful APIs, utilizando recursos como documentação oficial, tutoriais online e apoio do professor Nadatelle para superar dificuldades específicas. Resolvi problemas de integração e refatoração de código iterativamente, garantindo que cada funcionalidade fosse implementada corretamente. Esse esforço contínuo foi essencial para entregar um Back-End robusto e funcional.</p>
 
-<h4>Comunicação</h4>
-<p>Foi essencial desenvolver uma comunicação clara e expressiva ao entrar em um grupo novo. O desafio foi entender rapidamente a maneira como eles trabalhavam e se comunicavam, adaptando minha forma de interagir para garantir que conseguíssemos colaborar de maneira eficaz e concluir o projeto com sucesso.</p>
+<h4>Comunicação: Integração em um Novo Grupo</h4>
+<p><strong>Situação:</strong> Ao ingressar em um novo grupo para desenvolver o projeto, foi um desafio entender rapidamente como eles se organizavam e comunicavam. A falta de integração poderia comprometer a colaboração e o andamento das tarefas.</p>
+<p><strong>Como resolvi:</strong> Desenvolvi uma comunicação clara, fazendo perguntas para entender os processos do grupo e garantindo que minhas contribuições fossem bem alinhadas às expectativas. Mantive contato constante com os colegas, adaptando minha forma de interação para fortalecer o trabalho em equipe e garantir que as entregas fossem concluídas com sucesso.</p>
 
 <hr>
 
@@ -293,24 +315,32 @@ Como eu era o único responsável pelo desenvolvimento do Back-End, tive que lid
     <li><strong>Modelagem do Banco de Dados e Criação de Scripts de Geração das Tabelas:</strong> Projetei a estrutura do banco de dados usando práticas de modelagem normalizada para garantir a eficiência e a integridade dos dados. Escrevi scripts SQL para a criação de tabelas, relacionamentos e procedimentos armazenados, que foram fundamentais para a operação correta do sistema. Minha contribuição assegurou que o banco de dados fosse robusto, seguro e otimizado para consultas de alta performance.</li>
 </ul>
 
-<h3>Lições Aprendidas</h3>
-<ul>
-    <li><strong>Modelagem de Banco de Dados Normalizado:</strong> Durante o projeto, aprimorei significativamente meus conhecimentos em modelagem de banco de dados. Aprendi a importância e as técnicas de normalização para otimizar a eficiência e escalabilidade do sistema. Isso envolveu entender como evitar redundâncias e como garantir a integridade dos dados através do estabelecimento de chaves estrangeiras, relações e índices adequados. Esse processo foi crucial para manter o desempenho do sistema em alto nível, especialmente em operações que exigem acesso intensivo ao banco de dados.</li>
-    <li><strong>Integração com Múltiplos Repositórios e Front-End:</strong> Adquiri experiência prática em trabalhar com múltiplos repositórios de dados e na integração destes com o Front-End do sistema. Configurei e gerenciei interações entre diferentes fontes de dados e o Front-End, permitindo um fluxo mais fluido e eficaz de informações através das camadas do sistema. Essa habilidade foi essencial para criar uma aplicação robusta e modular, que se adapta facilmente a novas exigências e integrações futuras.</li>
-    <li><strong>Desenvolvimento de Módulos em Vue.js:</strong> Durante o projeto, desenvolvi a habilidade de criar e gerenciar módulos no framework Vue.js, o que me permitiu construir interfaces de usuário dinâmicas. Aprendi a estruturar o código de forma modular, o que facilita a manutenção e a escalabilidade da aplicação, além de permitir a reutilização de componentes em diferentes partes do projeto sem redundâncias.</li>
-</ul>
 
+<h3>Lições Aprendidas</h3>
+
+<h4>Modelagem de Banco de Dados Normalizado</h4>
+<p>Durante o projeto, aprimorei significativamente meus conhecimentos em modelagem de banco de dados. Aprendi a importância e as técnicas de normalização para otimizar a eficiência e escalabilidade do sistema. Isso envolveu entender como evitar redundâncias e como garantir a integridade dos dados através do estabelecimento de chaves estrangeiras, relações e índices adequados. Esse processo foi crucial para manter o desempenho do sistema em alto nível, especialmente em operações que exigem acesso intensivo ao banco de dados.</p>
+
+<h4>Integração com Múltiplos Repositórios e Front-End</h4>
+<p>Adquiri experiência prática em trabalhar com múltiplos repositórios de dados e na integração destes com o Front-End do sistema. Configurei e gerenciei interações entre diferentes fontes de dados e o Front-End, permitindo um fluxo mais fluido e eficaz de informações através das camadas do sistema. Essa habilidade foi essencial para criar uma aplicação robusta e modular, que se adapta facilmente a novas exigências e integrações futuras.</p>
+
+<h4>Desenvolvimento de Módulos em Vue.js</h4>
+<p>Durante o projeto, desenvolvi a habilidade de criar e gerenciar módulos no framework Vue.js, o que me permitiu construir interfaces de usuário dinâmicas. Aprendi a estruturar o código de forma modular, o que facilita a manutenção e a escalabilidade da aplicação, além de permitir a reutilização de componentes em diferentes partes do projeto sem redundâncias.</p>
 
 
 <h3>Softs Skils</h3>
-<h4>Comunicação Assertiva</h4>
-<p>Como Scrum Master, desenvolvi e pratiquei uma comunicação assertiva para lidar eficazmente com os problemas que surgiam ao longo das sprints. Essa habilidade foi essencial para facilitar o diálogo com os membros da equipe, garantindo que todos estivessem alinhados e permitindo a identificação das melhores soluções para as situações enfrentadas.</p>
 
-<h4>Empatia</h4>
-<p>Como Scrum Master, a empatia foi uma habilidade fundamental para compreender o que os membros da equipe estavam enfrentando. Com essa visão, pude apoiar cada um de acordo com suas necessidades, ajustando o ritmo de trabalho e criando um ambiente mais colaborativo e compreensivo, o que contribuiu para o sucesso do time e para a resolução dos desafios de forma mais humana.</p>
+<h4>Comunicação Assertiva: Alinhamento e Resolução de Problemas Durante as Sprints</h4>
+<p><strong>Situação:</strong> Durante as sprints, surgiram problemas que poderiam impactar o progresso do projeto, como mal-entendidos sobre as tarefas ou dificuldades técnicas enfrentadas pelos membros da equipe.</p>
+<p><strong>Como resolvi:</strong> Como Scrum Master, utilizei uma comunicação clara para facilitar o diálogo entre os membros, garantindo que todos entendessem suas responsabilidades e os objetivos da sprint. Conduzi reuniões para identificar os bloqueios e propus soluções práticas, assegurando que a equipe estivesse alinhada e motivada para atingir as metas planejadas.</p>
 
-<h4>Gerenciamento de tempo</h4>
-<p>Como Scrum Master, o gerenciamento de tempo foi crucial para o sucesso do projeto. Tive que organizar as tarefas de forma eficiente, quebrando-as em pequenas tasks para facilitar o acompanhamento e garantir que os prazos fossem cumpridos. Esse planejamento permitiu monitorar o progresso da equipe de maneira mais eficaz e assegurar que as entregas estivessem alinhadas com o cronograma das sprints.</p>
+<h4>Empatia: Apoio aos Membros da Equipe</h4>
+<p><strong>Situação:</strong> Alguns membros da equipe enfrentaram desafios pessoais e técnicos que poderiam comprometer o desempenho coletivo e individual durante o projeto.</p>
+<p><strong>Como resolvi:</strong> Demonstrei empatia ao ouvir as dificuldades de cada membro e entender suas necessidades. Ajustei o ritmo das tarefas para acomodar os desafios enfrentados, redistribuí responsabilidades quando necessário e criei um ambiente colaborativo onde todos se sentiam apoiados. Essa abordagem contribuiu para um trabalho produtivo.</p>
+ 
+<h4>Gerenciamento de Tempo: Organização das Sprints e Acompanhamento do Progresso</h4>
+<p><strong>Situação:</strong> Como Scrum Master, era necessário garantir que todas as tarefas fossem concluídas dentro dos prazos estabelecidos, sem comprometer a qualidade das entregas.</p>
+<p><strong>Como resolvi:</strong> Planejei as sprints, dividindo as metas em tarefas menores e rastreáveis. Acompanhei o progresso da equipe através de reuniões semanais e com GitHub Project, ajustando prioridades quando necessário para evitar atrasos. Esse gerenciamento do tempo garantiu que o projeto fosse entregue de forma organizada e dentro do cronograma.</p>
 
 <hr>
 
@@ -366,18 +396,32 @@ Como eu era o único responsável pelo desenvolvimento do Back-End, tive que lid
     <li><strong>Criação e Gerenciamento de um Data Lake:</strong> Projetei e implementei um data lake para armazenar e organizar grandes volumes de dados de forma estruturada. O data lake foi essencial para suportar a integração e processamento dos dados de diversas fontes, garantindo que todos os dados estivessem disponíveis para consultas e análises detalhadas.</li>
 </ul>
 
+
 <h3>Lições Aprendidas</h3>
-<ul>
-    <li><strong>Modelo Estrela:</strong> Aprendi a aplicar o modelo estrela, uma técnica crucial na organização de dados para análises OLAP (Online Analytical Processing). Essa modelagem facilitou a criação de relatórios e dashboards, permitindo uma visão detalhada e eficiente dos dados de consumo.</li>
-    <li><strong>Automatização do ETL:</strong> Desenvolvi habilidades avançadas em automação de processos de ETL, incluindo a criação de rotinas para a atualização contínua dos dados. Essa experiência foi essencial para garantir a integridade dos dados e a eficiência no processamento de novas informações conforme elas eram inseridas no sistema.</li>
-    <li><strong>Criação e Gerenciamento de Data Lake:</strong> O trabalho com data lakes me proporcionou uma compreensão profunda sobre como armazenar e organizar grandes volumes de dados de maneira estruturada, permitindo um acesso eficiente e uma integração fluida com sistemas de análise de dados.</li>
+
+<h4>>Modelo Estrela</h4>
+<p>Aprendi a aplicar o modelo estrela, uma técnica crucial na organização de dados para análises OLAP (Online Analytical Processing). Essa modelagem facilitou a criação de relatórios e dashboards, permitindo uma visão detalhada e eficiente dos dados de consumo.</p>
+
+<h4>Automatização do ETL</h4>
+<p>Desenvolvi habilidades avançadas em automação de processos de ETL, incluindo a criação de rotinas para a atualização contínua dos dados. Essa experiência foi essencial para garantir a integridade dos dados e a eficiência no processamento de novas informações conforme elas eram inseridas no sistema.</p>
+
+<h4>Criação e Gerenciamento de Data Lake</h4>
+<p>O trabalho com data lakes me proporcionou uma compreensão profunda sobre como armazenar e organizar grandes volumes de dados de maneira estruturada, permitindo um acesso eficiente e uma integração fluida com sistemas de análise de dados.</p>
+
 
 <h3>Softs Skils</h3>
 
-<li><strong>Resolução de problemas:</strong> Como fui responsável por todo o processo de ETL no projeto, essa habilidade foi crucial, já que a base de dados estava cheia de inconsistências e problemas. Tive que limpar os dados, corrigir erros e organizá-los em um modelo estrela, o que foi extremamente trabalhoso. Além disso, depois de toda essa preparação, precisei inserir os dados no banco de dados relacional, garantindo a consistência e a integridade das informações. Esse processo exigiu muita paciência e criatividade para superar os desafios e garantir que os dados estivessem prontos para análise.</li>
+<h4>Resolução de Problemas: Limpeza e Organização de Dados para o Processo ETL</h4>
+<p><strong>Situação:</strong> O banco de dados inicial estava cheio de inconsistências e problemas nos arquivos CSV, o que dificultava a organização e análise dos dados de consumo. Era necessário tratar e transformar essas informações antes de carregá-las no sistema.</p>
+<p><strong>Como resolvi:</strong> Desenvolvi um pipeline de ETL utilizando Python e Pandas, com rotinas específicas para limpar, corrigir e validar os dados. Estruturei as informações em um modelo estrela no banco de dados relacional, garantindo que todas as inconsistências fossem resolvidas e que os dados estivessem prontos para análises precisas. Esse trabalho exigiu criatividade e paciência para superar os desafios técnicos e assegurar a integridade das informações.</p>
 
-<li><strong>Trabalho em equipe e colaboração:</strong> No projeto, trabalhei em conjunto com colegas e parceiros, integrando o Front-End e Back-End ao meu processo de ETL. Colaborei com a equipe de Front-End para garantir a exibição correta dos dados no dashboard e com o time de Back-End para organizar o banco de dados de forma eficiente. Essa integração foi essencial para o sucesso do sistema, garantindo que todas as partes funcionassem de forma eficaz e integrada.</li>
-</ul>
+<h4>Trabalho em Equipe: Integração entre Front-End, Back-End e ETL</h4>
+<p><strong>Situação:</strong> A integração entre o Front-End, Back-End e o processo de ETL era essencial para garantir que os dados fossem exibidos corretamente no dashboard e que as operações do sistema fossem realizadas de forma eficiente.</p>
+<p><strong>Como resolvi:</strong> Colaborei com a equipe de Front-End para alinhar como os dados seriam apresentados no dashboard e com o time de Back-End para organizar o banco de dados de maneira otimizada. Realizamos reuniões regulares para alinhar expectativas e validar as implementações, garantindo que todos os sistemas funcionassem de forma integrada.</p>
+
+<h4>Organização: Implementação de Atualizações Contínuas para o ETL</h4>
+<p><strong>Situação:</strong> Após a carga inicial de dados no sistema, era necessário garantir que novos dados inseridos pelos usuários fossem processados automaticamente, mantendo o banco de dados atualizado para análises em tempo real.</p>
+<p><strong>Como resolvi:</strong> Desenvolvi uma rotina automatizada que integrava o upload de arquivos CSV na interface web com a execução do pipeline de ETL. Esse processo permitiu que os dados fossem transformados e carregados automaticamente no banco de dados. Essa solução garantiu que o sistema estivesse sempre atualizado, otimizando a experiência do usuário e a eficiência operacional.</p>
 
 <hr>
 
@@ -429,13 +473,26 @@ Como eu era o único responsável pelo desenvolvimento do Back-End, tive que lid
 <li><strong>Implementação de Funcionalidades da LGPD:</strong> Desenvolvi as funcionalidades relacionadas à conformidade com a LGPD, incluindo termos de aceite, transparência sobre o uso de dados pessoais e notificações automatizadas em caso de vazamento de dados, garantindo alinhamento com as exigências legais.</li>
 <li><strong>Integração e Unificação de Dados:</strong> Unifiquei dados no formato CSV para consumo por IAs, permitindo que os dados fossem processados, remontados em formato JSON e inseridos no sistema por meio de uma rota de API dedicada à inserção, com foco nos dados relacionados aos Cedentes.</li> </ul>
 
+
 <h3>Lições Aprendidas</h3>
-<ul>
-<li><strong>Implementação da LGPD:</strong> Aprofundei meu entendimento sobre a Lei Geral de Proteção de Dados (LGPD), compreendendo seus princípios fundamentais, como a necessidade de consentimento explícito, a finalidade do uso de dados e a transparência com os titulares. No projeto, implementei funcionalidades que garantem conformidade com a legislação, como a criação de termos de aceite para o tratamento de dados, ferramentas para disponibilizar informações claras sobre o uso de dados pessoais, e notificações automatizadas para casos de vazamentos de informações sensíveis. Essa experiência me proporcionou uma visão prática sobre como alinhar tecnologia e governança de dados às exigências legais.</li>
-<li><strong>Bancos de Dados NoSQL:</strong> Adquiri conhecimento prático sobre bancos de dados NoSQL, especialmente o MongoDB, observando sua eficiência na velocidade de inserção e consulta de grandes volumes de dados.</li> </ul>
+
+<h4>Implementação da LGPD</h4>
+<p>Aprofundei meu entendimento sobre a Lei Geral de Proteção de Dados (LGPD), compreendendo seus princípios fundamentais, como a necessidade de consentimento explícito, a finalidade do uso de dados e a transparência com os titulares. No projeto, implementei funcionalidades que garantem conformidade com a legislação, como a criação de termos de aceite para o tratamento de dados, ferramentas para disponibilizar informações claras sobre o uso de dados pessoais, e notificações automatizadas para casos de vazamentos de informações sensíveis. Essa experiência me proporcionou uma visão prática sobre como alinhar tecnologia e governança de dados às exigências legais.</p>
+
+<h4>Bancos de Dados NoSQL</h4>
+<p>Adquiri conhecimento prático sobre bancos de dados NoSQL, especialmente o MongoDB, observando sua eficiência na velocidade de inserção e consulta de grandes volumes de dados.</p>
+
 
 <h3>Soft Skills Desenvolvidas</h3>
-<ul>
-<li><strong>Empatia:</strong> Durante o projeto, mostrei empatia ao colaborar com diferentes membros da equipe, compreendendo suas perspectivas e desafios. Facilitei a comunicação entre Front-End e Back-End, garantindo que as soluções atendiam às necessidades de todos os envolvidos e do sistema como um todo.</li>
-<li><strong>Atenção aos Detalhes:</strong> A conformidade com a LGPD e a manipulação de grandes volumes de dados exigiram foco intenso nos detalhes. Esse cuidado foi essencial para garantir a precisão das implementações e a consistência das informações inseridas no sistema.</li>
-<li><strong>Habilidade de Comunicação:</strong> Como Scrum Master, fui responsável por conduzir reuniões de equipe, alinhar objetivos e garantir a troca clara e eficaz de informações. Além disso, expliquei soluções técnicas de maneira acessível para diferentes membros da equipe, contribuindo para a integração e sucesso do projeto.</li> </ul>
+
+<h4>Empatia: Mediação entre Equipes e Alinhamento das Necessidades</h4>
+<p><strong>Situação:</strong> Durante o desenvolvimento, surgiram divergências entre as equipes de Front-End e Back-End em relação à forma como os dados seriam estruturados e consumidos pelas APIs, o que poderia comprometer a funcionalidade e o prazo do projeto.</p>
+<p><strong>Como resolvi:</strong> Como Scrum Master, atuei como mediador, ouvindo as preocupações de ambas as equipes e identificando os pontos críticos. Facilitei reuniões para alinhar as expectativas e propus ajustes que equilibrassem as necessidades técnicas e funcionais. Com isso, garanti que as soluções fossem integradas de forma eficiente, atendendo às necessidades do sistema e promovendo um ambiente colaborativo.</p>
+
+<h4>Atenção aos Detalhes: Implementação da Conformidade com a LGPD</h4>
+<p><strong>Situação:</strong> A implementação das funcionalidades relacionadas à LGPD exigia um alto nível de atenção aos detalhes, especialmente para garantir conformidade com os requisitos legais, como a criação de termos de aceite e notificações de vazamento de dados.</p>
+<p><strong>Como resolvi:</strong> Desenvolvi funcionalidades para tratar dados pessoais, criando termos de aceite claros e um sistema automatizado de notificações em caso de incidentes. Validei minuciosamente as implementações para garantir a precisão na manipulação dos dados, evitando falhas e assegurando a conformidade legal. Esse cuidado foi essencial para manter a confiança e a segurança do sistema.</p>
+
+<h4>Habilidade de Comunicação: Liderança no Gerenciamento Ágil</h4>
+<p><strong>Situação:</strong> Como Scrum Master, era necessário conduzir o time em um projeto complexo envolvendo IA, garantindo que todos os membros estivessem alinhados e que as entregas fossem realizadas de forma integrada e dentro dos prazos.</p>
+<p><strong>Como resolvi:</strong> Conduzi reuniões semanais, planejamento de sprints, sempre garantindo um diálogo claro e objetivo. Expliquei soluções técnicas de forma acessível para todos os membros, facilitando o entendimento e promovendo o alinhamento entre as equipes.</p>
