@@ -65,8 +65,10 @@ https://github.com/user-attachments/assets/7a8e2f35-c652-4f09-9dcc-729561692638
 <p align="justify">Durante o desenvolvimento deste projeto, assumi responsabilidades críticas no desenvolvimento de funcionalidades interativas e na estruturação do código, aplicando técnicas avançadas de programação e princípios de design de software:</p>
 <ul>
     <li><strong>Desenvolvimento do Jogo 'Pedra, Papel e Tesoura':</strong> Fui responsável pela programação completa do jogo 'Pedra, Papel e Tesoura', uma funcionalidade destinada a oferecer entretenimento educativo para crianças. Utilizando Python, criei a lógica de jogo que inclui a geração de jogadas do computador, a avaliação de resultados e a interação com o usuário através de comandos de voz. Este jogo promove o raciocínio lógico e a aprendizagem de padrões simples de decisão.</li>
+  
     <li><strong>Implementação de Narração de Histórias:</strong> Programei um sistema de narração de histórias que utiliza a síntese de voz para contar histórias infantis de maneira envolvente e interativa. Este módulo foi desenvolvido com o auxílio de bibliotecas de TTS (text-to-speech), permitindo que histórias pré-definidas sejam narradas de forma clara e acessível, melhorando a experiência auditiva das crianças e incentivando o gosto pela literatura desde cedo.</li>
-    <li><strong>Integração de Funcionalidades no Assistente Virtual:</strong> Coordenei a integração de diversas funcionalidades no assistente virtual, garantindo uma navegação fluida e intuitiva. Este trabalho envolveu a criação de uma interface de usuário unificada e a implementação de lógicas de interação que facilitam o acesso a jogos, contação de histórias, tradução de línguas, entre outros, dentro de um único ambiente. A modularização do código foi essencial para manter a organização e permitir a expansão futura do sistema.</li>
+    
+    <li><strong>Integração de Funcionalidades na Assistente Virtual:</strong> Coordenei a integração de diversas funcionalidades no assistente virtual, garantindo uma navegação fluida e intuitiva. Este trabalho envolveu a criação de uma interface de usuário unificada e a implementação de lógicas de interação que facilitam o acesso a jogos, contação de histórias, tradução de línguas, entre outros, dentro de um único ambiente. A modularização do código foi essencial para manter a organização e permitir a expansão futura do sistema.</li>
 </ul>
 <h3>Lições Aprendidas</h3>
 <h4>Desenvolvimento de Operações com Comandos de Voz</h4>
@@ -95,7 +97,7 @@ https://github.com/user-attachments/assets/7a8e2f35-c652-4f09-9dcc-729561692638
 <hr>
 
 
-<h2>Aplicação PRO4TECH RH</h2>
+<h2>PRO4TECH RH</h2>
 <h4>2º Semestre • 2022 </h4>
 <p align="justify">Parceiro Acadêmico: <a href="https://www.pro4tech.com.br/">Pro4Tech</a> <a href="https://github.com/OsReservas/Project-RH">Repositório</a></p>
 
@@ -143,7 +145,7 @@ O sistema é projetado para otimizar o processo de contratação, simplificando 
 <ul>
   <li><strong>Criação e estruturação do banco de dados MySQL:</strong> Fui responsável por definir a arquitetura inicial do banco de dados, incluindo a criação de tabelas e o estabelecimento de relações entre elas. Esse processo envolveu a análise cuidadosa dos requisitos do sistema para garantir que o banco de dados fosse capaz de armazenar e processar eficientemente todos os dados necessários, com especial atenção à integridade dos dados e ao desempenho das consultas.</li>
   <li><strong>Desenvolvimento das funções DAO para manipulação dos dados:</strong> Implementei classes DAO (Data Access Object) para abstrair e encapsular todas as operações de banco de dados relacionadas ao projeto. Isso incluiu a criação de métodos específicos para inserção, atualização, exclusão e recuperação de dados. A aplicação de padrões como DAO permitiu que o sistema mantivesse uma separação clara entre a lógica de negócios e a camada de acesso a dados, facilitando futuras alterações e manutenções no código.</li>
-  <li><strong>Implementação das lógicas de negócio que controlam as funcionalidades dos botões:</strong> Programei a lógica por trás de cada botão na interface do usuário, garantindo que as ações desencadeadas pelos usuários fossem processadas corretamente pelo sistema. Isso envolveu a configuração de eventos de clique, validação de dados de entrada, e a execução de operações de banco de dados pertinentes. Cada funcionalidade foi cuidadosamente testada para assegurar que as operações fossem realizadas de maneira segura e eficiente, proporcionando uma experiência de usuário consistente e confiável.</li>
+  <li><strong>Implementação das lógicas de negócio que controlam as funcionalidades das telas:</strong> Programei a lógica por trás de cada botão na interface do usuário, garantindo que as ações desencadeadas pelos usuários fossem processadas corretamente pelo sistema. Isso envolveu a configuração de eventos de clique, validação de dados de entrada, e a execução de operações de banco de dados pertinentes. Cada funcionalidade foi cuidadosamente testada para assegurar que as operações fossem realizadas de maneira segura e eficiente, proporcionando uma experiência de usuário consistente e confiável.</li>
 </ul>
 
 <h3>Lições Aprendidas</h3>
