@@ -4,6 +4,11 @@
   como requisito parcial para a obtenção do título de Tecnólogo em Banco de Dados.</p>
 
 <h2>Sobre mim</h2>
+
+<p align="center"><img src="https://github.com/user-attachments/assets/4f15865f-8aa9-4de4-817e-1c88a0193b38" width="30%"></p>
+
+<p align="center">• <a href="https://www.linkedin.com/in/marcelo-silva7/">LinkedIn</a> • <a href="https://github.com/marcelosilva7">GitHub</a> •</p>
+
 <p align="justify">Graduado em Administração de Empresas pelo Centro Universitário ETEP e matriculado no 6º semestre do curso tecnólogo em Banco de Dados pela Faculdade de 
 Tecnologia de São José dos Campos.</p>
 <p>
@@ -16,7 +21,7 @@ Tecnologia de São José dos Campos.</p>
     Na Farma Conde, comecei como auxiliar de arquivo e, ao longo do tempo, passei pelos setores legal, contábil e cadastro, até chegar ao setor fiscal, onde permaneci por um ano e meio. Durante esse período, iniciei a faculdade na FATEC, onde descobri minha verdadeira vocação. Após seis meses conciliando trabalho e estudos, decidi pedir demissão para me dedicar integralmente à faculdade e buscar um estágio na área que eu realmente gostava. Seis meses depois, consegui um estágio como desenvolvedor no Sicoob Cressem.
 </p>
 <p align="justify">Atualmente sou Desenvolvedor Full Stack Jr no Sicoob Cressem. Responsável pela criação e administração de um sistema Web integrado ao Active Directory, utilizado por cerca de 80 usuários diários, gerando uma média de 8.000 requisições REST por dia. Administro um banco de dados com mais de 100 tabelas, garantindo a integridade dos dados, realizando backups regulares, e implementando junções e processos automáticos. Além disso, sou responsável pelos processos diários de ETL, desenvolvo backups automáticos de arquivos e programas executáveis em Python, e atuo na automação de processos com RPA utilizando Python.</p>
-<p align="center">• <a href="https://www.linkedin.com/in/marcelo-silva7/">LinkedIn</a> • <a href="https://github.com/marcelosilva7">GitHub</a> •</p>
+
 <hr>
 
 
@@ -174,7 +179,7 @@ O sistema é projetado para otimizar o processo de contratação, simplificando 
 
 <hr>
 
-<h2>Sistema de Predição de Vendas</h2>
+<h2>Rock Planing</h2>
 <h4>3º Semestre • 2023 </h4>
 <p align="justify">Parceiro Acadêmico: <a href="https://www.domrock.net/#:~:text=A%20otimiza%C3%A7%C3%A3o%20do%20portf%C3%B3lio%20e%20da">Dom Rock</a> <a href="https://github.com/B1nary-Devs/DOM-ROCK">Repositório</a></p>
 
@@ -427,7 +432,7 @@ O sistema é projetado para otimizar o processo de contratação, simplificando 
 
 <hr>
 
-<h2>Sistema de gerenciamento SPC</h2>
+<h2>B1nary Credi</h2>
 <h4>6º Semestre • 2024</h4>
 <p align="justify">Parceiro Acadêmico: <a href="https://spcgrafeno.com.br">SPC Grafeno</a> <a href="https://github.com/B1nary-Devs/SPC-Grafeno">Repositório</a></p>
 
