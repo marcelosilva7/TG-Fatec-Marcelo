@@ -9,7 +9,7 @@
 
 <p align="center">• <a href="https://www.linkedin.com/in/marcelo-silva7/">LinkedIn</a> • <a href="https://github.com/marcelosilva7">GitHub</a> •</p>
 
-<p align="justify">Graduado em Administração de Empresas pelo Centro Universitário ETEP e matriculado no 6º semestre do curso tecnólogo em Banco de Dados pela Faculdade de 
+<p align="justify">Graduado em Administração de Empresas pelo Centro Universitário ETEP e recém formado do curso tecnólogo em Banco de Dados pela Faculdade de 
 Tecnologia de São José dos Campos.</p>
 <p>
     Iniciei minha carreira profissional no atendimento do Paço Municipal de São José dos Campos, onde atuava como atendente e era responsável por abrir processos administrativos. Após um ano nessa função, solicitei transferência de área e fui designado ao Banco do Povo Paulista, onde passei a realizar todo o processo de concessão de empréstimos para os clientes. Obtive bons resultados, mas, após um ano, infelizmente meu contrato chegou ao fim.
